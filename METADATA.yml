@@ -1,0 +1,38 @@
+
+schema: >-
+  https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
+title: gt_structure_1_2_2
+url: https://github.com/tboenig/gt_structure_1_2_2
+authors:
+  - name: Boenig
+    surname: Matthias
+    roles:
+      - transcriber
+      - aligner
+      - project-manager
+      - quality-control
+      - digitization
+      - support
+description: OCR-D Struktur-Ground Truth
+project-name: OCR-D
+project-website: https://ocr-d.de/
+language:
+  - deu
+script:
+  - Latn
+  - Goth
+script-type: print
+time:
+  notBefore: '1600'
+  notAfter: '1900'
+hands:
+  count: unknown
+  level: levelmix
+license:
+  - name: CC0 1.0
+    url: https://creativecommons.org/licenses/zero/1.0/
+gtTyp: data_structure
+format: Page-XML
+transcription-guidelines: >-
+  OCR-D-GT-Guideline, Part: Structur Ground Truth
+  https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html
