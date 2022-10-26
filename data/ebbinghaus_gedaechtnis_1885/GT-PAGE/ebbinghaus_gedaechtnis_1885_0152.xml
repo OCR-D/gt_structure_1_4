@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:10:56</Created>
+	<LastChange>2019-02-26T13:25:53</LastChange></Metadata>
+	<Page imageFilename="ebbinghaus_gedaechtnis_1885_0152.jpg" imageWidth="1967" imageHeight="2761" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level2" type="heading">
+	<Coords points="623,446 1718,446 1718,578 623,578"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TableRegion id="region_2">
+	<Coords points="590,930 1785,930 1785,1682 590,1682"/></TableRegion>
+	<TableRegion id="region_3">
+	<Coords points="580,1806 1776,1806 1776,2412 580,2412"/></TableRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1234,431 1234,372 1148,372 1148,431"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1782,575 1782,767 1722,767 1722,766 1601,766 1601,765 1480,765 1480,764 1359,764 1359,763 1238,763 1238,762 1117,762 1117,761 996,761 996,760 875,760 875,759 754,759 754,758 633,758 633,757 572,757 572,575"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="632,759 632,760 753,760 753,761 874,761 874,762 995,762 995,763 1116,763 1116,764 1237,764 1237,765 1358,765 1358,766 1479,766 1479,767 1600,767 1600,768 1721,768 1721,769 1782,769 1782,881 1747,881 1747,880 1676,880 1676,879 1605,879 1605,878 1533,878 1533,877 1462,877 1462,876 1391,876 1391,875 1320,875 1320,874 1249,874 1249,873 1178,873 1178,872 1106,872 1106,871 1035,871 1035,870 964,870 964,869 893,869 893,868 822,868 822,867 750,867 750,866 679,866 679,865 608,865 608,864 572,864 572,759"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="607,866 607,867 678,867 678,868 749,868 749,869 821,869 821,870 892,870 892,871 963,871 963,872 1034,872 1034,873 1105,873 1105,874 1177,874 1177,875 1248,875 1248,876 1319,876 1319,877 1390,877 1390,878 1461,878 1461,879 1532,879 1532,880 1604,880 1604,881 1675,881 1675,882 1746,882 1746,883 1782,883 1782,924 572,924 572,866"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="1775,1693 1775,1747 1746,1747 1746,1746 1687,1746 1687,1745 1627,1745 1627,1744 1568,1744 1568,1743 1509,1743 1509,1742 1450,1742 1450,1741 1390,1741 1390,1740 1331,1740 1331,1739 1272,1739 1272,1738 1213,1738 1213,1737 1154,1737 1154,1736 1094,1736 1094,1735 1035,1735 1035,1734 976,1734 976,1733 917,1733 917,1732 857,1732 857,1731 798,1731 798,1730 739,1730 739,1729 680,1729 680,1728 620,1728 620,1727 561,1727 561,1726 531,1726 531,1693"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="560,1728 560,1729 619,1729 619,1730 679,1730 679,1731 738,1731 738,1732 797,1732 797,1733 856,1733 856,1734 916,1734 916,1735 975,1735 975,1736 1034,1736 1034,1737 1093,1737 1093,1738 1153,1738 1153,1739 1212,1739 1212,1740 1271,1740 1271,1741 1330,1741 1330,1742 1389,1742 1389,1743 1449,1743 1449,1744 1508,1744 1508,1745 1567,1745 1567,1746 1626,1746 1626,1747 1686,1747 1686,1748 1745,1748 1745,1749 1775,1749 1775,1782 531,1782 531,1728"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>
