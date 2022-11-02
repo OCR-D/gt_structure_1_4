@@ -1,5 +1,5 @@
 <div>
-   <h1 id="title">gt_structure_1_2_2</h1>
+   <h1 id="title">gt_structure_1_4</h1>
    <p id="paragraph">OCR-D Struktur-Ground Truth</p>
    <h2>Metadata</h2>
    <dl class="grid">
