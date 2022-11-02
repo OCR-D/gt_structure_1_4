@@ -3,7 +3,7 @@
    <h2>Metadata</h2>
    <dl class="grid">
       <dt>Name:</dt>
-      <dd>gt_structure_1_2_2</dd>
+      <dd>gt_structure_1_4</dd>
       <dt>Description:</dt>
       <dd>OCR-D Struktur-Ground Truth</dd>
       <dt>Language:</dt>
@@ -50,10 +50,10 @@
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_1_2_2/releases/download/v7/bagitDump-v7.zip">Current version download: bagitDump-v7.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_1_4/releases/download/v9/bagitDump-v9.zip">Current version download: bagitDump-v9.zip</a>
       </li>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_1_2_2/releases">Version archive</a>
+         <a href="https://github.com/tboenig/gt_structure_1_4/releases">Version archive</a>
       </li>
    </ul>
 </div>
