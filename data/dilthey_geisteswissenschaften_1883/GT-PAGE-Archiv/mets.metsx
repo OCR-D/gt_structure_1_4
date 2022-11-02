@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version18/mets.xsd">
+	<metsHdr CREATEDATE="2021-11-04T19:16:25" LASTMODDATE="2021-11-04T19:16:25"/>
+	<fileSec>
+	<fileGrp USE="PageContent">
+	<file ID="PageContent.1">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0013.xml"/></file>
+	<file ID="PageContent.2">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0060.xml"/></file>
+	<file ID="PageContent.3">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0080.xml"/></file>
+	<file ID="PageContent.4">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0110.xml"/></file>
+	<file ID="PageContent.5">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0171.xml"/></file>
+	<file ID="PageContent.6">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0178.xml"/></file>
+	<file ID="PageContent.7">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0246.xml"/></file>
+	<file ID="PageContent.8">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0254.xml"/></file>
+	<file ID="PageContent.9">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0285.xml"/></file>
+	<file ID="PageContent.10">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0286.xml"/></file>
+	<file ID="PageContent.11">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0287.xml"/></file>
+	<file ID="PageContent.12">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0326.xml"/></file>
+	<file ID="PageContent.13">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0334.xml"/></file>
+	<file ID="PageContent.14">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0376.xml"/></file>
+	<file ID="PageContent.15">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0402.xml"/></file>
+	<file ID="PageContent.16">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0474.xml"/></file>
+	<file ID="PageContent.17">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0492.xml"/></file>
+	<file ID="PageContent.18">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0534.xml"/></file>
+	<file ID="PageContent.19">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0536.xml"/></file>
+	<file ID="PageContent.20">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="dilthey_geisteswissenschaften_1883_0540.xml"/></file>
+	<file ID="PageContent.21">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="C:/Program Files (x86)/Aletheia 4.1/bin/../help/Example/aletheiaexamplepage.xml"/></file></fileGrp>
+	<fileGrp USE="Binary">
+	<file ID="Binary.21">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="C:/Program Files (x86)/Aletheia 4.1/bin/../help/Example/aletheiaexamplepage_b.tif"/></file></fileGrp>
+	<fileGrp USE="Master">
+	<file ID="Master.1">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0013.jpg"/></file>
+	<file ID="Master.7">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0246.jpg"/></file>
+	<file ID="Master.8">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0254.jpg"/></file>
+	<file ID="Master.9">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0285.jpg"/></file>
+	<file ID="Master.10">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0286.jpg"/></file>
+	<file ID="Master.11">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0287.jpg"/></file>
+	<file ID="Master.12">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0326.jpg"/></file>
+	<file ID="Master.13">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0334.jpg"/></file>
+	<file ID="Master.14">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0376.jpg"/></file>
+	<file ID="Master.15">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0402.jpg"/></file>
+	<file ID="Master.16">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0474.jpg"/></file>
+	<file ID="Master.17">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0492.jpg"/></file>
+	<file ID="Master.18">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0534.jpg"/></file>
+	<file ID="Master.19">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0536.jpg"/></file>
+	<file ID="Master.20">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="../jpg/dilthey_geisteswissenschaften_1883_0540.jpg"/></file>
+	<file ID="Master.21">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="C:/Program Files (x86)/Aletheia 4.1/bin/../help/Example/aletheiaexamplepage.jpg"/></file></fileGrp></fileSec>
+	<structMap TYPE="physical">
+	<div TYPE="sequence">
+	<div ID="physical.1" TYPE="page" ORDER="1">
+	<fptr FILEID="Master.1"/>
+	<fptr FILEID="PageContent.1"/></div>
+	<div ID="physical.2" TYPE="page" ORDER="2">
+	<fptr FILEID="PageContent.2"/></div>
+	<div ID="physical.3" TYPE="page" ORDER="3">
+	<fptr FILEID="PageContent.3"/></div>
+	<div ID="physical.4" TYPE="page" ORDER="4">
+	<fptr FILEID="PageContent.4"/></div>
+	<div ID="physical.5" TYPE="page" ORDER="5">
+	<fptr FILEID="PageContent.5"/></div>
+	<div ID="physical.6" TYPE="page" ORDER="6">
+	<fptr FILEID="PageContent.6"/></div>
+	<div ID="physical.7" TYPE="page" ORDER="7">
+	<fptr FILEID="Master.7"/>
+	<fptr FILEID="PageContent.7"/></div>
+	<div ID="physical.8" TYPE="page" ORDER="8">
+	<fptr FILEID="Master.8"/>
+	<fptr FILEID="PageContent.8"/></div>
+	<div ID="physical.9" TYPE="page" ORDER="9">
+	<fptr FILEID="Master.9"/>
+	<fptr FILEID="PageContent.9"/></div>
+	<div ID="physical.10" TYPE="page" ORDER="10">
+	<fptr FILEID="Master.10"/>
+	<fptr FILEID="PageContent.10"/></div>
+	<div ID="physical.11" TYPE="page" ORDER="11">
+	<fptr FILEID="Master.11"/>
+	<fptr FILEID="PageContent.11"/></div>
+	<div ID="physical.12" TYPE="page" ORDER="12">
+	<fptr FILEID="Master.12"/>
+	<fptr FILEID="PageContent.12"/></div>
+	<div ID="physical.13" TYPE="page" ORDER="13">
+	<fptr FILEID="Master.13"/>
+	<fptr FILEID="PageContent.13"/></div>
+	<div ID="physical.14" TYPE="page" ORDER="14">
+	<fptr FILEID="Master.14"/>
+	<fptr FILEID="PageContent.14"/></div>
+	<div ID="physical.15" TYPE="page" ORDER="15">
+	<fptr FILEID="Master.15"/>
+	<fptr FILEID="PageContent.15"/></div>
+	<div ID="physical.16" TYPE="page" ORDER="16">
+	<fptr FILEID="Master.16"/>
+	<fptr FILEID="PageContent.16"/></div>
+	<div ID="physical.17" TYPE="page" ORDER="17">
+	<fptr FILEID="Master.17"/>
+	<fptr FILEID="PageContent.17"/></div>
+	<div ID="physical.18" TYPE="page" ORDER="18">
+	<fptr FILEID="Master.18"/>
+	<fptr FILEID="PageContent.18"/></div>
+	<div ID="physical.19" TYPE="page" ORDER="19">
+	<fptr FILEID="Master.19"/>
+	<fptr FILEID="PageContent.19"/></div>
+	<div ID="physical.20" TYPE="page" ORDER="20">
+	<fptr FILEID="Master.20"/>
+	<fptr FILEID="PageContent.20"/></div>
+	<div ID="physical.21" TYPE="page" ORDER="21">
+	<fptr FILEID="Binary.21"/>
+	<fptr FILEID="Master.21"/>
+	<fptr FILEID="PageContent.21"/></div></div></structMap></mets>

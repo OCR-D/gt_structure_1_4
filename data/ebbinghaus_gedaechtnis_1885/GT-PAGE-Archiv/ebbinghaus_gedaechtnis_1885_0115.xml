@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:10:56</Created>
+	<LastChange>2019-02-26T13:01:43</LastChange></Metadata>
+	<Page imageFilename="ebbinghaus_gedaechtnis_1885_0115.jpg" imageWidth="1966" imageHeight="2761" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="153,473 1359,473 1359,1185 153,1185"/></TableRegion>
+	<TableRegion id="region_2">
+	<Coords points="156,1553 1352,1553 1352,2358 156,2358"/></TableRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="1076,2363 1171,2363 1171,2428 1076,2428"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="768,434 768,365 696,365 696,434"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1348,1213 1348,1402 1261,1402 1261,1403 1089,1403 1089,1404 916,1404 916,1405 744,1405 744,1406 572,1406 572,1407 399,1407 399,1408 227,1408 227,1409 141,1409 141,1213"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1348,1404 1348,1541 141,1541 141,1411 228,1411 228,1410 400,1410 400,1409 573,1409 573,1408 745,1408 745,1407 917,1407 917,1406 1090,1406 1090,1405 1262,1405 1262,1404"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

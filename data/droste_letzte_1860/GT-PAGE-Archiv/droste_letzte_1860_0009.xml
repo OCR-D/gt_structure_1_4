@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:10:48</Created>
+	<LastChange>2019-02-26T12:58:38</LastChange></Metadata>
+	<Page imageFilename="droste_letzte_1860_0009.jpg" imageWidth="1693" imageHeight="2398" type="content">
+	<PrintSpace>
+	<Coords points="1317,2264 1317,211 8,211 8,2264"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="other">
+	<Coords points="132,507 1050,507 1050,1977 132,1977"/>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="779,1947 779,1758 402,1758 402,1947"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="752,1729 752,1694 417,1694 417,1729"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1026,1164 1026,817 173,817 173,1164"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords points="941,673 941,541 214,541 214,673"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="694,782 694,732 482,732 482,782"/></SeparatorRegion>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="region_2">
+	<Coords points="321,1236 864,1236 864,1590 321,1590"/></GraphicRegion>
+	<NoiseRegion id="r6">
+	<Coords points="235,452 235,308 88,308 88,452"/></NoiseRegion></Page></PcGts>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:10:56</Created>
+	<LastChange>2019-02-26T13:07:51</LastChange></Metadata>
+	<Page imageFilename="ebbinghaus_gedaechtnis_1885_0153.jpg" imageWidth="1966" imageHeight="2762" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="176,630 1388,630 1388,1425 176,1425"/></TableRegion>
+	<TableRegion id="region_2">
+	<Coords points="176,1606 1385,1606 1385,2405 176,2405"/></TableRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="837,462 837,403 734,403 734,462"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1406,482 1406,550 1363,550 1363,549 1275,549 1275,548 1187,548 1187,547 1099,547 1099,546 1011,546 1011,545 923,545 923,544 835,544 835,543 747,543 747,542 659,542 659,541 571,541 571,540 483,540 483,539 395,539 395,538 307,538 307,537 219,537 219,536 175,536 175,482"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="218,538 218,539 306,539 306,540 394,540 394,541 482,541 482,542 570,542 570,543 658,543 658,544 746,544 746,545 834,545 834,546 922,546 922,547 1010,547 1010,548 1098,548 1098,549 1186,549 1186,550 1274,550 1274,551 1362,551 1362,552 1406,552 1406,606 175,606 175,538"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="1410,1437 1410,1505 1203,1505 1203,1504 787,1504 787,1503 371,1503 371,1502 162,1502 162,1437"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="370,1504 370,1505 786,1505 786,1506 1202,1506 1202,1507 1410,1507 1410,1572 162,1572 162,1504"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

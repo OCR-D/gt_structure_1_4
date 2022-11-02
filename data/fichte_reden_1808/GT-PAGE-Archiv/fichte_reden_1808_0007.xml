@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:11:24</Created>
+	<LastChange>2019-02-26T13:16:35</LastChange></Metadata>
+	<Page imageFilename="fichte_reden_1808_0007.jpg" imageWidth="1499" imageHeight="2226" type="content">
+	<PrintSpace>
+	<Coords points="0,94 0,2137 1194,2137 1194,94"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="other">
+	<Coords points="50,156 1099,156 1099,1998 50,1998"/>
+	<SeparatorRegion id="r0">
+	<Coords points="959,1656 959,1578 137,1578 137,1656"/></SeparatorRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="686,1345 686,1297 356,1297 356,1345"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="86,256 86,789 954,789 954,256"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="872,1148 872,883 194,883 194,1148"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="872,1902 872,1697 145,1697 145,1902"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

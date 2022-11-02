@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:11:17</Created>
+	<LastChange>2019-02-22T11:35:52</LastChange></Metadata>
+	<Page imageFilename="falke_trachten02_1858_0350.jpg" imageWidth="1857" imageHeight="2543" type="content">
+	<PrintSpace>
+	<Coords points="1855,2394 1855,252 479,252 479,2394"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/>
+	<RegionRefIndexed regionRef="region_5" index="3"/>
+	<RegionRefIndexed regionRef="region_6" index="4"/>
+	<RegionRefIndexed regionRef="region_7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" type="header">
+	<Coords points="950,360 1346,360 1346,431 950,431"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="page-number">
+	<Coords points="612,367 696,367 696,423 612,423"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#column" type="paragraph">
+	<Coords points="1160,442 1699,442 1699,1378 1160,1378"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#column" type="paragraph">
+	<Coords points="607,442 1151,442 1151,1396 607,1396"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_6">
+	<Coords points="967,1523 1348,1523 1348,1566 967,1566"/></SeparatorRegion>
+	<TextRegion id="region_7" custom="#back_paragraph" type="paragraph">
+	<Coords points="863,2173 1445,2173 1445,2262 863,2262"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
