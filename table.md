@@ -12877,6 +12877,25 @@
                         </tr>
                         <tr>
                            <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/main/data/dilthey_geisteswissenschaften_1883/GT-PAGE/mets.metsx.xml">mets.metsx.xml</a>
+                           </td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
                               <a href="https://github.com/tboenig/gt_structure_1_4/blob/main/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0402.xml">dilthey_geisteswissenschaften_1883_0402.xml</a>
                            </td>
                            <td>3</td>
