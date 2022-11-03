@@ -38,9 +38,119 @@
                The labeling metadata is created for each available page. The following labeling metadata is available for the complete collection.</p>
    <p>Here you will find a description and explanation of the labeling metadata.</p>
    <details>
+      <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
+      <p>
+         <strong>Description: </strong>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
+
+Examples:
+Page layout analysis (segmentation into regions, classification into text, graphic, table etc.)
+
+Related:
+"OCR": Often used as a synonym for layout analysis and text recognition, but strictly only the text recognition component.</p>
+   </details>
+   <details>
+      <summary>activityDomain/computing/visual/analysisRecognition/tables</summary>
+      <p>
+         <strong>Description: </strong>The recognition of table/form structure and/or contents. 
+
+Examples:
+Stock exchange data in a newspaper,
+Filled in questionaire form
+
+Related:
+OCR
+Object / shape recognition (e.g. table separator detection)</p>
+   </details>
+   <details>
+      <summary>content-encoding/structured</summary>
+      <p>
+         <strong>Description: </strong>E.g. XML</p>
+   </details>
+   <details>
+      <summary>content-type/corpus</summary>
+      <p>
+         <strong>Description: </strong>
+Corpus: a collection of written texts, especially the entire works of a particular author or a body of writing on a particular subject.
+
+Examples:
+A text corpus,
+An image database</p>
+   </details>
+   <details>
+      <summary>contentOfInterest/visual/composite/maths</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
+      <summary>contentOfInterest/visual/composite/tables</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
+      <summary>contentOfInterest/visual/graphical</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
+      <summary>contentOfInterest/visual/graphical/separator</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
+      <summary>data-attributes/document-related/structural/endnote</summary>
+      <p>
+         <strong>Description: </strong>
+      </p>
+   </details>
+   <details>
+      <summary>data-attributes/document-related/structural/footnote-continued</summary>
+      <p>
+         <strong>Description: </strong>
+      </p>
+   </details>
+   <details>
+      <summary>data-attributes/document-related/structural/footnotes</summary>
+      <p>
+         <strong>Description: </strong>Footnotes at bottom of page</p>
+   </details>
+   <details>
+      <summary>data-attributes/document-related/structural/running-titles</summary>
+      <p>
+         <strong>Description: </strong>Titles repeated each page</p>
+   </details>
+   <details>
+      <summary>granularity/logical/document-related/paragraph</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
+      <summary>granularity/physical/document-related/page</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
       <summary>granularity/physical/document-related/region</summary>
       <p>
          <strong>Description: </strong>Region, zone, block</p>
+   </details>
+   <details>
+      <summary>platform/platform-independent</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
    </details>
 </div>
 <div class="metadata">
@@ -50,7 +160,7 @@
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_1_4/releases/download/v10/bagitDump-v10.zip">Current version download: bagitDump-v10.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_1_4/releases/download/v11/bagitDump-v11.zip">Current version download: bagitDump-v11.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_1_4/releases">Version archive</a>
