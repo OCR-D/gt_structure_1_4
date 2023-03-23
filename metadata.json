@@ -1,0 +1,76 @@
+{
+  "schema": "https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json",
+  "title": "gt_structure_1_4",
+  "url": "https://github.com/tboenig/gt_structure_1_4",
+  "authors": [
+    {
+      "name": "Boenig",
+      "surname": "Matthias",
+      "roles": [
+        "transcriber",
+        "aligner",
+        "project-manager",
+        "quality-control",
+        "digitization",
+        "support"
+      ]
+    }
+  ],
+  "description": "OCR-D Struktur-Ground Truth",
+  "project-name": "OCR-D",
+  "project-website": "https://ocr-d.de/",
+  "language": [
+    "deu"
+  ],
+  "script": [
+    "Latn",
+    "Goth"
+  ],
+  "script-type": "print",
+  "time": {
+    "notBefore": "1600",
+    "notAfter": "1900"
+  },
+  "hands": {
+    "count": "unknown",
+    "level": "levelmix"
+  },
+  "license": [
+    {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/licenses/zero/1.0/"
+    }
+  ],
+  "gtTyp": "data_structure",
+  "format": "Page-XML",
+  "transcription-guidelines": "OCR-D-GT-Guideline, Part: Structur Ground Truth https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html",
+  "volume": {
+    "TxtRegion": "4714",
+    "GraphRegion": "87",
+    "TabRegion": "40",
+    "SepRegion": "109",
+    "MathRegion": "16",
+    "NoiseRegion": "3",
+    "Page": "1276"
+  },
+  "labelling": [
+    "granularity/physical/document-related/region",
+    "content-type/corpus",
+    "platform/platform-independent",
+    "content-encoding/structured",
+    "activityDomain/computing/visual/analysisRecognition/tables",
+    "activityDomain/computing/visual/analysisRecognition/layoutAnalysis",
+    "contentOfInterest/visual/graphical",
+    "contentOfInterest/visual/graphical/separator",
+    "contentOfInterest/visual/composite/tables",
+    "contentOfInterest/visual/composite/maths",
+    "granularity/physical/document-related/page",
+    "granularity/logical/document-related/paragraph",
+    "data-attributes/document-related/structural/footnotes",
+    "data-attributes/document-related/structural/footnote-continued",
+    "data-attributes/document-related/structural/endnote",
+    "data-attributes/document-related/structural/running-titles",
+    "data-attributes/document-related/visual/text/font/typeface/blackletter",
+    "data-attributes/document-related/visual/text/font/typeface/antiqua"
+  ]
+}

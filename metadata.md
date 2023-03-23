@@ -127,6 +127,16 @@ An image database</p>
          <strong>Description: </strong>Titles repeated each page</p>
    </details>
    <details>
+      <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
+      <p>
+         <strong>Description: </strong>Antiqua font (more modern)</p>
+   </details>
+   <details>
+      <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
+      <p>
+         <strong>Description: </strong>Blackletter, gothic, Fraktur</p>
+   </details>
+   <details>
       <summary>granularity/logical/document-related/paragraph</summary>
       <p>
          <strong>Description: </strong>
@@ -160,7 +170,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_1_4/releases/download/v11/bagitDump-v11.zip">Current version download: bagitDump-v11.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_1_4/releases/download/v12/bagitDump-v12.zip">Current version download: bagitDump-v12.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_1_4/releases">Version archive</a>
