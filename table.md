@@ -227,7 +227,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0031.xml">dilich_kriegsbuch_1607_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0031.xml">dilich_kriegsbuch_1607_0031.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -246,7 +246,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0010.xml">dilich_kriegsbuch_1607_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0010.xml">dilich_kriegsbuch_1607_0010.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -265,7 +265,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0003.xml">dilich_kriegsbuch_1607_0003.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0003.xml">dilich_kriegsbuch_1607_0003.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -284,7 +284,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0005.xml">dilich_kriegsbuch_1607_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0005.xml">dilich_kriegsbuch_1607_0005.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -303,7 +303,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0014.xml">dilich_kriegsbuch_1607_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0014.xml">dilich_kriegsbuch_1607_0014.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -322,7 +322,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0011.xml">dilich_kriegsbuch_1607_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0011.xml">dilich_kriegsbuch_1607_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -341,7 +341,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0009.xml">dilich_kriegsbuch_1607_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0009.xml">dilich_kriegsbuch_1607_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -360,7 +360,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0006.xml">dilich_kriegsbuch_1607_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0006.xml">dilich_kriegsbuch_1607_0006.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -379,7 +379,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0021.xml">dilich_kriegsbuch_1607_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0021.xml">dilich_kriegsbuch_1607_0021.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -398,7 +398,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0008.xml">dilich_kriegsbuch_1607_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0008.xml">dilich_kriegsbuch_1607_0008.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -417,7 +417,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0012.xml">dilich_kriegsbuch_1607_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0012.xml">dilich_kriegsbuch_1607_0012.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -436,7 +436,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0024.xml">dilich_kriegsbuch_1607_0024.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0024.xml">dilich_kriegsbuch_1607_0024.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -455,7 +455,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0022.xml">dilich_kriegsbuch_1607_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0022.xml">dilich_kriegsbuch_1607_0022.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -474,7 +474,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0034.xml">dilich_kriegsbuch_1607_0034.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0034.xml">dilich_kriegsbuch_1607_0034.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -493,7 +493,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0029.xml">dilich_kriegsbuch_1607_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0029.xml">dilich_kriegsbuch_1607_0029.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -512,7 +512,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0028.xml">dilich_kriegsbuch_1607_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0028.xml">dilich_kriegsbuch_1607_0028.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -531,7 +531,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0354.xml">dilich_kriegsbuch_1607_0354.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0354.xml">dilich_kriegsbuch_1607_0354.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -550,7 +550,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0013.xml">dilich_kriegsbuch_1607_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0013.xml">dilich_kriegsbuch_1607_0013.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -569,7 +569,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0032.xml">dilich_kriegsbuch_1607_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0032.xml">dilich_kriegsbuch_1607_0032.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -588,7 +588,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0038.xml">dilich_kriegsbuch_1607_0038.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0038.xml">dilich_kriegsbuch_1607_0038.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -607,7 +607,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0249.xml">dilich_kriegsbuch_1607_0249.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0249.xml">dilich_kriegsbuch_1607_0249.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -626,7 +626,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0004.xml">dilich_kriegsbuch_1607_0004.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0004.xml">dilich_kriegsbuch_1607_0004.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -645,7 +645,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0007.xml">dilich_kriegsbuch_1607_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0007.xml">dilich_kriegsbuch_1607_0007.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -664,7 +664,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0026.xml">dilich_kriegsbuch_1607_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilich_kriegsbuch_1607/GT-PAGE/dilich_kriegsbuch_1607_0026.xml">dilich_kriegsbuch_1607_0026.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -730,7 +730,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0009.xml">euler_algebra01_1770_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0009.xml">euler_algebra01_1770_0009.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -749,7 +749,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0010.xml">euler_algebra01_1770_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0010.xml">euler_algebra01_1770_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -768,7 +768,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0032.xml">euler_algebra01_1770_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0032.xml">euler_algebra01_1770_0032.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -787,7 +787,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0011.xml">euler_algebra01_1770_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0011.xml">euler_algebra01_1770_0011.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -806,7 +806,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0020.xml">euler_algebra01_1770_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0020.xml">euler_algebra01_1770_0020.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -825,7 +825,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0033.xml">euler_algebra01_1770_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0033.xml">euler_algebra01_1770_0033.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -844,7 +844,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0007.xml">euler_algebra01_1770_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0007.xml">euler_algebra01_1770_0007.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -863,7 +863,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0035.xml">euler_algebra01_1770_0035.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0035.xml">euler_algebra01_1770_0035.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -882,7 +882,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0021.xml">euler_algebra01_1770_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0021.xml">euler_algebra01_1770_0021.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -901,7 +901,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0001.xml">euler_algebra01_1770_0001.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0001.xml">euler_algebra01_1770_0001.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -920,7 +920,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0003.xml">euler_algebra01_1770_0003.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0003.xml">euler_algebra01_1770_0003.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -939,7 +939,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0029.xml">euler_algebra01_1770_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0029.xml">euler_algebra01_1770_0029.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -958,7 +958,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0013.xml">euler_algebra01_1770_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0013.xml">euler_algebra01_1770_0013.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -977,7 +977,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0028.xml">euler_algebra01_1770_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0028.xml">euler_algebra01_1770_0028.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -996,7 +996,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0025.xml">euler_algebra01_1770_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0025.xml">euler_algebra01_1770_0025.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -1015,7 +1015,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0008.xml">euler_algebra01_1770_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0008.xml">euler_algebra01_1770_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -1034,7 +1034,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0194.xml">euler_algebra01_1770_0194.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0194.xml">euler_algebra01_1770_0194.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -1053,7 +1053,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0015.xml">euler_algebra01_1770_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0015.xml">euler_algebra01_1770_0015.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -1072,7 +1072,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0027.xml">euler_algebra01_1770_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0027.xml">euler_algebra01_1770_0027.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -1091,7 +1091,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0004.xml">euler_algebra01_1770_0004.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0004.xml">euler_algebra01_1770_0004.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -1110,7 +1110,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0005.xml">euler_algebra01_1770_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra01_1770/GT-PAGE/euler_algebra01_1770_0005.xml">euler_algebra01_1770_0005.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -1176,7 +1176,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0011.xml">felgenhauer_jehior_1640_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0011.xml">felgenhauer_jehior_1640_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1195,7 +1195,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0023.xml">felgenhauer_jehior_1640_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0023.xml">felgenhauer_jehior_1640_0023.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1214,7 +1214,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0022.xml">felgenhauer_jehior_1640_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0022.xml">felgenhauer_jehior_1640_0022.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1233,7 +1233,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0020.xml">felgenhauer_jehior_1640_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0020.xml">felgenhauer_jehior_1640_0020.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1252,7 +1252,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0027.xml">felgenhauer_jehior_1640_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0027.xml">felgenhauer_jehior_1640_0027.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1271,7 +1271,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0018.xml">felgenhauer_jehior_1640_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0018.xml">felgenhauer_jehior_1640_0018.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1290,7 +1290,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0012.xml">felgenhauer_jehior_1640_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0012.xml">felgenhauer_jehior_1640_0012.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1309,7 +1309,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0010.xml">felgenhauer_jehior_1640_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0010.xml">felgenhauer_jehior_1640_0010.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1328,7 +1328,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0007.xml">felgenhauer_jehior_1640_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0007.xml">felgenhauer_jehior_1640_0007.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1347,7 +1347,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0014.xml">felgenhauer_jehior_1640_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0014.xml">felgenhauer_jehior_1640_0014.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1366,7 +1366,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0017.xml">felgenhauer_jehior_1640_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0017.xml">felgenhauer_jehior_1640_0017.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1385,7 +1385,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0025.xml">felgenhauer_jehior_1640_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0025.xml">felgenhauer_jehior_1640_0025.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1404,7 +1404,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0031.xml">felgenhauer_jehior_1640_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0031.xml">felgenhauer_jehior_1640_0031.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1423,7 +1423,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0032.xml">felgenhauer_jehior_1640_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0032.xml">felgenhauer_jehior_1640_0032.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1442,7 +1442,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0005.xml">felgenhauer_jehior_1640_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0005.xml">felgenhauer_jehior_1640_0005.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -1461,7 +1461,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0013.xml">felgenhauer_jehior_1640_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0013.xml">felgenhauer_jehior_1640_0013.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -1480,7 +1480,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0009.xml">felgenhauer_jehior_1640_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0009.xml">felgenhauer_jehior_1640_0009.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1499,7 +1499,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0021.xml">felgenhauer_jehior_1640_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0021.xml">felgenhauer_jehior_1640_0021.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1518,7 +1518,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0026.xml">felgenhauer_jehior_1640_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0026.xml">felgenhauer_jehior_1640_0026.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1537,7 +1537,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0016.xml">felgenhauer_jehior_1640_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0016.xml">felgenhauer_jehior_1640_0016.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1556,7 +1556,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0030.xml">felgenhauer_jehior_1640_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0030.xml">felgenhauer_jehior_1640_0030.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1575,7 +1575,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0008.xml">felgenhauer_jehior_1640_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0008.xml">felgenhauer_jehior_1640_0008.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1594,7 +1594,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0029.xml">felgenhauer_jehior_1640_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/felgenhauer_jehior_1640/GT-PAGE/felgenhauer_jehior_1640_0029.xml">felgenhauer_jehior_1640_0029.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -1660,7 +1660,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0009.xml">dannhauer_catechismus11_1678_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0009.xml">dannhauer_catechismus11_1678_0009.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -1679,7 +1679,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0063.xml">dannhauer_catechismus11_1678_0063.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0063.xml">dannhauer_catechismus11_1678_0063.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -1698,7 +1698,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0036.xml">dannhauer_catechismus11_1678_0036.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0036.xml">dannhauer_catechismus11_1678_0036.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1717,7 +1717,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0010.xml">dannhauer_catechismus11_1678_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0010.xml">dannhauer_catechismus11_1678_0010.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1736,7 +1736,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0011.xml">dannhauer_catechismus11_1678_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0011.xml">dannhauer_catechismus11_1678_0011.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -1755,7 +1755,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0012.xml">dannhauer_catechismus11_1678_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0012.xml">dannhauer_catechismus11_1678_0012.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1774,7 +1774,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0055.xml">dannhauer_catechismus11_1678_0055.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0055.xml">dannhauer_catechismus11_1678_0055.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -1793,7 +1793,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0006.xml">dannhauer_catechismus11_1678_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0006.xml">dannhauer_catechismus11_1678_0006.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1812,7 +1812,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0044.xml">dannhauer_catechismus11_1678_0044.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0044.xml">dannhauer_catechismus11_1678_0044.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1831,7 +1831,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0054.xml">dannhauer_catechismus11_1678_0054.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0054.xml">dannhauer_catechismus11_1678_0054.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1850,7 +1850,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0005.xml">dannhauer_catechismus11_1678_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0005.xml">dannhauer_catechismus11_1678_0005.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1869,7 +1869,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0007.xml">dannhauer_catechismus11_1678_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0007.xml">dannhauer_catechismus11_1678_0007.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -1888,7 +1888,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0060.xml">dannhauer_catechismus11_1678_0060.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0060.xml">dannhauer_catechismus11_1678_0060.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1907,7 +1907,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0051.xml">dannhauer_catechismus11_1678_0051.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0051.xml">dannhauer_catechismus11_1678_0051.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1926,7 +1926,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0047.xml">dannhauer_catechismus11_1678_0047.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0047.xml">dannhauer_catechismus11_1678_0047.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -1945,7 +1945,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0053.xml">dannhauer_catechismus11_1678_0053.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0053.xml">dannhauer_catechismus11_1678_0053.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -1964,7 +1964,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0042.xml">dannhauer_catechismus11_1678_0042.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0042.xml">dannhauer_catechismus11_1678_0042.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -1983,7 +1983,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0062.xml">dannhauer_catechismus11_1678_0062.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0062.xml">dannhauer_catechismus11_1678_0062.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -2002,7 +2002,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0052.xml">dannhauer_catechismus11_1678_0052.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0052.xml">dannhauer_catechismus11_1678_0052.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -2021,7 +2021,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0058.xml">dannhauer_catechismus11_1678_0058.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0058.xml">dannhauer_catechismus11_1678_0058.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -2040,7 +2040,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0013.xml">dannhauer_catechismus11_1678_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0013.xml">dannhauer_catechismus11_1678_0013.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -2059,7 +2059,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0061.xml">dannhauer_catechismus11_1678_0061.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0061.xml">dannhauer_catechismus11_1678_0061.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -2078,7 +2078,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0059.xml">dannhauer_catechismus11_1678_0059.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0059.xml">dannhauer_catechismus11_1678_0059.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2097,7 +2097,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0035.xml">dannhauer_catechismus11_1678_0035.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0035.xml">dannhauer_catechismus11_1678_0035.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2116,7 +2116,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0008.xml">dannhauer_catechismus11_1678_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0008.xml">dannhauer_catechismus11_1678_0008.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2135,7 +2135,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0043.xml">dannhauer_catechismus11_1678_0043.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0043.xml">dannhauer_catechismus11_1678_0043.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2154,7 +2154,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0057.xml">dannhauer_catechismus11_1678_0057.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0057.xml">dannhauer_catechismus11_1678_0057.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -2173,7 +2173,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0056.xml">dannhauer_catechismus11_1678_0056.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dannhauer_catechismus11_1678/GT-PAGE/dannhauer_catechismus11_1678_0056.xml">dannhauer_catechismus11_1678_0056.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -2239,7 +2239,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0077.xml">droysen_historik_1868_0077.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0077.xml">droysen_historik_1868_0077.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2258,7 +2258,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0079.xml">droysen_historik_1868_0079.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0079.xml">droysen_historik_1868_0079.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2277,7 +2277,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0088.xml">droysen_historik_1868_0088.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0088.xml">droysen_historik_1868_0088.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2296,7 +2296,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0054.xml">droysen_historik_1868_0054.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0054.xml">droysen_historik_1868_0054.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2315,7 +2315,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0053.xml">droysen_historik_1868_0053.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0053.xml">droysen_historik_1868_0053.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2334,7 +2334,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0090.xml">droysen_historik_1868_0090.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0090.xml">droysen_historik_1868_0090.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -2353,7 +2353,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0089.xml">droysen_historik_1868_0089.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0089.xml">droysen_historik_1868_0089.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2372,7 +2372,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0062.xml">droysen_historik_1868_0062.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0062.xml">droysen_historik_1868_0062.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2391,7 +2391,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0065.xml">droysen_historik_1868_0065.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0065.xml">droysen_historik_1868_0065.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2410,7 +2410,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0014.xml">droysen_historik_1868_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0014.xml">droysen_historik_1868_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2429,7 +2429,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0066.xml">droysen_historik_1868_0066.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0066.xml">droysen_historik_1868_0066.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2448,7 +2448,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0082.xml">droysen_historik_1868_0082.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0082.xml">droysen_historik_1868_0082.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2467,7 +2467,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0092.xml">droysen_historik_1868_0092.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0092.xml">droysen_historik_1868_0092.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2486,7 +2486,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0057.xml">droysen_historik_1868_0057.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0057.xml">droysen_historik_1868_0057.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2505,7 +2505,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0056.xml">droysen_historik_1868_0056.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0056.xml">droysen_historik_1868_0056.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2524,7 +2524,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0078.xml">droysen_historik_1868_0078.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0078.xml">droysen_historik_1868_0078.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2543,7 +2543,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0080.xml">droysen_historik_1868_0080.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0080.xml">droysen_historik_1868_0080.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2562,7 +2562,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0013.xml">droysen_historik_1868_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0013.xml">droysen_historik_1868_0013.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2581,7 +2581,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0064.xml">droysen_historik_1868_0064.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0064.xml">droysen_historik_1868_0064.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2600,7 +2600,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0015.xml">droysen_historik_1868_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_historik_1868/GT-PAGE/droysen_historik_1868_0015.xml">droysen_historik_1868_0015.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2666,7 +2666,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0019.xml">davidis_kochbuch_1849_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0019.xml">davidis_kochbuch_1849_0019.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2685,7 +2685,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0018.xml">davidis_kochbuch_1849_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0018.xml">davidis_kochbuch_1849_0018.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2704,7 +2704,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0013.xml">davidis_kochbuch_1849_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0013.xml">davidis_kochbuch_1849_0013.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -2723,7 +2723,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0022.xml">davidis_kochbuch_1849_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0022.xml">davidis_kochbuch_1849_0022.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2742,7 +2742,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0029.xml">davidis_kochbuch_1849_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0029.xml">davidis_kochbuch_1849_0029.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -2761,7 +2761,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0020.xml">davidis_kochbuch_1849_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0020.xml">davidis_kochbuch_1849_0020.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2780,7 +2780,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0028.xml">davidis_kochbuch_1849_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0028.xml">davidis_kochbuch_1849_0028.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2799,7 +2799,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0016.xml">davidis_kochbuch_1849_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0016.xml">davidis_kochbuch_1849_0016.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -2818,7 +2818,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0027.xml">davidis_kochbuch_1849_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0027.xml">davidis_kochbuch_1849_0027.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -2837,7 +2837,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0032.xml">davidis_kochbuch_1849_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0032.xml">davidis_kochbuch_1849_0032.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2856,7 +2856,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0034.xml">davidis_kochbuch_1849_0034.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0034.xml">davidis_kochbuch_1849_0034.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -2875,7 +2875,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0030.xml">davidis_kochbuch_1849_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0030.xml">davidis_kochbuch_1849_0030.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -2894,7 +2894,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0024.xml">davidis_kochbuch_1849_0024.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0024.xml">davidis_kochbuch_1849_0024.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2913,7 +2913,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0033.xml">davidis_kochbuch_1849_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0033.xml">davidis_kochbuch_1849_0033.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -2932,7 +2932,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0031.xml">davidis_kochbuch_1849_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0031.xml">davidis_kochbuch_1849_0031.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2951,7 +2951,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0036.xml">davidis_kochbuch_1849_0036.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0036.xml">davidis_kochbuch_1849_0036.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -2970,7 +2970,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0021.xml">davidis_kochbuch_1849_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0021.xml">davidis_kochbuch_1849_0021.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2989,7 +2989,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0041.xml">davidis_kochbuch_1849_0041.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0041.xml">davidis_kochbuch_1849_0041.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -3008,7 +3008,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0017.xml">davidis_kochbuch_1849_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0017.xml">davidis_kochbuch_1849_0017.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -3027,7 +3027,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0014.xml">davidis_kochbuch_1849_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/davidis_kochbuch_1849/GT-PAGE/davidis_kochbuch_1849_0014.xml">davidis_kochbuch_1849_0014.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -3093,7 +3093,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0384.xml">eckermann_goethe03_1848_0384.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0384.xml">eckermann_goethe03_1848_0384.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3112,7 +3112,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0115.xml">eckermann_goethe03_1848_0115.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0115.xml">eckermann_goethe03_1848_0115.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3131,7 +3131,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0193.xml">eckermann_goethe03_1848_0193.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0193.xml">eckermann_goethe03_1848_0193.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3150,7 +3150,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0241.xml">eckermann_goethe03_1848_0241.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0241.xml">eckermann_goethe03_1848_0241.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3169,7 +3169,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0285.xml">eckermann_goethe03_1848_0285.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0285.xml">eckermann_goethe03_1848_0285.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3188,7 +3188,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0099.xml">eckermann_goethe03_1848_0099.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0099.xml">eckermann_goethe03_1848_0099.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3207,7 +3207,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0182.xml">eckermann_goethe03_1848_0182.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0182.xml">eckermann_goethe03_1848_0182.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3226,7 +3226,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0286.xml">eckermann_goethe03_1848_0286.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0286.xml">eckermann_goethe03_1848_0286.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3245,7 +3245,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0119.xml">eckermann_goethe03_1848_0119.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0119.xml">eckermann_goethe03_1848_0119.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -3264,7 +3264,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0288.xml">eckermann_goethe03_1848_0288.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0288.xml">eckermann_goethe03_1848_0288.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3283,7 +3283,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0049.xml">eckermann_goethe03_1848_0049.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0049.xml">eckermann_goethe03_1848_0049.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3302,7 +3302,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0114.xml">eckermann_goethe03_1848_0114.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0114.xml">eckermann_goethe03_1848_0114.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3321,7 +3321,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0275.xml">eckermann_goethe03_1848_0275.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0275.xml">eckermann_goethe03_1848_0275.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3340,7 +3340,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0340.xml">eckermann_goethe03_1848_0340.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0340.xml">eckermann_goethe03_1848_0340.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3359,7 +3359,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0366.xml">eckermann_goethe03_1848_0366.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0366.xml">eckermann_goethe03_1848_0366.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3378,7 +3378,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0348.xml">eckermann_goethe03_1848_0348.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0348.xml">eckermann_goethe03_1848_0348.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3397,7 +3397,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0122.xml">eckermann_goethe03_1848_0122.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0122.xml">eckermann_goethe03_1848_0122.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3416,7 +3416,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0394.xml">eckermann_goethe03_1848_0394.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0394.xml">eckermann_goethe03_1848_0394.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3435,7 +3435,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0264.xml">eckermann_goethe03_1848_0264.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0264.xml">eckermann_goethe03_1848_0264.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3454,7 +3454,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0175.xml">eckermann_goethe03_1848_0175.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe03_1848/GT-PAGE/eckermann_goethe03_1848_0175.xml">eckermann_goethe03_1848_0175.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3520,7 +3520,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0018.xml">diesterweg_universitaeten_1836_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0018.xml">diesterweg_universitaeten_1836_0018.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3539,7 +3539,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0023.xml">diesterweg_universitaeten_1836_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0023.xml">diesterweg_universitaeten_1836_0023.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -3558,7 +3558,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0026.xml">diesterweg_universitaeten_1836_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0026.xml">diesterweg_universitaeten_1836_0026.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3577,7 +3577,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0010.xml">diesterweg_universitaeten_1836_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0010.xml">diesterweg_universitaeten_1836_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3596,7 +3596,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0015.xml">diesterweg_universitaeten_1836_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0015.xml">diesterweg_universitaeten_1836_0015.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3615,7 +3615,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0028.xml">diesterweg_universitaeten_1836_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0028.xml">diesterweg_universitaeten_1836_0028.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3634,7 +3634,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0024.xml">diesterweg_universitaeten_1836_0024.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0024.xml">diesterweg_universitaeten_1836_0024.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3653,7 +3653,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0025.xml">diesterweg_universitaeten_1836_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0025.xml">diesterweg_universitaeten_1836_0025.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -3672,7 +3672,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0022.xml">diesterweg_universitaeten_1836_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0022.xml">diesterweg_universitaeten_1836_0022.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3691,7 +3691,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0021.xml">diesterweg_universitaeten_1836_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0021.xml">diesterweg_universitaeten_1836_0021.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3710,7 +3710,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0016.xml">diesterweg_universitaeten_1836_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0016.xml">diesterweg_universitaeten_1836_0016.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3729,7 +3729,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0014.xml">diesterweg_universitaeten_1836_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0014.xml">diesterweg_universitaeten_1836_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3748,7 +3748,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0011.xml">diesterweg_universitaeten_1836_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0011.xml">diesterweg_universitaeten_1836_0011.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3767,7 +3767,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0013.xml">diesterweg_universitaeten_1836_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0013.xml">diesterweg_universitaeten_1836_0013.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3786,7 +3786,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0027.xml">diesterweg_universitaeten_1836_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0027.xml">diesterweg_universitaeten_1836_0027.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3805,7 +3805,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0009.xml">diesterweg_universitaeten_1836_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0009.xml">diesterweg_universitaeten_1836_0009.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -3824,7 +3824,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0020.xml">diesterweg_universitaeten_1836_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0020.xml">diesterweg_universitaeten_1836_0020.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -3843,7 +3843,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0017.xml">diesterweg_universitaeten_1836_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0017.xml">diesterweg_universitaeten_1836_0017.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3862,7 +3862,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0019.xml">diesterweg_universitaeten_1836_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0019.xml">diesterweg_universitaeten_1836_0019.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3881,7 +3881,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0012.xml">diesterweg_universitaeten_1836_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/diesterweg_universitaeten_1836/GT-PAGE/diesterweg_universitaeten_1836_0012.xml">diesterweg_universitaeten_1836_0012.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3947,7 +3947,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0587.xml">fabricius_oratorie_1724_0587.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0587.xml">fabricius_oratorie_1724_0587.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -3966,7 +3966,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0585.xml">fabricius_oratorie_1724_0585.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0585.xml">fabricius_oratorie_1724_0585.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -3985,7 +3985,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0010.xml">fabricius_oratorie_1724_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0010.xml">fabricius_oratorie_1724_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -4004,7 +4004,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0568.xml">fabricius_oratorie_1724_0568.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0568.xml">fabricius_oratorie_1724_0568.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4023,7 +4023,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0005.xml">fabricius_oratorie_1724_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0005.xml">fabricius_oratorie_1724_0005.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -4042,7 +4042,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0014.xml">fabricius_oratorie_1724_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0014.xml">fabricius_oratorie_1724_0014.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -4061,7 +4061,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0575.xml">fabricius_oratorie_1724_0575.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0575.xml">fabricius_oratorie_1724_0575.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -4080,7 +4080,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0009.xml">fabricius_oratorie_1724_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0009.xml">fabricius_oratorie_1724_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -4099,7 +4099,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0011.xml">fabricius_oratorie_1724_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0011.xml">fabricius_oratorie_1724_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4118,7 +4118,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0589.xml">fabricius_oratorie_1724_0589.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0589.xml">fabricius_oratorie_1724_0589.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -4137,7 +4137,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0591.xml">fabricius_oratorie_1724_0591.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0591.xml">fabricius_oratorie_1724_0591.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4156,7 +4156,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0593.xml">fabricius_oratorie_1724_0593.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0593.xml">fabricius_oratorie_1724_0593.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4175,7 +4175,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0012.xml">fabricius_oratorie_1724_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0012.xml">fabricius_oratorie_1724_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -4194,7 +4194,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0581.xml">fabricius_oratorie_1724_0581.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0581.xml">fabricius_oratorie_1724_0581.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4213,7 +4213,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0576.xml">fabricius_oratorie_1724_0576.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0576.xml">fabricius_oratorie_1724_0576.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4232,7 +4232,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0574.xml">fabricius_oratorie_1724_0574.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0574.xml">fabricius_oratorie_1724_0574.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -4251,7 +4251,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0583.xml">fabricius_oratorie_1724_0583.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0583.xml">fabricius_oratorie_1724_0583.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -4270,7 +4270,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0013.xml">fabricius_oratorie_1724_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0013.xml">fabricius_oratorie_1724_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -4289,7 +4289,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0590.xml">fabricius_oratorie_1724_0590.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0590.xml">fabricius_oratorie_1724_0590.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4308,7 +4308,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0586.xml">fabricius_oratorie_1724_0586.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0586.xml">fabricius_oratorie_1724_0586.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -4327,7 +4327,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0578.xml">fabricius_oratorie_1724_0578.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0578.xml">fabricius_oratorie_1724_0578.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4346,7 +4346,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0579.xml">fabricius_oratorie_1724_0579.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0579.xml">fabricius_oratorie_1724_0579.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4365,7 +4365,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0582.xml">fabricius_oratorie_1724_0582.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0582.xml">fabricius_oratorie_1724_0582.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -4384,7 +4384,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0584.xml">fabricius_oratorie_1724_0584.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0584.xml">fabricius_oratorie_1724_0584.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4403,7 +4403,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0564.xml">fabricius_oratorie_1724_0564.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0564.xml">fabricius_oratorie_1724_0564.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -4422,7 +4422,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0580.xml">fabricius_oratorie_1724_0580.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0580.xml">fabricius_oratorie_1724_0580.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4441,7 +4441,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0592.xml">fabricius_oratorie_1724_0592.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fabricius_oratorie_1724/GT-PAGE/fabricius_oratorie_1724_0592.xml">fabricius_oratorie_1724_0592.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4507,7 +4507,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0005.xml">estor_rechtsgelehrsamkeit01_1757_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0005.xml">estor_rechtsgelehrsamkeit01_1757_0005.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -4526,7 +4526,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0025.xml">estor_rechtsgelehrsamkeit01_1757_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0025.xml">estor_rechtsgelehrsamkeit01_1757_0025.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -4545,7 +4545,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0027.xml">estor_rechtsgelehrsamkeit01_1757_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0027.xml">estor_rechtsgelehrsamkeit01_1757_0027.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -4564,7 +4564,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0033.xml">estor_rechtsgelehrsamkeit01_1757_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0033.xml">estor_rechtsgelehrsamkeit01_1757_0033.xml</a>
                            </td>
                            <td>18</td>
                            <td>0</td>
@@ -4583,7 +4583,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0032.xml">estor_rechtsgelehrsamkeit01_1757_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0032.xml">estor_rechtsgelehrsamkeit01_1757_0032.xml</a>
                            </td>
                            <td>17</td>
                            <td>0</td>
@@ -4602,7 +4602,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0015.xml">estor_rechtsgelehrsamkeit01_1757_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0015.xml">estor_rechtsgelehrsamkeit01_1757_0015.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -4621,7 +4621,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0010.xml">estor_rechtsgelehrsamkeit01_1757_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0010.xml">estor_rechtsgelehrsamkeit01_1757_0010.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4640,7 +4640,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0009.xml">estor_rechtsgelehrsamkeit01_1757_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0009.xml">estor_rechtsgelehrsamkeit01_1757_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -4659,7 +4659,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0020.xml">estor_rechtsgelehrsamkeit01_1757_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0020.xml">estor_rechtsgelehrsamkeit01_1757_0020.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -4678,7 +4678,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0018.xml">estor_rechtsgelehrsamkeit01_1757_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0018.xml">estor_rechtsgelehrsamkeit01_1757_0018.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -4697,7 +4697,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0021.xml">estor_rechtsgelehrsamkeit01_1757_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0021.xml">estor_rechtsgelehrsamkeit01_1757_0021.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -4716,7 +4716,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0007.xml">estor_rechtsgelehrsamkeit01_1757_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0007.xml">estor_rechtsgelehrsamkeit01_1757_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -4735,7 +4735,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0019.xml">estor_rechtsgelehrsamkeit01_1757_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0019.xml">estor_rechtsgelehrsamkeit01_1757_0019.xml</a>
                            </td>
                            <td>18</td>
                            <td>0</td>
@@ -4754,7 +4754,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0008.xml">estor_rechtsgelehrsamkeit01_1757_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0008.xml">estor_rechtsgelehrsamkeit01_1757_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -4773,7 +4773,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0016.xml">estor_rechtsgelehrsamkeit01_1757_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0016.xml">estor_rechtsgelehrsamkeit01_1757_0016.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -4792,7 +4792,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0022.xml">estor_rechtsgelehrsamkeit01_1757_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0022.xml">estor_rechtsgelehrsamkeit01_1757_0022.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -4811,7 +4811,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0013.xml">estor_rechtsgelehrsamkeit01_1757_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0013.xml">estor_rechtsgelehrsamkeit01_1757_0013.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -4830,7 +4830,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0026.xml">estor_rechtsgelehrsamkeit01_1757_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0026.xml">estor_rechtsgelehrsamkeit01_1757_0026.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -4849,7 +4849,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0029.xml">estor_rechtsgelehrsamkeit01_1757_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0029.xml">estor_rechtsgelehrsamkeit01_1757_0029.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -4868,7 +4868,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0031.xml">estor_rechtsgelehrsamkeit01_1757_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0031.xml">estor_rechtsgelehrsamkeit01_1757_0031.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -4887,7 +4887,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0014.xml">estor_rechtsgelehrsamkeit01_1757_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit01_1757/GT-PAGE/estor_rechtsgelehrsamkeit01_1757_0014.xml">estor_rechtsgelehrsamkeit01_1757_0014.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -4953,7 +4953,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0010.xml">ebeling_betrachtungen03_1747_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0010.xml">ebeling_betrachtungen03_1747_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -4972,7 +4972,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0007.xml">ebeling_betrachtungen03_1747_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0007.xml">ebeling_betrachtungen03_1747_0007.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -4991,7 +4991,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0112.xml">ebeling_betrachtungen03_1747_0112.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0112.xml">ebeling_betrachtungen03_1747_0112.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -5010,7 +5010,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0083.xml">ebeling_betrachtungen03_1747_0083.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0083.xml">ebeling_betrachtungen03_1747_0083.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5029,7 +5029,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0025.xml">ebeling_betrachtungen03_1747_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0025.xml">ebeling_betrachtungen03_1747_0025.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -5048,7 +5048,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0365.xml">ebeling_betrachtungen03_1747_0365.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0365.xml">ebeling_betrachtungen03_1747_0365.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5067,7 +5067,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0001.xml">ebeling_betrachtungen03_1747_0001.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0001.xml">ebeling_betrachtungen03_1747_0001.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -5086,7 +5086,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0033.xml">ebeling_betrachtungen03_1747_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0033.xml">ebeling_betrachtungen03_1747_0033.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -5105,7 +5105,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0005.xml">ebeling_betrachtungen03_1747_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0005.xml">ebeling_betrachtungen03_1747_0005.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5124,7 +5124,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0363.xml">ebeling_betrachtungen03_1747_0363.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0363.xml">ebeling_betrachtungen03_1747_0363.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -5143,7 +5143,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0158.xml">ebeling_betrachtungen03_1747_0158.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0158.xml">ebeling_betrachtungen03_1747_0158.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5162,7 +5162,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0039.xml">ebeling_betrachtungen03_1747_0039.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0039.xml">ebeling_betrachtungen03_1747_0039.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -5181,7 +5181,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0368.xml">ebeling_betrachtungen03_1747_0368.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0368.xml">ebeling_betrachtungen03_1747_0368.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5200,7 +5200,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0114.xml">ebeling_betrachtungen03_1747_0114.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0114.xml">ebeling_betrachtungen03_1747_0114.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -5219,7 +5219,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0011.xml">ebeling_betrachtungen03_1747_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0011.xml">ebeling_betrachtungen03_1747_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5238,7 +5238,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0008.xml">ebeling_betrachtungen03_1747_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0008.xml">ebeling_betrachtungen03_1747_0008.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -5257,7 +5257,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0107.xml">ebeling_betrachtungen03_1747_0107.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0107.xml">ebeling_betrachtungen03_1747_0107.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -5276,7 +5276,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0006.xml">ebeling_betrachtungen03_1747_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0006.xml">ebeling_betrachtungen03_1747_0006.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -5295,7 +5295,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0035.xml">ebeling_betrachtungen03_1747_0035.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0035.xml">ebeling_betrachtungen03_1747_0035.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5314,7 +5314,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0061.xml">ebeling_betrachtungen03_1747_0061.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0061.xml">ebeling_betrachtungen03_1747_0061.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5333,7 +5333,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0172.xml">ebeling_betrachtungen03_1747_0172.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0172.xml">ebeling_betrachtungen03_1747_0172.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5352,7 +5352,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0041.xml">ebeling_betrachtungen03_1747_0041.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0041.xml">ebeling_betrachtungen03_1747_0041.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -5371,7 +5371,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0009.xml">ebeling_betrachtungen03_1747_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0009.xml">ebeling_betrachtungen03_1747_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -5390,7 +5390,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0367.xml">ebeling_betrachtungen03_1747_0367.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0367.xml">ebeling_betrachtungen03_1747_0367.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5409,7 +5409,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0137.xml">ebeling_betrachtungen03_1747_0137.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0137.xml">ebeling_betrachtungen03_1747_0137.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5428,7 +5428,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0366.xml">ebeling_betrachtungen03_1747_0366.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0366.xml">ebeling_betrachtungen03_1747_0366.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -5447,7 +5447,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0004.xml">ebeling_betrachtungen03_1747_0004.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen03_1747/GT-PAGE/ebeling_betrachtungen03_1747_0004.xml">ebeling_betrachtungen03_1747_0004.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5513,7 +5513,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0033.xml">euler_rechenkunst02_1740_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0033.xml">euler_rechenkunst02_1740_0033.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -5532,7 +5532,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0050.xml">euler_rechenkunst02_1740_0050.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0050.xml">euler_rechenkunst02_1740_0050.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -5551,7 +5551,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0009.xml">euler_rechenkunst02_1740_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0009.xml">euler_rechenkunst02_1740_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -5570,7 +5570,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0015.xml">euler_rechenkunst02_1740_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0015.xml">euler_rechenkunst02_1740_0015.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -5589,7 +5589,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0043.xml">euler_rechenkunst02_1740_0043.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0043.xml">euler_rechenkunst02_1740_0043.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -5608,7 +5608,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0011.xml">euler_rechenkunst02_1740_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0011.xml">euler_rechenkunst02_1740_0011.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -5627,7 +5627,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0013.xml">euler_rechenkunst02_1740_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0013.xml">euler_rechenkunst02_1740_0013.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -5646,7 +5646,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0031.xml">euler_rechenkunst02_1740_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0031.xml">euler_rechenkunst02_1740_0031.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -5665,7 +5665,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0042.xml">euler_rechenkunst02_1740_0042.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0042.xml">euler_rechenkunst02_1740_0042.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5684,7 +5684,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0046.xml">euler_rechenkunst02_1740_0046.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0046.xml">euler_rechenkunst02_1740_0046.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -5703,7 +5703,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0008.xml">euler_rechenkunst02_1740_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0008.xml">euler_rechenkunst02_1740_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5722,7 +5722,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0037.xml">euler_rechenkunst02_1740_0037.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0037.xml">euler_rechenkunst02_1740_0037.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5741,7 +5741,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0027.xml">euler_rechenkunst02_1740_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0027.xml">euler_rechenkunst02_1740_0027.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -5760,7 +5760,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0041.xml">euler_rechenkunst02_1740_0041.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0041.xml">euler_rechenkunst02_1740_0041.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -5779,7 +5779,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0032.xml">euler_rechenkunst02_1740_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0032.xml">euler_rechenkunst02_1740_0032.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -5798,26 +5798,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0044.xml">euler_rechenkunst02_1740_0044.xml</a>
-                           </td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0047.xml">euler_rechenkunst02_1740_0047.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0044.xml">euler_rechenkunst02_1740_0044.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5836,7 +5817,26 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0014.xml">euler_rechenkunst02_1740_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0047.xml">euler_rechenkunst02_1740_0047.xml</a>
+                           </td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0014.xml">euler_rechenkunst02_1740_0014.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -5855,7 +5855,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0039.xml">euler_rechenkunst02_1740_0039.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0039.xml">euler_rechenkunst02_1740_0039.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -5874,7 +5874,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0038.xml">euler_rechenkunst02_1740_0038.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0038.xml">euler_rechenkunst02_1740_0038.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5893,7 +5893,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0040.xml">euler_rechenkunst02_1740_0040.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0040.xml">euler_rechenkunst02_1740_0040.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5912,7 +5912,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0012.xml">euler_rechenkunst02_1740_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0012.xml">euler_rechenkunst02_1740_0012.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -5931,7 +5931,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0007.xml">euler_rechenkunst02_1740_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0007.xml">euler_rechenkunst02_1740_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -5950,7 +5950,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0049.xml">euler_rechenkunst02_1740_0049.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0049.xml">euler_rechenkunst02_1740_0049.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5969,7 +5969,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0010.xml">euler_rechenkunst02_1740_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst02_1740/GT-PAGE/euler_rechenkunst02_1740_0010.xml">euler_rechenkunst02_1740_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6035,7 +6035,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0001.xml">ebeling_betrachtungen02_1747_0001.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0001.xml">ebeling_betrachtungen02_1747_0001.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -6054,7 +6054,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0368.xml">ebeling_betrachtungen02_1747_0368.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0368.xml">ebeling_betrachtungen02_1747_0368.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6073,7 +6073,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0367.xml">ebeling_betrachtungen02_1747_0367.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0367.xml">ebeling_betrachtungen02_1747_0367.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6092,7 +6092,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0130.xml">ebeling_betrachtungen02_1747_0130.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0130.xml">ebeling_betrachtungen02_1747_0130.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6111,7 +6111,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0163.xml">ebeling_betrachtungen02_1747_0163.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0163.xml">ebeling_betrachtungen02_1747_0163.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6130,7 +6130,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0246.xml">ebeling_betrachtungen02_1747_0246.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0246.xml">ebeling_betrachtungen02_1747_0246.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6149,7 +6149,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0310.xml">ebeling_betrachtungen02_1747_0310.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0310.xml">ebeling_betrachtungen02_1747_0310.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -6168,7 +6168,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0006.xml">ebeling_betrachtungen02_1747_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0006.xml">ebeling_betrachtungen02_1747_0006.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -6187,7 +6187,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0017.xml">ebeling_betrachtungen02_1747_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0017.xml">ebeling_betrachtungen02_1747_0017.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6206,7 +6206,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0221.xml">ebeling_betrachtungen02_1747_0221.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0221.xml">ebeling_betrachtungen02_1747_0221.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6225,7 +6225,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0294.xml">ebeling_betrachtungen02_1747_0294.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0294.xml">ebeling_betrachtungen02_1747_0294.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6244,7 +6244,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0021.xml">ebeling_betrachtungen02_1747_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0021.xml">ebeling_betrachtungen02_1747_0021.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6263,7 +6263,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0007.xml">ebeling_betrachtungen02_1747_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0007.xml">ebeling_betrachtungen02_1747_0007.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -6282,7 +6282,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0009.xml">ebeling_betrachtungen02_1747_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0009.xml">ebeling_betrachtungen02_1747_0009.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6301,7 +6301,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0010.xml">ebeling_betrachtungen02_1747_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0010.xml">ebeling_betrachtungen02_1747_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6320,7 +6320,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0148.xml">ebeling_betrachtungen02_1747_0148.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0148.xml">ebeling_betrachtungen02_1747_0148.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -6339,7 +6339,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0011.xml">ebeling_betrachtungen02_1747_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0011.xml">ebeling_betrachtungen02_1747_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6358,7 +6358,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0365.xml">ebeling_betrachtungen02_1747_0365.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0365.xml">ebeling_betrachtungen02_1747_0365.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6377,7 +6377,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0165.xml">ebeling_betrachtungen02_1747_0165.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0165.xml">ebeling_betrachtungen02_1747_0165.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6396,7 +6396,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0008.xml">ebeling_betrachtungen02_1747_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0008.xml">ebeling_betrachtungen02_1747_0008.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -6415,7 +6415,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0204.xml">ebeling_betrachtungen02_1747_0204.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0204.xml">ebeling_betrachtungen02_1747_0204.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -6434,7 +6434,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0099.xml">ebeling_betrachtungen02_1747_0099.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0099.xml">ebeling_betrachtungen02_1747_0099.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6453,7 +6453,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0085.xml">ebeling_betrachtungen02_1747_0085.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0085.xml">ebeling_betrachtungen02_1747_0085.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -6472,7 +6472,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0005.xml">ebeling_betrachtungen02_1747_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0005.xml">ebeling_betrachtungen02_1747_0005.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6491,7 +6491,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0366.xml">ebeling_betrachtungen02_1747_0366.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0366.xml">ebeling_betrachtungen02_1747_0366.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6510,7 +6510,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0020.xml">ebeling_betrachtungen02_1747_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0020.xml">ebeling_betrachtungen02_1747_0020.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6529,7 +6529,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0004.xml">ebeling_betrachtungen02_1747_0004.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen02_1747/GT-PAGE/ebeling_betrachtungen02_1747_0004.xml">ebeling_betrachtungen02_1747_0004.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -6595,7 +6595,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0609.xml">drude_pflanzengeographie_1890_0609.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0609.xml">drude_pflanzengeographie_1890_0609.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -6614,7 +6614,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0027.xml">drude_pflanzengeographie_1890_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0027.xml">drude_pflanzengeographie_1890_0027.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6633,7 +6633,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0593.xml">drude_pflanzengeographie_1890_0593.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0593.xml">drude_pflanzengeographie_1890_0593.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -6652,7 +6652,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0026.xml">drude_pflanzengeographie_1890_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0026.xml">drude_pflanzengeographie_1890_0026.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6671,7 +6671,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0032.xml">drude_pflanzengeographie_1890_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0032.xml">drude_pflanzengeographie_1890_0032.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6690,7 +6690,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0589.xml">drude_pflanzengeographie_1890_0589.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0589.xml">drude_pflanzengeographie_1890_0589.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6709,7 +6709,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0031.xml">drude_pflanzengeographie_1890_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0031.xml">drude_pflanzengeographie_1890_0031.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6728,7 +6728,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0025.xml">drude_pflanzengeographie_1890_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0025.xml">drude_pflanzengeographie_1890_0025.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6747,7 +6747,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0028.xml">drude_pflanzengeographie_1890_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0028.xml">drude_pflanzengeographie_1890_0028.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6766,7 +6766,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0590.xml">drude_pflanzengeographie_1890_0590.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0590.xml">drude_pflanzengeographie_1890_0590.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6785,7 +6785,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0029.xml">drude_pflanzengeographie_1890_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0029.xml">drude_pflanzengeographie_1890_0029.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6804,7 +6804,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0591.xml">drude_pflanzengeographie_1890_0591.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0591.xml">drude_pflanzengeographie_1890_0591.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6823,7 +6823,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0022.xml">drude_pflanzengeographie_1890_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0022.xml">drude_pflanzengeographie_1890_0022.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6842,7 +6842,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0033.xml">drude_pflanzengeographie_1890_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0033.xml">drude_pflanzengeographie_1890_0033.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6861,7 +6861,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0014.xml">drude_pflanzengeographie_1890_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0014.xml">drude_pflanzengeographie_1890_0014.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6880,7 +6880,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0020.xml">drude_pflanzengeographie_1890_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0020.xml">drude_pflanzengeographie_1890_0020.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6899,7 +6899,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0017.xml">drude_pflanzengeographie_1890_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0017.xml">drude_pflanzengeographie_1890_0017.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6918,7 +6918,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0016.xml">drude_pflanzengeographie_1890_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0016.xml">drude_pflanzengeographie_1890_0016.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6937,7 +6937,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0015.xml">drude_pflanzengeographie_1890_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0015.xml">drude_pflanzengeographie_1890_0015.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6956,7 +6956,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0030.xml">drude_pflanzengeographie_1890_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/drude_pflanzengeographie_1890/GT-PAGE/drude_pflanzengeographie_1890_0030.xml">drude_pflanzengeographie_1890_0030.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7022,7 +7022,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0022.xml">fassmann_narr_1729_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0022.xml">fassmann_narr_1729_0022.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7041,7 +7041,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0041.xml">fassmann_narr_1729_0041.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0041.xml">fassmann_narr_1729_0041.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7060,7 +7060,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0024.xml">fassmann_narr_1729_0024.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0024.xml">fassmann_narr_1729_0024.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7079,7 +7079,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0043.xml">fassmann_narr_1729_0043.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0043.xml">fassmann_narr_1729_0043.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7098,7 +7098,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0032.xml">fassmann_narr_1729_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0032.xml">fassmann_narr_1729_0032.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7117,7 +7117,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0017.xml">fassmann_narr_1729_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0017.xml">fassmann_narr_1729_0017.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7136,7 +7136,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0011.xml">fassmann_narr_1729_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0011.xml">fassmann_narr_1729_0011.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7155,7 +7155,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0012.xml">fassmann_narr_1729_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0012.xml">fassmann_narr_1729_0012.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -7174,7 +7174,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0023.xml">fassmann_narr_1729_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0023.xml">fassmann_narr_1729_0023.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7193,7 +7193,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0019.xml">fassmann_narr_1729_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0019.xml">fassmann_narr_1729_0019.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -7212,7 +7212,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0014.xml">fassmann_narr_1729_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0014.xml">fassmann_narr_1729_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -7231,7 +7231,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0020.xml">fassmann_narr_1729_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0020.xml">fassmann_narr_1729_0020.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -7250,7 +7250,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0018.xml">fassmann_narr_1729_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0018.xml">fassmann_narr_1729_0018.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -7269,7 +7269,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0016.xml">fassmann_narr_1729_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0016.xml">fassmann_narr_1729_0016.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -7288,7 +7288,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0044.xml">fassmann_narr_1729_0044.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0044.xml">fassmann_narr_1729_0044.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7307,7 +7307,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0025.xml">fassmann_narr_1729_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0025.xml">fassmann_narr_1729_0025.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7326,7 +7326,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0015.xml">fassmann_narr_1729_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0015.xml">fassmann_narr_1729_0015.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7345,7 +7345,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0013.xml">fassmann_narr_1729_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0013.xml">fassmann_narr_1729_0013.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7364,7 +7364,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0021.xml">fassmann_narr_1729_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0021.xml">fassmann_narr_1729_0021.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7383,7 +7383,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0050.xml">fassmann_narr_1729_0050.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0050.xml">fassmann_narr_1729_0050.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7402,7 +7402,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0033.xml">fassmann_narr_1729_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fassmann_narr_1729/GT-PAGE/fassmann_narr_1729_0033.xml">fassmann_narr_1729_0033.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7468,7 +7468,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0022.xml">faulhaber_instrument_1610_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0022.xml">faulhaber_instrument_1610_0022.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -7487,7 +7487,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0010.xml">faulhaber_instrument_1610_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0010.xml">faulhaber_instrument_1610_0010.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7506,7 +7506,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0007.xml">faulhaber_instrument_1610_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0007.xml">faulhaber_instrument_1610_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7525,7 +7525,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0021.xml">faulhaber_instrument_1610_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0021.xml">faulhaber_instrument_1610_0021.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -7544,7 +7544,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0029.xml">faulhaber_instrument_1610_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0029.xml">faulhaber_instrument_1610_0029.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -7563,7 +7563,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0004.xml">faulhaber_instrument_1610_0004.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0004.xml">faulhaber_instrument_1610_0004.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7582,7 +7582,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0009.xml">faulhaber_instrument_1610_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0009.xml">faulhaber_instrument_1610_0009.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -7601,7 +7601,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0035.xml">faulhaber_instrument_1610_0035.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0035.xml">faulhaber_instrument_1610_0035.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -7620,7 +7620,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0024.xml">faulhaber_instrument_1610_0024.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0024.xml">faulhaber_instrument_1610_0024.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -7639,7 +7639,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0037.xml">faulhaber_instrument_1610_0037.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0037.xml">faulhaber_instrument_1610_0037.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -7658,7 +7658,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0031.xml">faulhaber_instrument_1610_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0031.xml">faulhaber_instrument_1610_0031.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -7677,7 +7677,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0028.xml">faulhaber_instrument_1610_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0028.xml">faulhaber_instrument_1610_0028.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -7696,7 +7696,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0030.xml">faulhaber_instrument_1610_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0030.xml">faulhaber_instrument_1610_0030.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -7715,7 +7715,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0019.xml">faulhaber_instrument_1610_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0019.xml">faulhaber_instrument_1610_0019.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -7734,7 +7734,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0006.xml">faulhaber_instrument_1610_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0006.xml">faulhaber_instrument_1610_0006.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -7753,7 +7753,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0027.xml">faulhaber_instrument_1610_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0027.xml">faulhaber_instrument_1610_0027.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -7772,7 +7772,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0008.xml">faulhaber_instrument_1610_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0008.xml">faulhaber_instrument_1610_0008.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7791,7 +7791,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0034.xml">faulhaber_instrument_1610_0034.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0034.xml">faulhaber_instrument_1610_0034.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -7810,7 +7810,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0003.xml">faulhaber_instrument_1610_0003.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0003.xml">faulhaber_instrument_1610_0003.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7829,7 +7829,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0023.xml">faulhaber_instrument_1610_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0023.xml">faulhaber_instrument_1610_0023.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -7848,7 +7848,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0020.xml">faulhaber_instrument_1610_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0020.xml">faulhaber_instrument_1610_0020.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -7867,7 +7867,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0025.xml">faulhaber_instrument_1610_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0025.xml">faulhaber_instrument_1610_0025.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -7886,7 +7886,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0011.xml">faulhaber_instrument_1610_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0011.xml">faulhaber_instrument_1610_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -7905,7 +7905,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0005.xml">faulhaber_instrument_1610_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/faulhaber_instrument_1610/GT-PAGE/faulhaber_instrument_1610_0005.xml">faulhaber_instrument_1610_0005.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -7971,7 +7971,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0086.xml">devrient_nationaltheater_1849_0086.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0086.xml">devrient_nationaltheater_1849_0086.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -7990,7 +7990,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0031.xml">devrient_nationaltheater_1849_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0031.xml">devrient_nationaltheater_1849_0031.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8009,7 +8009,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0015.xml">devrient_nationaltheater_1849_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0015.xml">devrient_nationaltheater_1849_0015.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8028,7 +8028,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0064.xml">devrient_nationaltheater_1849_0064.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0064.xml">devrient_nationaltheater_1849_0064.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8047,7 +8047,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0040.xml">devrient_nationaltheater_1849_0040.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0040.xml">devrient_nationaltheater_1849_0040.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8066,7 +8066,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0021.xml">devrient_nationaltheater_1849_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0021.xml">devrient_nationaltheater_1849_0021.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8085,7 +8085,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0037.xml">devrient_nationaltheater_1849_0037.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0037.xml">devrient_nationaltheater_1849_0037.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8104,7 +8104,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0075.xml">devrient_nationaltheater_1849_0075.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0075.xml">devrient_nationaltheater_1849_0075.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8123,7 +8123,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0058.xml">devrient_nationaltheater_1849_0058.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0058.xml">devrient_nationaltheater_1849_0058.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8142,7 +8142,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0018.xml">devrient_nationaltheater_1849_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0018.xml">devrient_nationaltheater_1849_0018.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8161,7 +8161,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0097.xml">devrient_nationaltheater_1849_0097.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0097.xml">devrient_nationaltheater_1849_0097.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8180,7 +8180,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0038.xml">devrient_nationaltheater_1849_0038.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0038.xml">devrient_nationaltheater_1849_0038.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8199,7 +8199,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0045.xml">devrient_nationaltheater_1849_0045.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0045.xml">devrient_nationaltheater_1849_0045.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8218,7 +8218,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0030.xml">devrient_nationaltheater_1849_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0030.xml">devrient_nationaltheater_1849_0030.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8237,7 +8237,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0048.xml">devrient_nationaltheater_1849_0048.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0048.xml">devrient_nationaltheater_1849_0048.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8256,7 +8256,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0072.xml">devrient_nationaltheater_1849_0072.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0072.xml">devrient_nationaltheater_1849_0072.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8275,7 +8275,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0014.xml">devrient_nationaltheater_1849_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0014.xml">devrient_nationaltheater_1849_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8294,7 +8294,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0036.xml">devrient_nationaltheater_1849_0036.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0036.xml">devrient_nationaltheater_1849_0036.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8313,7 +8313,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0022.xml">devrient_nationaltheater_1849_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0022.xml">devrient_nationaltheater_1849_0022.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8332,7 +8332,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0070.xml">devrient_nationaltheater_1849_0070.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/devrient_nationaltheater_1849/GT-PAGE/devrient_nationaltheater_1849_0070.xml">devrient_nationaltheater_1849_0070.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8398,7 +8398,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0030.xml">ernst_nordamerika_1820_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0030.xml">ernst_nordamerika_1820_0030.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8417,7 +8417,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0018.xml">ernst_nordamerika_1820_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0018.xml">ernst_nordamerika_1820_0018.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8436,7 +8436,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0196.xml">ernst_nordamerika_1820_0196.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0196.xml">ernst_nordamerika_1820_0196.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8455,7 +8455,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0025.xml">ernst_nordamerika_1820_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0025.xml">ernst_nordamerika_1820_0025.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8474,7 +8474,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0021.xml">ernst_nordamerika_1820_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0021.xml">ernst_nordamerika_1820_0021.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8493,7 +8493,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0020.xml">ernst_nordamerika_1820_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0020.xml">ernst_nordamerika_1820_0020.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8512,7 +8512,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0022.xml">ernst_nordamerika_1820_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0022.xml">ernst_nordamerika_1820_0022.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8531,7 +8531,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0153.xml">ernst_nordamerika_1820_0153.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0153.xml">ernst_nordamerika_1820_0153.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8550,7 +8550,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0150.xml">ernst_nordamerika_1820_0150.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0150.xml">ernst_nordamerika_1820_0150.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8569,7 +8569,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0014.xml">ernst_nordamerika_1820_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0014.xml">ernst_nordamerika_1820_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8588,7 +8588,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0027.xml">ernst_nordamerika_1820_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0027.xml">ernst_nordamerika_1820_0027.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8607,7 +8607,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0026.xml">ernst_nordamerika_1820_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0026.xml">ernst_nordamerika_1820_0026.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8626,7 +8626,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0010.xml">ernst_nordamerika_1820_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0010.xml">ernst_nordamerika_1820_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8645,7 +8645,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0013.xml">ernst_nordamerika_1820_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0013.xml">ernst_nordamerika_1820_0013.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8664,7 +8664,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0012.xml">ernst_nordamerika_1820_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0012.xml">ernst_nordamerika_1820_0012.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8683,7 +8683,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0151.xml">ernst_nordamerika_1820_0151.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0151.xml">ernst_nordamerika_1820_0151.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -8702,7 +8702,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0011.xml">ernst_nordamerika_1820_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0011.xml">ernst_nordamerika_1820_0011.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8721,7 +8721,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0152.xml">ernst_nordamerika_1820_0152.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0152.xml">ernst_nordamerika_1820_0152.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8740,7 +8740,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0028.xml">ernst_nordamerika_1820_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0028.xml">ernst_nordamerika_1820_0028.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8759,7 +8759,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0019.xml">ernst_nordamerika_1820_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ernst_nordamerika_1820/GT-PAGE/ernst_nordamerika_1820_0019.xml">ernst_nordamerika_1820_0019.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8825,7 +8825,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0005.xml">ebeling_betrachtungen01_1747_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0005.xml">ebeling_betrachtungen01_1747_0005.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -8844,7 +8844,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0113.xml">ebeling_betrachtungen01_1747_0113.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0113.xml">ebeling_betrachtungen01_1747_0113.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -8863,7 +8863,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0004.xml">ebeling_betrachtungen01_1747_0004.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0004.xml">ebeling_betrachtungen01_1747_0004.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8882,7 +8882,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0242.xml">ebeling_betrachtungen01_1747_0242.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0242.xml">ebeling_betrachtungen01_1747_0242.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -8901,7 +8901,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0345.xml">ebeling_betrachtungen01_1747_0345.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0345.xml">ebeling_betrachtungen01_1747_0345.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8920,7 +8920,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0383.xml">ebeling_betrachtungen01_1747_0383.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0383.xml">ebeling_betrachtungen01_1747_0383.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -8939,7 +8939,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0001.xml">ebeling_betrachtungen01_1747_0001.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0001.xml">ebeling_betrachtungen01_1747_0001.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -8958,7 +8958,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0148.xml">ebeling_betrachtungen01_1747_0148.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0148.xml">ebeling_betrachtungen01_1747_0148.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8977,7 +8977,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0381.xml">ebeling_betrachtungen01_1747_0381.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0381.xml">ebeling_betrachtungen01_1747_0381.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -8996,7 +8996,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0112.xml">ebeling_betrachtungen01_1747_0112.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0112.xml">ebeling_betrachtungen01_1747_0112.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9015,7 +9015,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0108.xml">ebeling_betrachtungen01_1747_0108.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0108.xml">ebeling_betrachtungen01_1747_0108.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9034,7 +9034,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0027.xml">ebeling_betrachtungen01_1747_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0027.xml">ebeling_betrachtungen01_1747_0027.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9053,7 +9053,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0010.xml">ebeling_betrachtungen01_1747_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0010.xml">ebeling_betrachtungen01_1747_0010.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9072,7 +9072,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0114.xml">ebeling_betrachtungen01_1747_0114.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0114.xml">ebeling_betrachtungen01_1747_0114.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9091,7 +9091,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0006.xml">ebeling_betrachtungen01_1747_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0006.xml">ebeling_betrachtungen01_1747_0006.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9110,7 +9110,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0011.xml">ebeling_betrachtungen01_1747_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0011.xml">ebeling_betrachtungen01_1747_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9129,7 +9129,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0382.xml">ebeling_betrachtungen01_1747_0382.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0382.xml">ebeling_betrachtungen01_1747_0382.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9148,7 +9148,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0384.xml">ebeling_betrachtungen01_1747_0384.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0384.xml">ebeling_betrachtungen01_1747_0384.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9167,7 +9167,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0086.xml">ebeling_betrachtungen01_1747_0086.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0086.xml">ebeling_betrachtungen01_1747_0086.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9186,7 +9186,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0008.xml">ebeling_betrachtungen01_1747_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0008.xml">ebeling_betrachtungen01_1747_0008.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9205,7 +9205,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0009.xml">ebeling_betrachtungen01_1747_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0009.xml">ebeling_betrachtungen01_1747_0009.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9224,7 +9224,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0213.xml">ebeling_betrachtungen01_1747_0213.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0213.xml">ebeling_betrachtungen01_1747_0213.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9243,7 +9243,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0028.xml">ebeling_betrachtungen01_1747_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0028.xml">ebeling_betrachtungen01_1747_0028.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9262,7 +9262,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0052.xml">ebeling_betrachtungen01_1747_0052.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0052.xml">ebeling_betrachtungen01_1747_0052.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9281,7 +9281,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0245.xml">ebeling_betrachtungen01_1747_0245.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0245.xml">ebeling_betrachtungen01_1747_0245.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9300,7 +9300,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0166.xml">ebeling_betrachtungen01_1747_0166.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0166.xml">ebeling_betrachtungen01_1747_0166.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9319,7 +9319,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0007.xml">ebeling_betrachtungen01_1747_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen01_1747/GT-PAGE/ebeling_betrachtungen01_1747_0007.xml">ebeling_betrachtungen01_1747_0007.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9385,7 +9385,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0037.xml">dubois_naturerkennen_1872_0037.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0037.xml">dubois_naturerkennen_1872_0037.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9404,7 +9404,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0040.xml">dubois_naturerkennen_1872_0040.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0040.xml">dubois_naturerkennen_1872_0040.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9423,7 +9423,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0027.xml">dubois_naturerkennen_1872_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0027.xml">dubois_naturerkennen_1872_0027.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9442,7 +9442,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0030.xml">dubois_naturerkennen_1872_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0030.xml">dubois_naturerkennen_1872_0030.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9461,7 +9461,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0014.xml">dubois_naturerkennen_1872_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0014.xml">dubois_naturerkennen_1872_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9480,7 +9480,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0039.xml">dubois_naturerkennen_1872_0039.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0039.xml">dubois_naturerkennen_1872_0039.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9499,7 +9499,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0031.xml">dubois_naturerkennen_1872_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0031.xml">dubois_naturerkennen_1872_0031.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9518,7 +9518,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0024.xml">dubois_naturerkennen_1872_0024.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0024.xml">dubois_naturerkennen_1872_0024.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9537,7 +9537,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0035.xml">dubois_naturerkennen_1872_0035.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0035.xml">dubois_naturerkennen_1872_0035.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9556,7 +9556,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0038.xml">dubois_naturerkennen_1872_0038.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0038.xml">dubois_naturerkennen_1872_0038.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9575,7 +9575,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0044.xml">dubois_naturerkennen_1872_0044.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0044.xml">dubois_naturerkennen_1872_0044.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9594,7 +9594,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0020.xml">dubois_naturerkennen_1872_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0020.xml">dubois_naturerkennen_1872_0020.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9613,7 +9613,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0026.xml">dubois_naturerkennen_1872_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0026.xml">dubois_naturerkennen_1872_0026.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9632,7 +9632,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0010.xml">dubois_naturerkennen_1872_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0010.xml">dubois_naturerkennen_1872_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9651,7 +9651,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0034.xml">dubois_naturerkennen_1872_0034.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0034.xml">dubois_naturerkennen_1872_0034.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9670,7 +9670,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0032.xml">dubois_naturerkennen_1872_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0032.xml">dubois_naturerkennen_1872_0032.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9689,7 +9689,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0019.xml">dubois_naturerkennen_1872_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0019.xml">dubois_naturerkennen_1872_0019.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9708,7 +9708,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0022.xml">dubois_naturerkennen_1872_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0022.xml">dubois_naturerkennen_1872_0022.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9727,7 +9727,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0013.xml">dubois_naturerkennen_1872_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0013.xml">dubois_naturerkennen_1872_0013.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9746,7 +9746,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0036.xml">dubois_naturerkennen_1872_0036.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dubois_naturerkennen_1872/GT-PAGE/dubois_naturerkennen_1872_0036.xml">dubois_naturerkennen_1872_0036.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9812,7 +9812,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0010.xml">eiteritz_affe_1719_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0010.xml">eiteritz_affe_1719_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9831,7 +9831,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1093.xml">eiteritz_affe_1719_1093.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1093.xml">eiteritz_affe_1719_1093.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9850,7 +9850,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1098.xml">eiteritz_affe_1719_1098.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1098.xml">eiteritz_affe_1719_1098.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9869,7 +9869,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1095.xml">eiteritz_affe_1719_1095.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1095.xml">eiteritz_affe_1719_1095.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9888,7 +9888,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0009.xml">eiteritz_affe_1719_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0009.xml">eiteritz_affe_1719_0009.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -9907,7 +9907,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0005.xml">eiteritz_affe_1719_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0005.xml">eiteritz_affe_1719_0005.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -9926,7 +9926,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1094.xml">eiteritz_affe_1719_1094.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1094.xml">eiteritz_affe_1719_1094.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9945,7 +9945,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0012.xml">eiteritz_affe_1719_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0012.xml">eiteritz_affe_1719_0012.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9964,7 +9964,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1102.xml">eiteritz_affe_1719_1102.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1102.xml">eiteritz_affe_1719_1102.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -9983,7 +9983,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0007.xml">eiteritz_affe_1719_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0007.xml">eiteritz_affe_1719_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10002,7 +10002,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1097.xml">eiteritz_affe_1719_1097.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1097.xml">eiteritz_affe_1719_1097.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10021,7 +10021,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1100.xml">eiteritz_affe_1719_1100.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1100.xml">eiteritz_affe_1719_1100.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10040,7 +10040,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1091.xml">eiteritz_affe_1719_1091.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1091.xml">eiteritz_affe_1719_1091.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10059,7 +10059,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0015.xml">eiteritz_affe_1719_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0015.xml">eiteritz_affe_1719_0015.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10078,7 +10078,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1089.xml">eiteritz_affe_1719_1089.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1089.xml">eiteritz_affe_1719_1089.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -10097,7 +10097,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0013.xml">eiteritz_affe_1719_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0013.xml">eiteritz_affe_1719_0013.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10116,7 +10116,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0011.xml">eiteritz_affe_1719_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0011.xml">eiteritz_affe_1719_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10135,7 +10135,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0008.xml">eiteritz_affe_1719_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0008.xml">eiteritz_affe_1719_0008.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10154,7 +10154,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1096.xml">eiteritz_affe_1719_1096.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1096.xml">eiteritz_affe_1719_1096.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10173,7 +10173,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0014.xml">eiteritz_affe_1719_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0014.xml">eiteritz_affe_1719_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10192,7 +10192,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0025.xml">eiteritz_affe_1719_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_0025.xml">eiteritz_affe_1719_0025.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10211,7 +10211,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1092.xml">eiteritz_affe_1719_1092.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1092.xml">eiteritz_affe_1719_1092.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10230,7 +10230,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1090.xml">eiteritz_affe_1719_1090.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1090.xml">eiteritz_affe_1719_1090.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10249,7 +10249,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1099.xml">eiteritz_affe_1719_1099.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eiteritz_affe_1719/GT-PAGE/eiteritz_affe_1719_1099.xml">eiteritz_affe_1719_1099.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10315,7 +10315,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0238.xml">fichte_reden_1808_0238.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0238.xml">fichte_reden_1808_0238.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10334,7 +10334,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0015.xml">fichte_reden_1808_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0015.xml">fichte_reden_1808_0015.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10353,7 +10353,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0158.xml">fichte_reden_1808_0158.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0158.xml">fichte_reden_1808_0158.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10372,7 +10372,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0148.xml">fichte_reden_1808_0148.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0148.xml">fichte_reden_1808_0148.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10391,7 +10391,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0245.xml">fichte_reden_1808_0245.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0245.xml">fichte_reden_1808_0245.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10410,7 +10410,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0007.xml">fichte_reden_1808_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0007.xml">fichte_reden_1808_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10429,7 +10429,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0079.xml">fichte_reden_1808_0079.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0079.xml">fichte_reden_1808_0079.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10448,7 +10448,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0261.xml">fichte_reden_1808_0261.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0261.xml">fichte_reden_1808_0261.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10467,7 +10467,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0130.xml">fichte_reden_1808_0130.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0130.xml">fichte_reden_1808_0130.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10486,7 +10486,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0141.xml">fichte_reden_1808_0141.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0141.xml">fichte_reden_1808_0141.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10505,7 +10505,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0337.xml">fichte_reden_1808_0337.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0337.xml">fichte_reden_1808_0337.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10524,7 +10524,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0237.xml">fichte_reden_1808_0237.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0237.xml">fichte_reden_1808_0237.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10543,7 +10543,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0240.xml">fichte_reden_1808_0240.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0240.xml">fichte_reden_1808_0240.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10562,7 +10562,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0252.xml">fichte_reden_1808_0252.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0252.xml">fichte_reden_1808_0252.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10581,7 +10581,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0229.xml">fichte_reden_1808_0229.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0229.xml">fichte_reden_1808_0229.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10600,7 +10600,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0251.xml">fichte_reden_1808_0251.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0251.xml">fichte_reden_1808_0251.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10619,7 +10619,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0045.xml">fichte_reden_1808_0045.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0045.xml">fichte_reden_1808_0045.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10638,7 +10638,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0242.xml">fichte_reden_1808_0242.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0242.xml">fichte_reden_1808_0242.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10657,7 +10657,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0305.xml">fichte_reden_1808_0305.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0305.xml">fichte_reden_1808_0305.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10676,7 +10676,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0258.xml">fichte_reden_1808_0258.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_reden_1808/GT-PAGE/fichte_reden_1808_0258.xml">fichte_reden_1808_0258.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10742,7 +10742,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0113.xml">ebbinghaus_gedaechtnis_1885_0113.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0113.xml">ebbinghaus_gedaechtnis_1885_0113.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10761,7 +10761,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0116.xml">ebbinghaus_gedaechtnis_1885_0116.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0116.xml">ebbinghaus_gedaechtnis_1885_0116.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10780,7 +10780,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0025.xml">ebbinghaus_gedaechtnis_1885_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0025.xml">ebbinghaus_gedaechtnis_1885_0025.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10799,7 +10799,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0021.xml">ebbinghaus_gedaechtnis_1885_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0021.xml">ebbinghaus_gedaechtnis_1885_0021.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10818,7 +10818,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0114.xml">ebbinghaus_gedaechtnis_1885_0114.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0114.xml">ebbinghaus_gedaechtnis_1885_0114.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10837,7 +10837,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0022.xml">ebbinghaus_gedaechtnis_1885_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0022.xml">ebbinghaus_gedaechtnis_1885_0022.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10856,7 +10856,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0152.xml">ebbinghaus_gedaechtnis_1885_0152.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0152.xml">ebbinghaus_gedaechtnis_1885_0152.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -10875,7 +10875,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0179.xml">ebbinghaus_gedaechtnis_1885_0179.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0179.xml">ebbinghaus_gedaechtnis_1885_0179.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10894,7 +10894,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0023.xml">ebbinghaus_gedaechtnis_1885_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0023.xml">ebbinghaus_gedaechtnis_1885_0023.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10913,7 +10913,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0117.xml">ebbinghaus_gedaechtnis_1885_0117.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0117.xml">ebbinghaus_gedaechtnis_1885_0117.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -10932,7 +10932,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0017.xml">ebbinghaus_gedaechtnis_1885_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0017.xml">ebbinghaus_gedaechtnis_1885_0017.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10951,7 +10951,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0026.xml">ebbinghaus_gedaechtnis_1885_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0026.xml">ebbinghaus_gedaechtnis_1885_0026.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10970,7 +10970,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0112.xml">ebbinghaus_gedaechtnis_1885_0112.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0112.xml">ebbinghaus_gedaechtnis_1885_0112.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10989,7 +10989,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0020.xml">ebbinghaus_gedaechtnis_1885_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0020.xml">ebbinghaus_gedaechtnis_1885_0020.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11008,7 +11008,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0153.xml">ebbinghaus_gedaechtnis_1885_0153.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0153.xml">ebbinghaus_gedaechtnis_1885_0153.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -11027,7 +11027,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0019.xml">ebbinghaus_gedaechtnis_1885_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0019.xml">ebbinghaus_gedaechtnis_1885_0019.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -11046,7 +11046,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0018.xml">ebbinghaus_gedaechtnis_1885_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0018.xml">ebbinghaus_gedaechtnis_1885_0018.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11065,7 +11065,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0158.xml">ebbinghaus_gedaechtnis_1885_0158.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0158.xml">ebbinghaus_gedaechtnis_1885_0158.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -11084,7 +11084,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0115.xml">ebbinghaus_gedaechtnis_1885_0115.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0115.xml">ebbinghaus_gedaechtnis_1885_0115.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -11103,7 +11103,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0014.xml">ebbinghaus_gedaechtnis_1885_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebbinghaus_gedaechtnis_1885/GT-PAGE/ebbinghaus_gedaechtnis_1885_0014.xml">ebbinghaus_gedaechtnis_1885_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11169,7 +11169,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0028.xml">falke_trachten01_1858_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0028.xml">falke_trachten01_1858_0028.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11188,7 +11188,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0030.xml">falke_trachten01_1858_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0030.xml">falke_trachten01_1858_0030.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11207,7 +11207,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0027.xml">falke_trachten01_1858_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0027.xml">falke_trachten01_1858_0027.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11226,7 +11226,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0025.xml">falke_trachten01_1858_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0025.xml">falke_trachten01_1858_0025.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11245,7 +11245,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0013.xml">falke_trachten01_1858_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0013.xml">falke_trachten01_1858_0013.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11264,7 +11264,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0029.xml">falke_trachten01_1858_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0029.xml">falke_trachten01_1858_0029.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11283,7 +11283,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0036.xml">falke_trachten01_1858_0036.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0036.xml">falke_trachten01_1858_0036.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11302,7 +11302,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0040.xml">falke_trachten01_1858_0040.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0040.xml">falke_trachten01_1858_0040.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11321,7 +11321,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0020.xml">falke_trachten01_1858_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0020.xml">falke_trachten01_1858_0020.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11340,7 +11340,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0034.xml">falke_trachten01_1858_0034.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0034.xml">falke_trachten01_1858_0034.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -11359,7 +11359,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0031.xml">falke_trachten01_1858_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0031.xml">falke_trachten01_1858_0031.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -11378,7 +11378,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0033.xml">falke_trachten01_1858_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0033.xml">falke_trachten01_1858_0033.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11397,7 +11397,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0022.xml">falke_trachten01_1858_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0022.xml">falke_trachten01_1858_0022.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11416,7 +11416,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0032.xml">falke_trachten01_1858_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0032.xml">falke_trachten01_1858_0032.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11435,7 +11435,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0035.xml">falke_trachten01_1858_0035.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0035.xml">falke_trachten01_1858_0035.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -11454,7 +11454,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0037.xml">falke_trachten01_1858_0037.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0037.xml">falke_trachten01_1858_0037.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -11473,7 +11473,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0023.xml">falke_trachten01_1858_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0023.xml">falke_trachten01_1858_0023.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11492,7 +11492,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0024.xml">falke_trachten01_1858_0024.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0024.xml">falke_trachten01_1858_0024.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11511,7 +11511,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0026.xml">falke_trachten01_1858_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0026.xml">falke_trachten01_1858_0026.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11530,7 +11530,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0021.xml">falke_trachten01_1858_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten01_1858/GT-PAGE/falke_trachten01_1858_0021.xml">falke_trachten01_1858_0021.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -11596,7 +11596,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0113.xml">eichendorff_dichter_1834_0113.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0113.xml">eichendorff_dichter_1834_0113.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11615,7 +11615,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0236.xml">eichendorff_dichter_1834_0236.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0236.xml">eichendorff_dichter_1834_0236.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11634,7 +11634,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0194.xml">eichendorff_dichter_1834_0194.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0194.xml">eichendorff_dichter_1834_0194.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11653,7 +11653,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0204.xml">eichendorff_dichter_1834_0204.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0204.xml">eichendorff_dichter_1834_0204.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11672,7 +11672,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0238.xml">eichendorff_dichter_1834_0238.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0238.xml">eichendorff_dichter_1834_0238.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11691,7 +11691,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0190.xml">eichendorff_dichter_1834_0190.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0190.xml">eichendorff_dichter_1834_0190.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11710,7 +11710,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0212.xml">eichendorff_dichter_1834_0212.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0212.xml">eichendorff_dichter_1834_0212.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11729,7 +11729,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0101.xml">eichendorff_dichter_1834_0101.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0101.xml">eichendorff_dichter_1834_0101.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11748,7 +11748,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0100.xml">eichendorff_dichter_1834_0100.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0100.xml">eichendorff_dichter_1834_0100.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11767,7 +11767,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0118.xml">eichendorff_dichter_1834_0118.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0118.xml">eichendorff_dichter_1834_0118.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11786,7 +11786,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0119.xml">eichendorff_dichter_1834_0119.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0119.xml">eichendorff_dichter_1834_0119.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11805,7 +11805,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0127.xml">eichendorff_dichter_1834_0127.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0127.xml">eichendorff_dichter_1834_0127.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11824,7 +11824,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0102.xml">eichendorff_dichter_1834_0102.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0102.xml">eichendorff_dichter_1834_0102.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11843,7 +11843,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0250.xml">eichendorff_dichter_1834_0250.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0250.xml">eichendorff_dichter_1834_0250.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11862,7 +11862,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0098.xml">eichendorff_dichter_1834_0098.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0098.xml">eichendorff_dichter_1834_0098.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11881,7 +11881,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0124.xml">eichendorff_dichter_1834_0124.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0124.xml">eichendorff_dichter_1834_0124.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11900,7 +11900,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0367.xml">eichendorff_dichter_1834_0367.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0367.xml">eichendorff_dichter_1834_0367.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11919,7 +11919,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0237.xml">eichendorff_dichter_1834_0237.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0237.xml">eichendorff_dichter_1834_0237.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11938,7 +11938,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0125.xml">eichendorff_dichter_1834_0125.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0125.xml">eichendorff_dichter_1834_0125.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11957,7 +11957,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0123.xml">eichendorff_dichter_1834_0123.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_dichter_1834/GT-PAGE/eichendorff_dichter_1834_0123.xml">eichendorff_dichter_1834_0123.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -12023,7 +12023,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0004.xml">decker_baumeister03_1716_0004.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0004.xml">decker_baumeister03_1716_0004.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12042,7 +12042,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0027.xml">decker_baumeister03_1716_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0027.xml">decker_baumeister03_1716_0027.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12061,7 +12061,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0002.xml">decker_baumeister03_1716_0002.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0002.xml">decker_baumeister03_1716_0002.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12080,7 +12080,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0009.xml">decker_baumeister03_1716_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0009.xml">decker_baumeister03_1716_0009.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12099,7 +12099,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0012.xml">decker_baumeister03_1716_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0012.xml">decker_baumeister03_1716_0012.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12118,7 +12118,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0001.xml">decker_baumeister03_1716_0001.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0001.xml">decker_baumeister03_1716_0001.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12137,7 +12137,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0029.xml">decker_baumeister03_1716_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0029.xml">decker_baumeister03_1716_0029.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12156,7 +12156,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0007.xml">decker_baumeister03_1716_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0007.xml">decker_baumeister03_1716_0007.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12175,7 +12175,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0026.xml">decker_baumeister03_1716_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0026.xml">decker_baumeister03_1716_0026.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12194,7 +12194,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0028.xml">decker_baumeister03_1716_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0028.xml">decker_baumeister03_1716_0028.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12213,7 +12213,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0020.xml">decker_baumeister03_1716_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0020.xml">decker_baumeister03_1716_0020.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12232,7 +12232,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0017.xml">decker_baumeister03_1716_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0017.xml">decker_baumeister03_1716_0017.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12251,7 +12251,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0036.xml">decker_baumeister03_1716_0036.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0036.xml">decker_baumeister03_1716_0036.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12270,7 +12270,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0006.xml">decker_baumeister03_1716_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0006.xml">decker_baumeister03_1716_0006.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12289,7 +12289,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0005.xml">decker_baumeister03_1716_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0005.xml">decker_baumeister03_1716_0005.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12308,7 +12308,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0016.xml">decker_baumeister03_1716_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0016.xml">decker_baumeister03_1716_0016.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12327,7 +12327,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0014.xml">decker_baumeister03_1716_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0014.xml">decker_baumeister03_1716_0014.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12346,7 +12346,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0021.xml">decker_baumeister03_1716_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0021.xml">decker_baumeister03_1716_0021.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12365,7 +12365,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0035.xml">decker_baumeister03_1716_0035.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0035.xml">decker_baumeister03_1716_0035.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12384,7 +12384,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0015.xml">decker_baumeister03_1716_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0015.xml">decker_baumeister03_1716_0015.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12403,7 +12403,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0034.xml">decker_baumeister03_1716_0034.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0034.xml">decker_baumeister03_1716_0034.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12422,7 +12422,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0019.xml">decker_baumeister03_1716_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0019.xml">decker_baumeister03_1716_0019.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12441,7 +12441,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0010.xml">decker_baumeister03_1716_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0010.xml">decker_baumeister03_1716_0010.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12460,7 +12460,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0033.xml">decker_baumeister03_1716_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister03_1716/GT-PAGE/decker_baumeister03_1716_0033.xml">decker_baumeister03_1716_0033.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12526,7 +12526,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0536.xml">dilthey_geisteswissenschaften_1883_0536.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0536.xml">dilthey_geisteswissenschaften_1883_0536.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -12545,7 +12545,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0326.xml">dilthey_geisteswissenschaften_1883_0326.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0326.xml">dilthey_geisteswissenschaften_1883_0326.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12564,7 +12564,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0534.xml">dilthey_geisteswissenschaften_1883_0534.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0534.xml">dilthey_geisteswissenschaften_1883_0534.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12583,7 +12583,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0287.xml">dilthey_geisteswissenschaften_1883_0287.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0287.xml">dilthey_geisteswissenschaften_1883_0287.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12602,7 +12602,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0474.xml">dilthey_geisteswissenschaften_1883_0474.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0474.xml">dilthey_geisteswissenschaften_1883_0474.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -12621,7 +12621,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0080.xml">dilthey_geisteswissenschaften_1883_0080.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0080.xml">dilthey_geisteswissenschaften_1883_0080.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12640,7 +12640,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0492.xml">dilthey_geisteswissenschaften_1883_0492.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0492.xml">dilthey_geisteswissenschaften_1883_0492.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12659,7 +12659,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0110.xml">dilthey_geisteswissenschaften_1883_0110.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0110.xml">dilthey_geisteswissenschaften_1883_0110.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12678,7 +12678,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0178.xml">dilthey_geisteswissenschaften_1883_0178.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0178.xml">dilthey_geisteswissenschaften_1883_0178.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12697,7 +12697,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0402.xml">dilthey_geisteswissenschaften_1883_0402.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0402.xml">dilthey_geisteswissenschaften_1883_0402.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12716,7 +12716,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0286.xml">dilthey_geisteswissenschaften_1883_0286.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0286.xml">dilthey_geisteswissenschaften_1883_0286.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12735,7 +12735,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0171.xml">dilthey_geisteswissenschaften_1883_0171.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0171.xml">dilthey_geisteswissenschaften_1883_0171.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12754,7 +12754,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0285.xml">dilthey_geisteswissenschaften_1883_0285.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0285.xml">dilthey_geisteswissenschaften_1883_0285.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12773,7 +12773,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0254.xml">dilthey_geisteswissenschaften_1883_0254.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0254.xml">dilthey_geisteswissenschaften_1883_0254.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12792,7 +12792,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0376.xml">dilthey_geisteswissenschaften_1883_0376.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0376.xml">dilthey_geisteswissenschaften_1883_0376.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -12811,7 +12811,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0334.xml">dilthey_geisteswissenschaften_1883_0334.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0334.xml">dilthey_geisteswissenschaften_1883_0334.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12830,7 +12830,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/mets.metsx.xml">mets.metsx.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/mets.metsx.xml">mets.metsx.xml</a>
                            </td>
                            <td>0</td>
                            <td>0</td>
@@ -12849,7 +12849,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0246.xml">dilthey_geisteswissenschaften_1883_0246.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0246.xml">dilthey_geisteswissenschaften_1883_0246.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -12868,7 +12868,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0013.xml">dilthey_geisteswissenschaften_1883_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0013.xml">dilthey_geisteswissenschaften_1883_0013.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12887,7 +12887,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0060.xml">dilthey_geisteswissenschaften_1883_0060.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0060.xml">dilthey_geisteswissenschaften_1883_0060.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12906,7 +12906,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0540.xml">dilthey_geisteswissenschaften_1883_0540.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilthey_geisteswissenschaften_1883/GT-PAGE/dilthey_geisteswissenschaften_1883_0540.xml">dilthey_geisteswissenschaften_1883_0540.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12972,7 +12972,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0003.xml">doyle_fechtkunst_1715_0003.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0003.xml">doyle_fechtkunst_1715_0003.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -12991,7 +12991,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0071.xml">doyle_fechtkunst_1715_0071.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0071.xml">doyle_fechtkunst_1715_0071.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13010,45 +13010,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0011.xml">doyle_fechtkunst_1715_0011.xml</a>
-                           </td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0079.xml">doyle_fechtkunst_1715_0079.xml</a>
-                           </td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0012.xml">doyle_fechtkunst_1715_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0011.xml">doyle_fechtkunst_1715_0011.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -13067,7 +13029,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0047.xml">doyle_fechtkunst_1715_0047.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0079.xml">doyle_fechtkunst_1715_0079.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13086,26 +13048,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0008.xml">doyle_fechtkunst_1715_0008.xml</a>
-                           </td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0013.xml">doyle_fechtkunst_1715_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0012.xml">doyle_fechtkunst_1715_0012.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -13124,26 +13067,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0146.xml">doyle_fechtkunst_1715_0146.xml</a>
-                           </td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0087.xml">doyle_fechtkunst_1715_0087.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0047.xml">doyle_fechtkunst_1715_0047.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13162,7 +13086,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0009.xml">doyle_fechtkunst_1715_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0008.xml">doyle_fechtkunst_1715_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -13181,7 +13105,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0010.xml">doyle_fechtkunst_1715_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0013.xml">doyle_fechtkunst_1715_0013.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -13200,7 +13124,26 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0039.xml">doyle_fechtkunst_1715_0039.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0146.xml">doyle_fechtkunst_1715_0146.xml</a>
+                           </td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0087.xml">doyle_fechtkunst_1715_0087.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13219,7 +13162,45 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0031.xml">doyle_fechtkunst_1715_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0009.xml">doyle_fechtkunst_1715_0009.xml</a>
+                           </td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0010.xml">doyle_fechtkunst_1715_0010.xml</a>
+                           </td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0039.xml">doyle_fechtkunst_1715_0039.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13238,7 +13219,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0095.xml">doyle_fechtkunst_1715_0095.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0031.xml">doyle_fechtkunst_1715_0031.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13257,7 +13238,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0111.xml">doyle_fechtkunst_1715_0111.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0095.xml">doyle_fechtkunst_1715_0095.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13276,7 +13257,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0103.xml">doyle_fechtkunst_1715_0103.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0111.xml">doyle_fechtkunst_1715_0111.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13295,7 +13276,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0023.xml">doyle_fechtkunst_1715_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0103.xml">doyle_fechtkunst_1715_0103.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13314,7 +13295,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0135.xml">doyle_fechtkunst_1715_0135.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0023.xml">doyle_fechtkunst_1715_0023.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13333,7 +13314,26 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0028.xml">doyle_fechtkunst_1715_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0135.xml">doyle_fechtkunst_1715_0135.xml</a>
+                           </td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0028.xml">doyle_fechtkunst_1715_0028.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -13352,7 +13352,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0119.xml">doyle_fechtkunst_1715_0119.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0119.xml">doyle_fechtkunst_1715_0119.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13371,7 +13371,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0063.xml">doyle_fechtkunst_1715_0063.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0063.xml">doyle_fechtkunst_1715_0063.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13390,7 +13390,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0055.xml">doyle_fechtkunst_1715_0055.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0055.xml">doyle_fechtkunst_1715_0055.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13409,7 +13409,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0015.xml">doyle_fechtkunst_1715_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/doyle_fechtkunst_1715/GT-PAGE/doyle_fechtkunst_1715_0015.xml">doyle_fechtkunst_1715_0015.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -13475,7 +13475,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0045.xml">decker_baumeister02_1713_0045.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0045.xml">decker_baumeister02_1713_0045.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13494,7 +13494,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0043.xml">decker_baumeister02_1713_0043.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0043.xml">decker_baumeister02_1713_0043.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13513,7 +13513,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0046.xml">decker_baumeister02_1713_0046.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0046.xml">decker_baumeister02_1713_0046.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13532,7 +13532,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0007.xml">decker_baumeister02_1713_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0007.xml">decker_baumeister02_1713_0007.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13551,7 +13551,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0005.xml">decker_baumeister02_1713_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0005.xml">decker_baumeister02_1713_0005.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13570,7 +13570,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0041.xml">decker_baumeister02_1713_0041.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0041.xml">decker_baumeister02_1713_0041.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13589,7 +13589,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0042.xml">decker_baumeister02_1713_0042.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0042.xml">decker_baumeister02_1713_0042.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13608,7 +13608,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0029.xml">decker_baumeister02_1713_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0029.xml">decker_baumeister02_1713_0029.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -13627,7 +13627,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0003.xml">decker_baumeister02_1713_0003.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0003.xml">decker_baumeister02_1713_0003.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13646,7 +13646,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0002.xml">decker_baumeister02_1713_0002.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0002.xml">decker_baumeister02_1713_0002.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13665,7 +13665,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0010.xml">decker_baumeister02_1713_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0010.xml">decker_baumeister02_1713_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -13684,7 +13684,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0009.xml">decker_baumeister02_1713_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0009.xml">decker_baumeister02_1713_0009.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13703,7 +13703,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0037.xml">decker_baumeister02_1713_0037.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0037.xml">decker_baumeister02_1713_0037.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13722,7 +13722,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0006.xml">decker_baumeister02_1713_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0006.xml">decker_baumeister02_1713_0006.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13741,7 +13741,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0016.xml">decker_baumeister02_1713_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0016.xml">decker_baumeister02_1713_0016.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13760,7 +13760,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0004.xml">decker_baumeister02_1713_0004.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0004.xml">decker_baumeister02_1713_0004.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13779,7 +13779,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0026.xml">decker_baumeister02_1713_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0026.xml">decker_baumeister02_1713_0026.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -13798,7 +13798,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0030.xml">decker_baumeister02_1713_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0030.xml">decker_baumeister02_1713_0030.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13817,7 +13817,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0035.xml">decker_baumeister02_1713_0035.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0035.xml">decker_baumeister02_1713_0035.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13836,7 +13836,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0028.xml">decker_baumeister02_1713_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0028.xml">decker_baumeister02_1713_0028.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13855,7 +13855,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0031.xml">decker_baumeister02_1713_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0031.xml">decker_baumeister02_1713_0031.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13874,7 +13874,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0044.xml">decker_baumeister02_1713_0044.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0044.xml">decker_baumeister02_1713_0044.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13893,7 +13893,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0012.xml">decker_baumeister02_1713_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0012.xml">decker_baumeister02_1713_0012.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13912,7 +13912,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0008.xml">decker_baumeister02_1713_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister02_1713/GT-PAGE/decker_baumeister02_1713_0008.xml">decker_baumeister02_1713_0008.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13978,7 +13978,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0383.xml">droste_gedichte_1844_0383.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0383.xml">droste_gedichte_1844_0383.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -13997,7 +13997,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0407.xml">droste_gedichte_1844_0407.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0407.xml">droste_gedichte_1844_0407.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14016,7 +14016,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0385.xml">droste_gedichte_1844_0385.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0385.xml">droste_gedichte_1844_0385.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14035,7 +14035,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0403.xml">droste_gedichte_1844_0403.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0403.xml">droste_gedichte_1844_0403.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14054,7 +14054,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0012.xml">droste_gedichte_1844_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0012.xml">droste_gedichte_1844_0012.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -14073,7 +14073,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0391.xml">droste_gedichte_1844_0391.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0391.xml">droste_gedichte_1844_0391.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14092,7 +14092,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0394.xml">droste_gedichte_1844_0394.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0394.xml">droste_gedichte_1844_0394.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14111,7 +14111,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0587.xml">droste_gedichte_1844_0587.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0587.xml">droste_gedichte_1844_0587.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14130,7 +14130,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0398.xml">droste_gedichte_1844_0398.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0398.xml">droste_gedichte_1844_0398.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14149,7 +14149,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0138.xml">droste_gedichte_1844_0138.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0138.xml">droste_gedichte_1844_0138.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14168,7 +14168,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0399.xml">droste_gedichte_1844_0399.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0399.xml">droste_gedichte_1844_0399.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -14187,7 +14187,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0586.xml">droste_gedichte_1844_0586.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0586.xml">droste_gedichte_1844_0586.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -14206,7 +14206,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0396.xml">droste_gedichte_1844_0396.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0396.xml">droste_gedichte_1844_0396.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14225,7 +14225,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0588.xml">droste_gedichte_1844_0588.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0588.xml">droste_gedichte_1844_0588.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -14244,7 +14244,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0013.xml">droste_gedichte_1844_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0013.xml">droste_gedichte_1844_0013.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -14263,7 +14263,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0393.xml">droste_gedichte_1844_0393.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0393.xml">droste_gedichte_1844_0393.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14282,7 +14282,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0382.xml">droste_gedichte_1844_0382.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0382.xml">droste_gedichte_1844_0382.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -14301,7 +14301,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0401.xml">droste_gedichte_1844_0401.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0401.xml">droste_gedichte_1844_0401.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14320,7 +14320,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0390.xml">droste_gedichte_1844_0390.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0390.xml">droste_gedichte_1844_0390.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14339,7 +14339,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0408.xml">droste_gedichte_1844_0408.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_gedichte_1844/GT-PAGE/droste_gedichte_1844_0408.xml">droste_gedichte_1844_0408.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14405,7 +14405,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0014.xml">euler_rechenkunst01_1738_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0014.xml">euler_rechenkunst01_1738_0014.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -14424,7 +14424,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0010.xml">euler_rechenkunst01_1738_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0010.xml">euler_rechenkunst01_1738_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -14443,7 +14443,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0029.xml">euler_rechenkunst01_1738_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0029.xml">euler_rechenkunst01_1738_0029.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -14462,7 +14462,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0027.xml">euler_rechenkunst01_1738_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0027.xml">euler_rechenkunst01_1738_0027.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14481,7 +14481,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0023.xml">euler_rechenkunst01_1738_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0023.xml">euler_rechenkunst01_1738_0023.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14500,7 +14500,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0013.xml">euler_rechenkunst01_1738_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0013.xml">euler_rechenkunst01_1738_0013.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -14519,7 +14519,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0166.xml">euler_rechenkunst01_1738_0166.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0166.xml">euler_rechenkunst01_1738_0166.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -14538,7 +14538,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0025.xml">euler_rechenkunst01_1738_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0025.xml">euler_rechenkunst01_1738_0025.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14557,7 +14557,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0024.xml">euler_rechenkunst01_1738_0024.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0024.xml">euler_rechenkunst01_1738_0024.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14576,7 +14576,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0164.xml">euler_rechenkunst01_1738_0164.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0164.xml">euler_rechenkunst01_1738_0164.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -14595,7 +14595,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0007.xml">euler_rechenkunst01_1738_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0007.xml">euler_rechenkunst01_1738_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14614,7 +14614,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0059.xml">euler_rechenkunst01_1738_0059.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0059.xml">euler_rechenkunst01_1738_0059.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -14633,7 +14633,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0021.xml">euler_rechenkunst01_1738_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0021.xml">euler_rechenkunst01_1738_0021.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -14652,7 +14652,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0012.xml">euler_rechenkunst01_1738_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0012.xml">euler_rechenkunst01_1738_0012.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -14671,7 +14671,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0165.xml">euler_rechenkunst01_1738_0165.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0165.xml">euler_rechenkunst01_1738_0165.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -14690,7 +14690,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0011.xml">euler_rechenkunst01_1738_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0011.xml">euler_rechenkunst01_1738_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -14709,7 +14709,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0008.xml">euler_rechenkunst01_1738_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0008.xml">euler_rechenkunst01_1738_0008.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -14728,7 +14728,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0005.xml">euler_rechenkunst01_1738_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0005.xml">euler_rechenkunst01_1738_0005.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -14747,7 +14747,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0067.xml">euler_rechenkunst01_1738_0067.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0067.xml">euler_rechenkunst01_1738_0067.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -14766,7 +14766,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0009.xml">euler_rechenkunst01_1738_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0009.xml">euler_rechenkunst01_1738_0009.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -14785,7 +14785,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0028.xml">euler_rechenkunst01_1738_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0028.xml">euler_rechenkunst01_1738_0028.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14851,7 +14851,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0368.xml">elssholtz_gartenbaw_1666_0368.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0368.xml">elssholtz_gartenbaw_1666_0368.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -14870,7 +14870,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0369.xml">elssholtz_gartenbaw_1666_0369.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0369.xml">elssholtz_gartenbaw_1666_0369.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -14889,7 +14889,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0364.xml">elssholtz_gartenbaw_1666_0364.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0364.xml">elssholtz_gartenbaw_1666_0364.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14908,7 +14908,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0291.xml">elssholtz_gartenbaw_1666_0291.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0291.xml">elssholtz_gartenbaw_1666_0291.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -14927,7 +14927,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0017.xml">elssholtz_gartenbaw_1666_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0017.xml">elssholtz_gartenbaw_1666_0017.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -14946,7 +14946,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0374.xml">elssholtz_gartenbaw_1666_0374.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0374.xml">elssholtz_gartenbaw_1666_0374.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -14965,7 +14965,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0372.xml">elssholtz_gartenbaw_1666_0372.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0372.xml">elssholtz_gartenbaw_1666_0372.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -14984,7 +14984,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0365.xml">elssholtz_gartenbaw_1666_0365.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0365.xml">elssholtz_gartenbaw_1666_0365.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -15003,7 +15003,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0015.xml">elssholtz_gartenbaw_1666_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0015.xml">elssholtz_gartenbaw_1666_0015.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -15022,7 +15022,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0019.xml">elssholtz_gartenbaw_1666_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0019.xml">elssholtz_gartenbaw_1666_0019.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -15041,7 +15041,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0014.xml">elssholtz_gartenbaw_1666_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0014.xml">elssholtz_gartenbaw_1666_0014.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -15060,7 +15060,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0018.xml">elssholtz_gartenbaw_1666_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0018.xml">elssholtz_gartenbaw_1666_0018.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -15079,7 +15079,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0112.xml">elssholtz_gartenbaw_1666_0112.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0112.xml">elssholtz_gartenbaw_1666_0112.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -15098,7 +15098,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0012.xml">elssholtz_gartenbaw_1666_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0012.xml">elssholtz_gartenbaw_1666_0012.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -15117,7 +15117,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0367.xml">elssholtz_gartenbaw_1666_0367.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0367.xml">elssholtz_gartenbaw_1666_0367.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -15136,7 +15136,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0370.xml">elssholtz_gartenbaw_1666_0370.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0370.xml">elssholtz_gartenbaw_1666_0370.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -15155,7 +15155,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0361.xml">elssholtz_gartenbaw_1666_0361.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0361.xml">elssholtz_gartenbaw_1666_0361.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -15174,7 +15174,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0359.xml">elssholtz_gartenbaw_1666_0359.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0359.xml">elssholtz_gartenbaw_1666_0359.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -15193,7 +15193,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0366.xml">elssholtz_gartenbaw_1666_0366.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0366.xml">elssholtz_gartenbaw_1666_0366.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -15212,7 +15212,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0360.xml">elssholtz_gartenbaw_1666_0360.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0360.xml">elssholtz_gartenbaw_1666_0360.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -15231,7 +15231,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0371.xml">elssholtz_gartenbaw_1666_0371.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0371.xml">elssholtz_gartenbaw_1666_0371.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -15250,7 +15250,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0362.xml">elssholtz_gartenbaw_1666_0362.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0362.xml">elssholtz_gartenbaw_1666_0362.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -15269,7 +15269,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0363.xml">elssholtz_gartenbaw_1666_0363.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0363.xml">elssholtz_gartenbaw_1666_0363.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -15288,7 +15288,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0085.xml">elssholtz_gartenbaw_1666_0085.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0085.xml">elssholtz_gartenbaw_1666_0085.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -15307,7 +15307,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0011.xml">elssholtz_gartenbaw_1666_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0011.xml">elssholtz_gartenbaw_1666_0011.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -15326,7 +15326,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0373.xml">elssholtz_gartenbaw_1666_0373.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/elssholtz_gartenbaw_1666/GT-PAGE/elssholtz_gartenbaw_1666_0373.xml">elssholtz_gartenbaw_1666_0373.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -15392,7 +15392,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0878.xml">drapper_amerika_1673_0878.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0878.xml">drapper_amerika_1673_0878.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -15411,7 +15411,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0870.xml">drapper_amerika_1673_0870.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0870.xml">drapper_amerika_1673_0870.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -15430,7 +15430,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0887.xml">drapper_amerika_1673_0887.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0887.xml">drapper_amerika_1673_0887.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -15449,7 +15449,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0885.xml">drapper_amerika_1673_0885.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0885.xml">drapper_amerika_1673_0885.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -15468,7 +15468,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0007.xml">drapper_amerika_1673_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0007.xml">drapper_amerika_1673_0007.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -15487,7 +15487,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0010.xml">drapper_amerika_1673_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0010.xml">drapper_amerika_1673_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -15506,7 +15506,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0869.xml">drapper_amerika_1673_0869.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0869.xml">drapper_amerika_1673_0869.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -15525,7 +15525,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0012.xml">drapper_amerika_1673_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0012.xml">drapper_amerika_1673_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -15544,7 +15544,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0874.xml">drapper_amerika_1673_0874.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0874.xml">drapper_amerika_1673_0874.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -15563,7 +15563,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0879.xml">drapper_amerika_1673_0879.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0879.xml">drapper_amerika_1673_0879.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -15582,7 +15582,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0873.xml">drapper_amerika_1673_0873.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0873.xml">drapper_amerika_1673_0873.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -15601,7 +15601,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0016.xml">drapper_amerika_1673_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0016.xml">drapper_amerika_1673_0016.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -15620,7 +15620,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0889.xml">drapper_amerika_1673_0889.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0889.xml">drapper_amerika_1673_0889.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -15639,7 +15639,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0890.xml">drapper_amerika_1673_0890.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0890.xml">drapper_amerika_1673_0890.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -15658,7 +15658,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0881.xml">drapper_amerika_1673_0881.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0881.xml">drapper_amerika_1673_0881.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -15677,7 +15677,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0884.xml">drapper_amerika_1673_0884.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0884.xml">drapper_amerika_1673_0884.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -15696,7 +15696,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0871.xml">drapper_amerika_1673_0871.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0871.xml">drapper_amerika_1673_0871.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -15715,7 +15715,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0009.xml">drapper_amerika_1673_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0009.xml">drapper_amerika_1673_0009.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -15734,7 +15734,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0877.xml">drapper_amerika_1673_0877.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0877.xml">drapper_amerika_1673_0877.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -15753,7 +15753,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0872.xml">drapper_amerika_1673_0872.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0872.xml">drapper_amerika_1673_0872.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -15772,7 +15772,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0011.xml">drapper_amerika_1673_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0011.xml">drapper_amerika_1673_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -15791,7 +15791,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0875.xml">drapper_amerika_1673_0875.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0875.xml">drapper_amerika_1673_0875.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -15810,7 +15810,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0882.xml">drapper_amerika_1673_0882.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0882.xml">drapper_amerika_1673_0882.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -15829,7 +15829,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0015.xml">drapper_amerika_1673_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0015.xml">drapper_amerika_1673_0015.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -15848,7 +15848,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0883.xml">drapper_amerika_1673_0883.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0883.xml">drapper_amerika_1673_0883.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -15867,7 +15867,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0876.xml">drapper_amerika_1673_0876.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dapper_amerika_1673/GT-PAGE/drapper_amerika_1673_0876.xml">drapper_amerika_1673_0876.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -15933,7 +15933,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0353.xml">eckermann_goethe01_1836_0353.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0353.xml">eckermann_goethe01_1836_0353.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -15952,7 +15952,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0363.xml">eckermann_goethe01_1836_0363.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0363.xml">eckermann_goethe01_1836_0363.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -15971,7 +15971,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0027.xml">eckermann_goethe01_1836_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0027.xml">eckermann_goethe01_1836_0027.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -15990,7 +15990,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0163.xml">eckermann_goethe01_1836_0163.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0163.xml">eckermann_goethe01_1836_0163.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16009,7 +16009,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0221.xml">eckermann_goethe01_1836_0221.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0221.xml">eckermann_goethe01_1836_0221.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16028,7 +16028,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0165.xml">eckermann_goethe01_1836_0165.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0165.xml">eckermann_goethe01_1836_0165.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -16047,7 +16047,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0395.xml">eckermann_goethe01_1836_0395.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0395.xml">eckermann_goethe01_1836_0395.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16066,7 +16066,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0365.xml">eckermann_goethe01_1836_0365.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0365.xml">eckermann_goethe01_1836_0365.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16085,7 +16085,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0157.xml">eckermann_goethe01_1836_0157.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0157.xml">eckermann_goethe01_1836_0157.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16104,7 +16104,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0315.xml">eckermann_goethe01_1836_0315.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0315.xml">eckermann_goethe01_1836_0315.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16123,7 +16123,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0332.xml">eckermann_goethe01_1836_0332.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0332.xml">eckermann_goethe01_1836_0332.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16142,7 +16142,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0251.xml">eckermann_goethe01_1836_0251.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0251.xml">eckermann_goethe01_1836_0251.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16161,7 +16161,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0347.xml">eckermann_goethe01_1836_0347.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0347.xml">eckermann_goethe01_1836_0347.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16180,7 +16180,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0225.xml">eckermann_goethe01_1836_0225.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0225.xml">eckermann_goethe01_1836_0225.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16199,7 +16199,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0141.xml">eckermann_goethe01_1836_0141.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0141.xml">eckermann_goethe01_1836_0141.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16218,7 +16218,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0145.xml">eckermann_goethe01_1836_0145.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0145.xml">eckermann_goethe01_1836_0145.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16237,7 +16237,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0239.xml">eckermann_goethe01_1836_0239.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0239.xml">eckermann_goethe01_1836_0239.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16256,7 +16256,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0137.xml">eckermann_goethe01_1836_0137.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0137.xml">eckermann_goethe01_1836_0137.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16275,7 +16275,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0139.xml">eckermann_goethe01_1836_0139.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0139.xml">eckermann_goethe01_1836_0139.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16294,7 +16294,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0175.xml">eckermann_goethe01_1836_0175.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe01_1836/GT-PAGE/eckermann_goethe01_1836_0175.xml">eckermann_goethe01_1836_0175.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16360,7 +16360,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0020.xml">feuerbach_christentum_1841_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0020.xml">feuerbach_christentum_1841_0020.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16379,7 +16379,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0016.xml">feuerbach_christentum_1841_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0016.xml">feuerbach_christentum_1841_0016.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16398,7 +16398,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0021.xml">feuerbach_christentum_1841_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0021.xml">feuerbach_christentum_1841_0021.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -16417,7 +16417,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0027.xml">feuerbach_christentum_1841_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0027.xml">feuerbach_christentum_1841_0027.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16436,7 +16436,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0024.xml">feuerbach_christentum_1841_0024.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0024.xml">feuerbach_christentum_1841_0024.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16455,7 +16455,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0012.xml">feuerbach_christentum_1841_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0012.xml">feuerbach_christentum_1841_0012.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16474,7 +16474,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0242.xml">feuerbach_christentum_1841_0242.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0242.xml">feuerbach_christentum_1841_0242.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -16493,7 +16493,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0023.xml">feuerbach_christentum_1841_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0023.xml">feuerbach_christentum_1841_0023.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16512,7 +16512,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0019.xml">feuerbach_christentum_1841_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0019.xml">feuerbach_christentum_1841_0019.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -16531,7 +16531,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0010.xml">feuerbach_christentum_1841_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0010.xml">feuerbach_christentum_1841_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16550,7 +16550,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0026.xml">feuerbach_christentum_1841_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0026.xml">feuerbach_christentum_1841_0026.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16569,7 +16569,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0022.xml">feuerbach_christentum_1841_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0022.xml">feuerbach_christentum_1841_0022.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -16588,7 +16588,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0009.xml">feuerbach_christentum_1841_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0009.xml">feuerbach_christentum_1841_0009.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -16607,7 +16607,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0011.xml">feuerbach_christentum_1841_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0011.xml">feuerbach_christentum_1841_0011.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16626,7 +16626,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0028.xml">feuerbach_christentum_1841_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0028.xml">feuerbach_christentum_1841_0028.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16645,7 +16645,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0411.xml">feuerbach_christentum_1841_0411.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0411.xml">feuerbach_christentum_1841_0411.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -16664,7 +16664,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0014.xml">feuerbach_christentum_1841_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0014.xml">feuerbach_christentum_1841_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16683,7 +16683,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0013.xml">feuerbach_christentum_1841_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0013.xml">feuerbach_christentum_1841_0013.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16702,7 +16702,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0025.xml">feuerbach_christentum_1841_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0025.xml">feuerbach_christentum_1841_0025.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16721,7 +16721,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0015.xml">feuerbach_christentum_1841_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_christentum_1841/GT-PAGE/feuerbach_christentum_1841_0015.xml">feuerbach_christentum_1841_0015.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16787,7 +16787,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0018.xml">dilger_arndes_1620_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0018.xml">dilger_arndes_1620_0018.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16806,7 +16806,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0014.xml">dilger_arndes_1620_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0014.xml">dilger_arndes_1620_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16825,7 +16825,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0035.xml">dilger_arndes_1620_0035.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0035.xml">dilger_arndes_1620_0035.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16844,7 +16844,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0028.xml">dilger_arndes_1620_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0028.xml">dilger_arndes_1620_0028.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -16863,7 +16863,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0025.xml">dilger_arndes_1620_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0025.xml">dilger_arndes_1620_0025.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -16882,7 +16882,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0012.xml">dilger_arndes_1620_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0012.xml">dilger_arndes_1620_0012.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16901,7 +16901,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0008.xml">dilger_arndes_1620_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0008.xml">dilger_arndes_1620_0008.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16920,7 +16920,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0015.xml">dilger_arndes_1620_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0015.xml">dilger_arndes_1620_0015.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16939,7 +16939,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0007.xml">dilger_arndes_1620_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0007.xml">dilger_arndes_1620_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -16958,7 +16958,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0010.xml">dilger_arndes_1620_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0010.xml">dilger_arndes_1620_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -16977,7 +16977,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0009.xml">dilger_arndes_1620_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0009.xml">dilger_arndes_1620_0009.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -16996,7 +16996,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0013.xml">dilger_arndes_1620_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0013.xml">dilger_arndes_1620_0013.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17015,7 +17015,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0032.xml">dilger_arndes_1620_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0032.xml">dilger_arndes_1620_0032.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17034,7 +17034,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0030.xml">dilger_arndes_1620_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0030.xml">dilger_arndes_1620_0030.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17053,7 +17053,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0019.xml">dilger_arndes_1620_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0019.xml">dilger_arndes_1620_0019.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17072,7 +17072,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0017.xml">dilger_arndes_1620_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0017.xml">dilger_arndes_1620_0017.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17091,7 +17091,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0027.xml">dilger_arndes_1620_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0027.xml">dilger_arndes_1620_0027.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17110,7 +17110,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0011.xml">dilger_arndes_1620_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0011.xml">dilger_arndes_1620_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17129,7 +17129,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0006.xml">dilger_arndes_1620_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0006.xml">dilger_arndes_1620_0006.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17148,7 +17148,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0020.xml">dilger_arndes_1620_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0020.xml">dilger_arndes_1620_0020.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17167,7 +17167,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0016.xml">dilger_arndes_1620_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dilger_arndes_1620/GT-PAGE/dilger_arndes_1620_0016.xml">dilger_arndes_1620_0016.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17233,7 +17233,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0161.xml">eckermann_goethe02_1836_0161.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0161.xml">eckermann_goethe02_1836_0161.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17252,7 +17252,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0133.xml">eckermann_goethe02_1836_0133.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0133.xml">eckermann_goethe02_1836_0133.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17271,7 +17271,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0081.xml">eckermann_goethe02_1836_0081.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0081.xml">eckermann_goethe02_1836_0081.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17290,7 +17290,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0057.xml">eckermann_goethe02_1836_0057.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0057.xml">eckermann_goethe02_1836_0057.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17309,7 +17309,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0252.xml">eckermann_goethe02_1836_0252.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0252.xml">eckermann_goethe02_1836_0252.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17328,7 +17328,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0020.xml">eckermann_goethe02_1836_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0020.xml">eckermann_goethe02_1836_0020.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17347,7 +17347,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0139.xml">eckermann_goethe02_1836_0139.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0139.xml">eckermann_goethe02_1836_0139.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17366,7 +17366,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0045.xml">eckermann_goethe02_1836_0045.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0045.xml">eckermann_goethe02_1836_0045.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17385,7 +17385,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0193.xml">eckermann_goethe02_1836_0193.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0193.xml">eckermann_goethe02_1836_0193.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17404,7 +17404,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0071.xml">eckermann_goethe02_1836_0071.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0071.xml">eckermann_goethe02_1836_0071.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17423,7 +17423,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0103.xml">eckermann_goethe02_1836_0103.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0103.xml">eckermann_goethe02_1836_0103.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17442,7 +17442,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0341.xml">eckermann_goethe02_1836_0341.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0341.xml">eckermann_goethe02_1836_0341.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17461,7 +17461,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0099.xml">eckermann_goethe02_1836_0099.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0099.xml">eckermann_goethe02_1836_0099.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17480,7 +17480,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0091.xml">eckermann_goethe02_1836_0091.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0091.xml">eckermann_goethe02_1836_0091.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17499,7 +17499,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0367.xml">eckermann_goethe02_1836_0367.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0367.xml">eckermann_goethe02_1836_0367.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17518,7 +17518,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0039.xml">eckermann_goethe02_1836_0039.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0039.xml">eckermann_goethe02_1836_0039.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17537,7 +17537,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0231.xml">eckermann_goethe02_1836_0231.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0231.xml">eckermann_goethe02_1836_0231.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17556,7 +17556,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0304.xml">eckermann_goethe02_1836_0304.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0304.xml">eckermann_goethe02_1836_0304.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17575,7 +17575,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0225.xml">eckermann_goethe02_1836_0225.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0225.xml">eckermann_goethe02_1836_0225.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17594,7 +17594,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0339.xml">eckermann_goethe02_1836_0339.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eckermann_goethe02_1836/GT-PAGE/eckermann_goethe02_1836_0339.xml">eckermann_goethe02_1836_0339.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17660,7 +17660,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0047.xml">fichte_wissenschaftslehre_1794_0047.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0047.xml">fichte_wissenschaftslehre_1794_0047.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17679,7 +17679,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0066.xml">fichte_wissenschaftslehre_1794_0066.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0066.xml">fichte_wissenschaftslehre_1794_0066.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17698,7 +17698,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0020.xml">fichte_wissenschaftslehre_1794_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0020.xml">fichte_wissenschaftslehre_1794_0020.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17717,7 +17717,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0023.xml">fichte_wissenschaftslehre_1794_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0023.xml">fichte_wissenschaftslehre_1794_0023.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17736,7 +17736,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0018.xml">fichte_wissenschaftslehre_1794_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0018.xml">fichte_wissenschaftslehre_1794_0018.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17755,7 +17755,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0019.xml">fichte_wissenschaftslehre_1794_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0019.xml">fichte_wissenschaftslehre_1794_0019.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17774,7 +17774,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0027.xml">fichte_wissenschaftslehre_1794_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0027.xml">fichte_wissenschaftslehre_1794_0027.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17793,7 +17793,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0064.xml">fichte_wissenschaftslehre_1794_0064.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0064.xml">fichte_wissenschaftslehre_1794_0064.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17812,7 +17812,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0062.xml">fichte_wissenschaftslehre_1794_0062.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0062.xml">fichte_wissenschaftslehre_1794_0062.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17831,7 +17831,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0021.xml">fichte_wissenschaftslehre_1794_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0021.xml">fichte_wissenschaftslehre_1794_0021.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17850,7 +17850,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0063.xml">fichte_wissenschaftslehre_1794_0063.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0063.xml">fichte_wissenschaftslehre_1794_0063.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17869,7 +17869,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0046.xml">fichte_wissenschaftslehre_1794_0046.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0046.xml">fichte_wissenschaftslehre_1794_0046.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17888,7 +17888,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0025.xml">fichte_wissenschaftslehre_1794_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0025.xml">fichte_wissenschaftslehre_1794_0025.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17907,7 +17907,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0055.xml">fichte_wissenschaftslehre_1794_0055.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0055.xml">fichte_wissenschaftslehre_1794_0055.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17926,7 +17926,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0029.xml">fichte_wissenschaftslehre_1794_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0029.xml">fichte_wissenschaftslehre_1794_0029.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17945,7 +17945,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0013.xml">fichte_wissenschaftslehre_1794_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0013.xml">fichte_wissenschaftslehre_1794_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17964,7 +17964,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0032.xml">fichte_wissenschaftslehre_1794_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0032.xml">fichte_wissenschaftslehre_1794_0032.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17983,7 +17983,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0044.xml">fichte_wissenschaftslehre_1794_0044.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0044.xml">fichte_wissenschaftslehre_1794_0044.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -18002,7 +18002,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0014.xml">fichte_wissenschaftslehre_1794_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0014.xml">fichte_wissenschaftslehre_1794_0014.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -18021,7 +18021,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0031.xml">fichte_wissenschaftslehre_1794_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fichte_wissenschaftslehre_1794/GT-PAGE/fichte_wissenschaftslehre_1794_0031.xml">fichte_wissenschaftslehre_1794_0031.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -18087,7 +18087,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0077.xml">eichendorff_ahnung_1815_0077.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0077.xml">eichendorff_ahnung_1815_0077.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18106,7 +18106,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0061.xml">eichendorff_ahnung_1815_0061.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0061.xml">eichendorff_ahnung_1815_0061.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18125,7 +18125,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0338.xml">eichendorff_ahnung_1815_0338.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0338.xml">eichendorff_ahnung_1815_0338.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18144,7 +18144,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0059.xml">eichendorff_ahnung_1815_0059.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0059.xml">eichendorff_ahnung_1815_0059.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18163,7 +18163,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0420.xml">eichendorff_ahnung_1815_0420.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0420.xml">eichendorff_ahnung_1815_0420.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18182,7 +18182,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0336.xml">eichendorff_ahnung_1815_0336.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0336.xml">eichendorff_ahnung_1815_0336.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18201,7 +18201,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0049.xml">eichendorff_ahnung_1815_0049.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0049.xml">eichendorff_ahnung_1815_0049.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18220,7 +18220,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0480.xml">eichendorff_ahnung_1815_0480.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0480.xml">eichendorff_ahnung_1815_0480.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18239,7 +18239,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0397.xml">eichendorff_ahnung_1815_0397.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0397.xml">eichendorff_ahnung_1815_0397.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18258,7 +18258,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0398.xml">eichendorff_ahnung_1815_0398.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0398.xml">eichendorff_ahnung_1815_0398.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -18277,7 +18277,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0075.xml">eichendorff_ahnung_1815_0075.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0075.xml">eichendorff_ahnung_1815_0075.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18296,7 +18296,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0081.xml">eichendorff_ahnung_1815_0081.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0081.xml">eichendorff_ahnung_1815_0081.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18315,7 +18315,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0401.xml">eichendorff_ahnung_1815_0401.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0401.xml">eichendorff_ahnung_1815_0401.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18334,7 +18334,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0386.xml">eichendorff_ahnung_1815_0386.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0386.xml">eichendorff_ahnung_1815_0386.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18353,7 +18353,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0079.xml">eichendorff_ahnung_1815_0079.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0079.xml">eichendorff_ahnung_1815_0079.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18372,7 +18372,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0259.xml">eichendorff_ahnung_1815_0259.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0259.xml">eichendorff_ahnung_1815_0259.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -18391,7 +18391,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0241.xml">eichendorff_ahnung_1815_0241.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0241.xml">eichendorff_ahnung_1815_0241.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18410,7 +18410,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0080.xml">eichendorff_ahnung_1815_0080.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0080.xml">eichendorff_ahnung_1815_0080.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -18429,7 +18429,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0069.xml">eichendorff_ahnung_1815_0069.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0069.xml">eichendorff_ahnung_1815_0069.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18448,7 +18448,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0011.xml">eichendorff_ahnung_1815_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_ahnung_1815/GT-PAGE/eichendorff_ahnung_1815_0011.xml">eichendorff_ahnung_1815_0011.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -18514,7 +18514,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0535.xml">euler_algebra02_1770_0535.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0535.xml">euler_algebra02_1770_0535.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18533,7 +18533,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0029.xml">euler_algebra02_1770_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0029.xml">euler_algebra02_1770_0029.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18552,7 +18552,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0009.xml">euler_algebra02_1770_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0009.xml">euler_algebra02_1770_0009.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -18571,7 +18571,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0030.xml">euler_algebra02_1770_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0030.xml">euler_algebra02_1770_0030.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18590,7 +18590,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0019.xml">euler_algebra02_1770_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0019.xml">euler_algebra02_1770_0019.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -18609,7 +18609,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0007.xml">euler_algebra02_1770_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0007.xml">euler_algebra02_1770_0007.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -18628,7 +18628,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0005.xml">euler_algebra02_1770_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0005.xml">euler_algebra02_1770_0005.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18647,7 +18647,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0010.xml">euler_algebra02_1770_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0010.xml">euler_algebra02_1770_0010.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -18666,7 +18666,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0035.xml">euler_algebra02_1770_0035.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0035.xml">euler_algebra02_1770_0035.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -18685,7 +18685,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0006.xml">euler_algebra02_1770_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0006.xml">euler_algebra02_1770_0006.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -18704,7 +18704,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0536.xml">euler_algebra02_1770_0536.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0536.xml">euler_algebra02_1770_0536.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18723,7 +18723,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0012.xml">euler_algebra02_1770_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0012.xml">euler_algebra02_1770_0012.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -18742,7 +18742,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0025.xml">euler_algebra02_1770_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0025.xml">euler_algebra02_1770_0025.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18761,7 +18761,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0023.xml">euler_algebra02_1770_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0023.xml">euler_algebra02_1770_0023.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -18780,7 +18780,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0003.xml">euler_algebra02_1770_0003.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0003.xml">euler_algebra02_1770_0003.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18799,7 +18799,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0021.xml">euler_algebra02_1770_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0021.xml">euler_algebra02_1770_0021.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -18818,7 +18818,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0011.xml">euler_algebra02_1770_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0011.xml">euler_algebra02_1770_0011.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -18837,7 +18837,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0027.xml">euler_algebra02_1770_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0027.xml">euler_algebra02_1770_0027.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -18856,7 +18856,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0024.xml">euler_algebra02_1770_0024.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0024.xml">euler_algebra02_1770_0024.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18875,7 +18875,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0016.xml">euler_algebra02_1770_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0016.xml">euler_algebra02_1770_0016.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18894,7 +18894,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0008.xml">euler_algebra02_1770_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0008.xml">euler_algebra02_1770_0008.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -18913,7 +18913,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0001.xml">euler_algebra02_1770_0001.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0001.xml">euler_algebra02_1770_0001.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -18932,7 +18932,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0515.xml">euler_algebra02_1770_0515.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0515.xml">euler_algebra02_1770_0515.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18951,7 +18951,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0033.xml">euler_algebra02_1770_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0033.xml">euler_algebra02_1770_0033.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18970,7 +18970,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0031.xml">euler_algebra02_1770_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0031.xml">euler_algebra02_1770_0031.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18989,7 +18989,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0471.xml">euler_algebra02_1770_0471.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/euler_algebra02_1770/GT-PAGE/euler_algebra02_1770_0471.xml">euler_algebra02_1770_0471.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19055,7 +19055,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0075.xml">fiedler_kuenstlerische_1887_0075.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0075.xml">fiedler_kuenstlerische_1887_0075.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19074,7 +19074,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0048.xml">fiedler_kuenstlerische_1887_0048.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0048.xml">fiedler_kuenstlerische_1887_0048.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19093,7 +19093,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0098.xml">fiedler_kuenstlerische_1887_0098.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0098.xml">fiedler_kuenstlerische_1887_0098.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19112,7 +19112,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0139.xml">fiedler_kuenstlerische_1887_0139.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0139.xml">fiedler_kuenstlerische_1887_0139.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19131,7 +19131,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0024.xml">fiedler_kuenstlerische_1887_0024.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0024.xml">fiedler_kuenstlerische_1887_0024.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19150,7 +19150,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0144.xml">fiedler_kuenstlerische_1887_0144.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0144.xml">fiedler_kuenstlerische_1887_0144.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19169,7 +19169,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0014.xml">fiedler_kuenstlerische_1887_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0014.xml">fiedler_kuenstlerische_1887_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19188,7 +19188,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0110.xml">fiedler_kuenstlerische_1887_0110.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0110.xml">fiedler_kuenstlerische_1887_0110.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19207,7 +19207,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0033.xml">fiedler_kuenstlerische_1887_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0033.xml">fiedler_kuenstlerische_1887_0033.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19226,7 +19226,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0163.xml">fiedler_kuenstlerische_1887_0163.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0163.xml">fiedler_kuenstlerische_1887_0163.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19245,7 +19245,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0119.xml">fiedler_kuenstlerische_1887_0119.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0119.xml">fiedler_kuenstlerische_1887_0119.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19264,7 +19264,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0128.xml">fiedler_kuenstlerische_1887_0128.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0128.xml">fiedler_kuenstlerische_1887_0128.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19283,7 +19283,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0054.xml">fiedler_kuenstlerische_1887_0054.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0054.xml">fiedler_kuenstlerische_1887_0054.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19302,7 +19302,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0180.xml">fiedler_kuenstlerische_1887_0180.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0180.xml">fiedler_kuenstlerische_1887_0180.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19321,7 +19321,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0121.xml">fiedler_kuenstlerische_1887_0121.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0121.xml">fiedler_kuenstlerische_1887_0121.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19340,7 +19340,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0059.xml">fiedler_kuenstlerische_1887_0059.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0059.xml">fiedler_kuenstlerische_1887_0059.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19359,7 +19359,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0130.xml">fiedler_kuenstlerische_1887_0130.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0130.xml">fiedler_kuenstlerische_1887_0130.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19378,7 +19378,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0174.xml">fiedler_kuenstlerische_1887_0174.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0174.xml">fiedler_kuenstlerische_1887_0174.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19397,7 +19397,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0030.xml">fiedler_kuenstlerische_1887_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0030.xml">fiedler_kuenstlerische_1887_0030.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19416,7 +19416,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0133.xml">fiedler_kuenstlerische_1887_0133.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/fiedler_kuenstlerische_1887/GT-PAGE/fiedler_kuenstlerische_1887_0133.xml">fiedler_kuenstlerische_1887_0133.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19482,7 +19482,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0180.xml">dronke_polizeigeschichten_1846_0180.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0180.xml">dronke_polizeigeschichten_1846_0180.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19501,7 +19501,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0085.xml">dronke_polizeigeschichten_1846_0085.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0085.xml">dronke_polizeigeschichten_1846_0085.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19520,7 +19520,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0025.xml">dronke_polizeigeschichten_1846_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0025.xml">dronke_polizeigeschichten_1846_0025.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19539,7 +19539,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0165.xml">dronke_polizeigeschichten_1846_0165.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0165.xml">dronke_polizeigeschichten_1846_0165.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19558,7 +19558,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0041.xml">dronke_polizeigeschichten_1846_0041.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0041.xml">dronke_polizeigeschichten_1846_0041.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19577,7 +19577,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0058.xml">dronke_polizeigeschichten_1846_0058.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0058.xml">dronke_polizeigeschichten_1846_0058.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19596,7 +19596,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0134.xml">dronke_polizeigeschichten_1846_0134.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0134.xml">dronke_polizeigeschichten_1846_0134.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19615,7 +19615,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0071.xml">dronke_polizeigeschichten_1846_0071.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0071.xml">dronke_polizeigeschichten_1846_0071.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19634,7 +19634,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0144.xml">dronke_polizeigeschichten_1846_0144.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0144.xml">dronke_polizeigeschichten_1846_0144.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19653,7 +19653,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0037.xml">dronke_polizeigeschichten_1846_0037.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0037.xml">dronke_polizeigeschichten_1846_0037.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19672,7 +19672,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0176.xml">dronke_polizeigeschichten_1846_0176.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0176.xml">dronke_polizeigeschichten_1846_0176.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19691,7 +19691,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0039.xml">dronke_polizeigeschichten_1846_0039.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0039.xml">dronke_polizeigeschichten_1846_0039.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19710,7 +19710,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0088.xml">dronke_polizeigeschichten_1846_0088.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0088.xml">dronke_polizeigeschichten_1846_0088.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19729,7 +19729,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0086.xml">dronke_polizeigeschichten_1846_0086.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0086.xml">dronke_polizeigeschichten_1846_0086.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19748,7 +19748,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0104.xml">dronke_polizeigeschichten_1846_0104.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0104.xml">dronke_polizeigeschichten_1846_0104.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19767,7 +19767,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0101.xml">dronke_polizeigeschichten_1846_0101.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0101.xml">dronke_polizeigeschichten_1846_0101.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19786,7 +19786,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0035.xml">dronke_polizeigeschichten_1846_0035.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0035.xml">dronke_polizeigeschichten_1846_0035.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19805,7 +19805,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0056.xml">dronke_polizeigeschichten_1846_0056.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0056.xml">dronke_polizeigeschichten_1846_0056.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19824,7 +19824,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0135.xml">dronke_polizeigeschichten_1846_0135.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0135.xml">dronke_polizeigeschichten_1846_0135.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19843,7 +19843,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0093.xml">dronke_polizeigeschichten_1846_0093.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dronke_polizeigeschichten_1846/GT-PAGE/dronke_polizeigeschichten_1846_0093.xml">dronke_polizeigeschichten_1846_0093.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19909,7 +19909,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0699.xml">darjes_cameralwissenschaften_1756_0699.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0699.xml">darjes_cameralwissenschaften_1756_0699.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -19928,7 +19928,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0013.xml">darjes_cameralwissenschaften_1756_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0013.xml">darjes_cameralwissenschaften_1756_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -19947,7 +19947,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0732.xml">darjes_cameralwissenschaften_1756_0732.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0732.xml">darjes_cameralwissenschaften_1756_0732.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -19966,7 +19966,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0710.xml">darjes_cameralwissenschaften_1756_0710.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0710.xml">darjes_cameralwissenschaften_1756_0710.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -19985,7 +19985,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0730.xml">darjes_cameralwissenschaften_1756_0730.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0730.xml">darjes_cameralwissenschaften_1756_0730.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20004,7 +20004,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0688.xml">darjes_cameralwissenschaften_1756_0688.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0688.xml">darjes_cameralwissenschaften_1756_0688.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20023,7 +20023,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0010.xml">darjes_cameralwissenschaften_1756_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0010.xml">darjes_cameralwissenschaften_1756_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20042,7 +20042,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0724.xml">darjes_cameralwissenschaften_1756_0724.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0724.xml">darjes_cameralwissenschaften_1756_0724.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20061,7 +20061,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0716.xml">darjes_cameralwissenschaften_1756_0716.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0716.xml">darjes_cameralwissenschaften_1756_0716.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20080,7 +20080,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0014.xml">darjes_cameralwissenschaften_1756_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0014.xml">darjes_cameralwissenschaften_1756_0014.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20099,7 +20099,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0008.xml">darjes_cameralwissenschaften_1756_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0008.xml">darjes_cameralwissenschaften_1756_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20118,7 +20118,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0007.xml">darjes_cameralwissenschaften_1756_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0007.xml">darjes_cameralwissenschaften_1756_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20137,7 +20137,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0005.xml">darjes_cameralwissenschaften_1756_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0005.xml">darjes_cameralwissenschaften_1756_0005.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -20156,7 +20156,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0015.xml">darjes_cameralwissenschaften_1756_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0015.xml">darjes_cameralwissenschaften_1756_0015.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -20175,7 +20175,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0734.xml">darjes_cameralwissenschaften_1756_0734.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0734.xml">darjes_cameralwissenschaften_1756_0734.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20194,7 +20194,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0737.xml">darjes_cameralwissenschaften_1756_0737.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0737.xml">darjes_cameralwissenschaften_1756_0737.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20213,7 +20213,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0011.xml">darjes_cameralwissenschaften_1756_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0011.xml">darjes_cameralwissenschaften_1756_0011.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20232,7 +20232,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0735.xml">darjes_cameralwissenschaften_1756_0735.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0735.xml">darjes_cameralwissenschaften_1756_0735.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20251,7 +20251,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0702.xml">darjes_cameralwissenschaften_1756_0702.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0702.xml">darjes_cameralwissenschaften_1756_0702.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20270,7 +20270,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0690.xml">darjes_cameralwissenschaften_1756_0690.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0690.xml">darjes_cameralwissenschaften_1756_0690.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20289,7 +20289,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0736.xml">darjes_cameralwissenschaften_1756_0736.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0736.xml">darjes_cameralwissenschaften_1756_0736.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20308,7 +20308,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0009.xml">darjes_cameralwissenschaften_1756_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0009.xml">darjes_cameralwissenschaften_1756_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20327,7 +20327,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0012.xml">darjes_cameralwissenschaften_1756_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0012.xml">darjes_cameralwissenschaften_1756_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20346,7 +20346,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0726.xml">darjes_cameralwissenschaften_1756_0726.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0726.xml">darjes_cameralwissenschaften_1756_0726.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20365,7 +20365,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0696.xml">darjes_cameralwissenschaften_1756_0696.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0696.xml">darjes_cameralwissenschaften_1756_0696.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20384,7 +20384,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0708.xml">darjes_cameralwissenschaften_1756_0708.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0708.xml">darjes_cameralwissenschaften_1756_0708.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20403,7 +20403,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0720.xml">darjes_cameralwissenschaften_1756_0720.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0720.xml">darjes_cameralwissenschaften_1756_0720.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20422,7 +20422,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0712.xml">darjes_cameralwissenschaften_1756_0712.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0712.xml">darjes_cameralwissenschaften_1756_0712.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20441,7 +20441,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0686.xml">darjes_cameralwissenschaften_1756_0686.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0686.xml">darjes_cameralwissenschaften_1756_0686.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20460,7 +20460,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0698.xml">darjes_cameralwissenschaften_1756_0698.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/darjes_cameralwissenschaften_1756/GT-PAGE/darjes_cameralwissenschaften_1756_0698.xml">darjes_cameralwissenschaften_1756_0698.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20526,7 +20526,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0112.xml">eytelwein_faschinenwerke_1800_0112.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0112.xml">eytelwein_faschinenwerke_1800_0112.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -20545,7 +20545,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0116.xml">eytelwein_faschinenwerke_1800_0116.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0116.xml">eytelwein_faschinenwerke_1800_0116.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20564,7 +20564,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0113.xml">eytelwein_faschinenwerke_1800_0113.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0113.xml">eytelwein_faschinenwerke_1800_0113.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20583,7 +20583,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0040.xml">eytelwein_faschinenwerke_1800_0040.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0040.xml">eytelwein_faschinenwerke_1800_0040.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20602,7 +20602,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0120.xml">eytelwein_faschinenwerke_1800_0120.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0120.xml">eytelwein_faschinenwerke_1800_0120.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20621,7 +20621,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0115.xml">eytelwein_faschinenwerke_1800_0115.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0115.xml">eytelwein_faschinenwerke_1800_0115.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20640,7 +20640,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0148.xml">eytelwein_faschinenwerke_1800_0148.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0148.xml">eytelwein_faschinenwerke_1800_0148.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20659,7 +20659,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0145.xml">eytelwein_faschinenwerke_1800_0145.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0145.xml">eytelwein_faschinenwerke_1800_0145.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20678,7 +20678,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0018.xml">eytelwein_faschinenwerke_1800_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0018.xml">eytelwein_faschinenwerke_1800_0018.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20697,7 +20697,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0107.xml">eytelwein_faschinenwerke_1800_0107.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0107.xml">eytelwein_faschinenwerke_1800_0107.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -20716,7 +20716,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0091.xml">eytelwein_faschinenwerke_1800_0091.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0091.xml">eytelwein_faschinenwerke_1800_0091.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -20735,7 +20735,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0034.xml">eytelwein_faschinenwerke_1800_0034.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0034.xml">eytelwein_faschinenwerke_1800_0034.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20754,7 +20754,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0104.xml">eytelwein_faschinenwerke_1800_0104.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0104.xml">eytelwein_faschinenwerke_1800_0104.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20773,7 +20773,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0147.xml">eytelwein_faschinenwerke_1800_0147.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0147.xml">eytelwein_faschinenwerke_1800_0147.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20792,7 +20792,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0088.xml">eytelwein_faschinenwerke_1800_0088.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0088.xml">eytelwein_faschinenwerke_1800_0088.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -20811,7 +20811,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0106.xml">eytelwein_faschinenwerke_1800_0106.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0106.xml">eytelwein_faschinenwerke_1800_0106.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -20830,7 +20830,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0124.xml">eytelwein_faschinenwerke_1800_0124.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0124.xml">eytelwein_faschinenwerke_1800_0124.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20849,7 +20849,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0139.xml">eytelwein_faschinenwerke_1800_0139.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0139.xml">eytelwein_faschinenwerke_1800_0139.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20868,7 +20868,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0114.xml">eytelwein_faschinenwerke_1800_0114.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0114.xml">eytelwein_faschinenwerke_1800_0114.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20887,7 +20887,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0142.xml">eytelwein_faschinenwerke_1800_0142.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eytelwein_faschinenwerke_1800/GT-PAGE/eytelwein_faschinenwerke_1800_0142.xml">eytelwein_faschinenwerke_1800_0142.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20953,7 +20953,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0022.xml">dohm_juden02_1783_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0022.xml">dohm_juden02_1783_0022.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20972,7 +20972,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0029.xml">dohm_juden02_1783_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0029.xml">dohm_juden02_1783_0029.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20991,7 +20991,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0020.xml">dohm_juden02_1783_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0020.xml">dohm_juden02_1783_0020.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21010,7 +21010,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0012.xml">dohm_juden02_1783_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0012.xml">dohm_juden02_1783_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21029,7 +21029,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0018.xml">dohm_juden02_1783_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0018.xml">dohm_juden02_1783_0018.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21048,7 +21048,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0025.xml">dohm_juden02_1783_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0025.xml">dohm_juden02_1783_0025.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21067,7 +21067,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0014.xml">dohm_juden02_1783_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0014.xml">dohm_juden02_1783_0014.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21086,7 +21086,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0026.xml">dohm_juden02_1783_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0026.xml">dohm_juden02_1783_0026.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21105,7 +21105,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0027.xml">dohm_juden02_1783_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0027.xml">dohm_juden02_1783_0027.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21124,7 +21124,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0296.xml">dohm_juden02_1783_0296.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0296.xml">dohm_juden02_1783_0296.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21143,7 +21143,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0030.xml">dohm_juden02_1783_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0030.xml">dohm_juden02_1783_0030.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21162,7 +21162,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0013.xml">dohm_juden02_1783_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0013.xml">dohm_juden02_1783_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21181,7 +21181,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0017.xml">dohm_juden02_1783_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0017.xml">dohm_juden02_1783_0017.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21200,7 +21200,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0023.xml">dohm_juden02_1783_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0023.xml">dohm_juden02_1783_0023.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21219,7 +21219,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0019.xml">dohm_juden02_1783_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0019.xml">dohm_juden02_1783_0019.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21238,7 +21238,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0009.xml">dohm_juden02_1783_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0009.xml">dohm_juden02_1783_0009.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -21257,7 +21257,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0021.xml">dohm_juden02_1783_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0021.xml">dohm_juden02_1783_0021.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21276,7 +21276,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0024.xml">dohm_juden02_1783_0024.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0024.xml">dohm_juden02_1783_0024.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21295,7 +21295,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0016.xml">dohm_juden02_1783_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0016.xml">dohm_juden02_1783_0016.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21314,7 +21314,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0015.xml">dohm_juden02_1783_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/dohm_juden02_1783/GT-PAGE/dohm_juden02_1783_0015.xml">dohm_juden02_1783_0015.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21380,7 +21380,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0205.xml">eschstruth_katz_1886_0205.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0205.xml">eschstruth_katz_1886_0205.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21399,7 +21399,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0138.xml">eschstruth_katz_1886_0138.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0138.xml">eschstruth_katz_1886_0138.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21418,7 +21418,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0106.xml">eschstruth_katz_1886_0106.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0106.xml">eschstruth_katz_1886_0106.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21437,7 +21437,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0208.xml">eschstruth_katz_1886_0208.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0208.xml">eschstruth_katz_1886_0208.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21456,7 +21456,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0150.xml">eschstruth_katz_1886_0150.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0150.xml">eschstruth_katz_1886_0150.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21475,7 +21475,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0136.xml">eschstruth_katz_1886_0136.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0136.xml">eschstruth_katz_1886_0136.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21494,7 +21494,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0112.xml">eschstruth_katz_1886_0112.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0112.xml">eschstruth_katz_1886_0112.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21513,7 +21513,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0111.xml">eschstruth_katz_1886_0111.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0111.xml">eschstruth_katz_1886_0111.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21532,7 +21532,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0135.xml">eschstruth_katz_1886_0135.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0135.xml">eschstruth_katz_1886_0135.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21551,7 +21551,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0109.xml">eschstruth_katz_1886_0109.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0109.xml">eschstruth_katz_1886_0109.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21570,7 +21570,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0140.xml">eschstruth_katz_1886_0140.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0140.xml">eschstruth_katz_1886_0140.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21589,7 +21589,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0108.xml">eschstruth_katz_1886_0108.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0108.xml">eschstruth_katz_1886_0108.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21608,7 +21608,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0143.xml">eschstruth_katz_1886_0143.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0143.xml">eschstruth_katz_1886_0143.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21627,7 +21627,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0139.xml">eschstruth_katz_1886_0139.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0139.xml">eschstruth_katz_1886_0139.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21646,7 +21646,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0134.xml">eschstruth_katz_1886_0134.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0134.xml">eschstruth_katz_1886_0134.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21665,7 +21665,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0110.xml">eschstruth_katz_1886_0110.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0110.xml">eschstruth_katz_1886_0110.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21684,7 +21684,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0038.xml">eschstruth_katz_1886_0038.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0038.xml">eschstruth_katz_1886_0038.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21703,7 +21703,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0228.xml">eschstruth_katz_1886_0228.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0228.xml">eschstruth_katz_1886_0228.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21722,7 +21722,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0040.xml">eschstruth_katz_1886_0040.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0040.xml">eschstruth_katz_1886_0040.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21741,7 +21741,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0147.xml">eschstruth_katz_1886_0147.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eschstruth_katz_1886/GT-PAGE/eschstruth_katz_1886_0147.xml">eschstruth_katz_1886_0147.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21807,7 +21807,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0001.xml">ebeling_betrachtungen04_1747_0001.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0001.xml">ebeling_betrachtungen04_1747_0001.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -21826,7 +21826,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0364.xml">ebeling_betrachtungen04_1747_0364.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0364.xml">ebeling_betrachtungen04_1747_0364.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -21845,7 +21845,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0005.xml">ebeling_betrachtungen04_1747_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0005.xml">ebeling_betrachtungen04_1747_0005.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21864,7 +21864,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0008.xml">ebeling_betrachtungen04_1747_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0008.xml">ebeling_betrachtungen04_1747_0008.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -21883,7 +21883,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0344.xml">ebeling_betrachtungen04_1747_0344.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0344.xml">ebeling_betrachtungen04_1747_0344.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21902,7 +21902,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0348.xml">ebeling_betrachtungen04_1747_0348.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0348.xml">ebeling_betrachtungen04_1747_0348.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -21921,7 +21921,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0011.xml">ebeling_betrachtungen04_1747_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0011.xml">ebeling_betrachtungen04_1747_0011.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21940,7 +21940,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0355.xml">ebeling_betrachtungen04_1747_0355.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0355.xml">ebeling_betrachtungen04_1747_0355.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -21959,7 +21959,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0365.xml">ebeling_betrachtungen04_1747_0365.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0365.xml">ebeling_betrachtungen04_1747_0365.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -21978,7 +21978,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0007.xml">ebeling_betrachtungen04_1747_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0007.xml">ebeling_betrachtungen04_1747_0007.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21997,7 +21997,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0361.xml">ebeling_betrachtungen04_1747_0361.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0361.xml">ebeling_betrachtungen04_1747_0361.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -22016,7 +22016,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0353.xml">ebeling_betrachtungen04_1747_0353.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0353.xml">ebeling_betrachtungen04_1747_0353.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -22035,7 +22035,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0363.xml">ebeling_betrachtungen04_1747_0363.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0363.xml">ebeling_betrachtungen04_1747_0363.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22054,7 +22054,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0356.xml">ebeling_betrachtungen04_1747_0356.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0356.xml">ebeling_betrachtungen04_1747_0356.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22073,7 +22073,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0347.xml">ebeling_betrachtungen04_1747_0347.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0347.xml">ebeling_betrachtungen04_1747_0347.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -22092,7 +22092,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0354.xml">ebeling_betrachtungen04_1747_0354.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0354.xml">ebeling_betrachtungen04_1747_0354.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22111,7 +22111,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0360.xml">ebeling_betrachtungen04_1747_0360.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0360.xml">ebeling_betrachtungen04_1747_0360.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22130,7 +22130,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0352.xml">ebeling_betrachtungen04_1747_0352.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0352.xml">ebeling_betrachtungen04_1747_0352.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22149,7 +22149,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0004.xml">ebeling_betrachtungen04_1747_0004.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0004.xml">ebeling_betrachtungen04_1747_0004.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22168,7 +22168,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0009.xml">ebeling_betrachtungen04_1747_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0009.xml">ebeling_betrachtungen04_1747_0009.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22187,7 +22187,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0349.xml">ebeling_betrachtungen04_1747_0349.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0349.xml">ebeling_betrachtungen04_1747_0349.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22206,7 +22206,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0358.xml">ebeling_betrachtungen04_1747_0358.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0358.xml">ebeling_betrachtungen04_1747_0358.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22225,7 +22225,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0367.xml">ebeling_betrachtungen04_1747_0367.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0367.xml">ebeling_betrachtungen04_1747_0367.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22244,7 +22244,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0366.xml">ebeling_betrachtungen04_1747_0366.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0366.xml">ebeling_betrachtungen04_1747_0366.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22263,7 +22263,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0362.xml">ebeling_betrachtungen04_1747_0362.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0362.xml">ebeling_betrachtungen04_1747_0362.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -22282,7 +22282,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0345.xml">ebeling_betrachtungen04_1747_0345.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0345.xml">ebeling_betrachtungen04_1747_0345.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -22301,7 +22301,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0351.xml">ebeling_betrachtungen04_1747_0351.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0351.xml">ebeling_betrachtungen04_1747_0351.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22320,7 +22320,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0006.xml">ebeling_betrachtungen04_1747_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ebeling_betrachtungen04_1747/GT-PAGE/ebeling_betrachtungen04_1747_0006.xml">ebeling_betrachtungen04_1747_0006.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22386,7 +22386,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0185.xml">droste_letzte_1860_0185.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0185.xml">droste_letzte_1860_0185.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22405,7 +22405,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0164.xml">droste_letzte_1860_0164.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0164.xml">droste_letzte_1860_0164.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22424,7 +22424,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0186.xml">droste_letzte_1860_0186.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0186.xml">droste_letzte_1860_0186.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22443,7 +22443,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0192.xml">droste_letzte_1860_0192.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0192.xml">droste_letzte_1860_0192.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22462,7 +22462,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0204.xml">droste_letzte_1860_0204.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0204.xml">droste_letzte_1860_0204.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22481,7 +22481,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0167.xml">droste_letzte_1860_0167.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0167.xml">droste_letzte_1860_0167.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22500,7 +22500,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0202.xml">droste_letzte_1860_0202.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0202.xml">droste_letzte_1860_0202.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22519,7 +22519,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0162.xml">droste_letzte_1860_0162.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0162.xml">droste_letzte_1860_0162.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22538,7 +22538,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0182.xml">droste_letzte_1860_0182.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0182.xml">droste_letzte_1860_0182.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22557,7 +22557,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0175.xml">droste_letzte_1860_0175.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0175.xml">droste_letzte_1860_0175.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22576,7 +22576,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0172.xml">droste_letzte_1860_0172.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0172.xml">droste_letzte_1860_0172.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22595,7 +22595,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0203.xml">droste_letzte_1860_0203.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0203.xml">droste_letzte_1860_0203.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22614,7 +22614,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0166.xml">droste_letzte_1860_0166.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0166.xml">droste_letzte_1860_0166.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22633,7 +22633,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0174.xml">droste_letzte_1860_0174.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0174.xml">droste_letzte_1860_0174.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22652,7 +22652,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0189.xml">droste_letzte_1860_0189.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0189.xml">droste_letzte_1860_0189.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22671,7 +22671,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0009.xml">droste_letzte_1860_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0009.xml">droste_letzte_1860_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22690,7 +22690,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0195.xml">droste_letzte_1860_0195.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0195.xml">droste_letzte_1860_0195.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22709,7 +22709,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0200.xml">droste_letzte_1860_0200.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0200.xml">droste_letzte_1860_0200.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22728,7 +22728,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0163.xml">droste_letzte_1860_0163.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0163.xml">droste_letzte_1860_0163.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22747,7 +22747,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0194.xml">droste_letzte_1860_0194.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droste_letzte_1860/GT-PAGE/droste_letzte_1860_0194.xml">droste_letzte_1860_0194.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22813,7 +22813,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0012.xml">ercker_aula02_1672_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0012.xml">ercker_aula02_1672_0012.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22832,7 +22832,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0009.xml">ercker_aula02_1672_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0009.xml">ercker_aula02_1672_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22851,7 +22851,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0022.xml">ercker_aula02_1672_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0022.xml">ercker_aula02_1672_0022.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22870,7 +22870,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0020.xml">ercker_aula02_1672_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0020.xml">ercker_aula02_1672_0020.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22889,7 +22889,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0004.xml">ercker_aula02_1672_0004.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0004.xml">ercker_aula02_1672_0004.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22908,7 +22908,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0032.xml">ercker_aula02_1672_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0032.xml">ercker_aula02_1672_0032.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -22927,7 +22927,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0007.xml">ercker_aula02_1672_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0007.xml">ercker_aula02_1672_0007.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -22946,7 +22946,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0030.xml">ercker_aula02_1672_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0030.xml">ercker_aula02_1672_0030.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22965,7 +22965,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0006.xml">ercker_aula02_1672_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0006.xml">ercker_aula02_1672_0006.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22984,7 +22984,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0008.xml">ercker_aula02_1672_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0008.xml">ercker_aula02_1672_0008.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23003,7 +23003,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0011.xml">ercker_aula02_1672_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0011.xml">ercker_aula02_1672_0011.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23022,7 +23022,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0014.xml">ercker_aula02_1672_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0014.xml">ercker_aula02_1672_0014.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -23041,7 +23041,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0039.xml">ercker_aula02_1672_0039.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0039.xml">ercker_aula02_1672_0039.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -23060,7 +23060,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0013.xml">ercker_aula02_1672_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0013.xml">ercker_aula02_1672_0013.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23079,7 +23079,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0029.xml">ercker_aula02_1672_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0029.xml">ercker_aula02_1672_0029.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23098,7 +23098,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0028.xml">ercker_aula02_1672_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0028.xml">ercker_aula02_1672_0028.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23117,7 +23117,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0001.xml">ercker_aula02_1672_0001.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0001.xml">ercker_aula02_1672_0001.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -23136,30 +23136,30 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0021.xml">ercker_aula02_1672_0021.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0003.xml">ercker_aula02_1672_0003.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0021.xml">ercker_aula02_1672_0021.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0003.xml">ercker_aula02_1672_0003.xml</a>
+                           </td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
@@ -23174,7 +23174,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0019.xml">ercker_aula02_1672_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0019.xml">ercker_aula02_1672_0019.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23193,7 +23193,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0010.xml">ercker_aula02_1672_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0010.xml">ercker_aula02_1672_0010.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23212,7 +23212,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0023.xml">ercker_aula02_1672_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0023.xml">ercker_aula02_1672_0023.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -23231,7 +23231,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0005.xml">ercker_aula02_1672_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula02_1672/GT-PAGE/ercker_aula02_1672_0005.xml">ercker_aula02_1672_0005.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23297,7 +23297,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0016.xml">falke_trachten02_1858_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0016.xml">falke_trachten02_1858_0016.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23316,7 +23316,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0018.xml">falke_trachten02_1858_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0018.xml">falke_trachten02_1858_0018.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23335,7 +23335,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0348.xml">falke_trachten02_1858_0348.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0348.xml">falke_trachten02_1858_0348.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23354,7 +23354,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0349.xml">falke_trachten02_1858_0349.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0349.xml">falke_trachten02_1858_0349.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23373,7 +23373,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0345.xml">falke_trachten02_1858_0345.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0345.xml">falke_trachten02_1858_0345.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -23392,7 +23392,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0014.xml">falke_trachten02_1858_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0014.xml">falke_trachten02_1858_0014.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23411,7 +23411,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0034.xml">falke_trachten02_1858_0034.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0034.xml">falke_trachten02_1858_0034.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23430,7 +23430,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0021.xml">falke_trachten02_1858_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0021.xml">falke_trachten02_1858_0021.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23449,7 +23449,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0025.xml">falke_trachten02_1858_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0025.xml">falke_trachten02_1858_0025.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23468,7 +23468,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0347.xml">falke_trachten02_1858_0347.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0347.xml">falke_trachten02_1858_0347.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23487,7 +23487,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0035.xml">falke_trachten02_1858_0035.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0035.xml">falke_trachten02_1858_0035.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23506,7 +23506,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0037.xml">falke_trachten02_1858_0037.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0037.xml">falke_trachten02_1858_0037.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23525,7 +23525,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0019.xml">falke_trachten02_1858_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0019.xml">falke_trachten02_1858_0019.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23544,7 +23544,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0343.xml">falke_trachten02_1858_0343.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0343.xml">falke_trachten02_1858_0343.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -23563,7 +23563,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0346.xml">falke_trachten02_1858_0346.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0346.xml">falke_trachten02_1858_0346.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23582,7 +23582,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0027.xml">falke_trachten02_1858_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0027.xml">falke_trachten02_1858_0027.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23601,7 +23601,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0344.xml">falke_trachten02_1858_0344.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0344.xml">falke_trachten02_1858_0344.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23620,7 +23620,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0017.xml">falke_trachten02_1858_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0017.xml">falke_trachten02_1858_0017.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23639,7 +23639,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0020.xml">falke_trachten02_1858_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0020.xml">falke_trachten02_1858_0020.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23658,7 +23658,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0350.xml">falke_trachten02_1858_0350.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/falke_trachten02_1858/GT-PAGE/falke_trachten02_1858_0350.xml">falke_trachten02_1858_0350.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23724,7 +23724,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0025.xml">droysen_alexander_1833_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0025.xml">droysen_alexander_1833_0025.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -23743,7 +23743,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0027.xml">droysen_alexander_1833_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0027.xml">droysen_alexander_1833_0027.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -23762,7 +23762,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0033.xml">droysen_alexander_1833_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0033.xml">droysen_alexander_1833_0033.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23781,7 +23781,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0018.xml">droysen_alexander_1833_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0018.xml">droysen_alexander_1833_0018.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -23800,7 +23800,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0034.xml">droysen_alexander_1833_0034.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0034.xml">droysen_alexander_1833_0034.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -23819,7 +23819,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0021.xml">droysen_alexander_1833_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0021.xml">droysen_alexander_1833_0021.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -23838,7 +23838,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0016.xml">droysen_alexander_1833_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0016.xml">droysen_alexander_1833_0016.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -23857,7 +23857,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0024.xml">droysen_alexander_1833_0024.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0024.xml">droysen_alexander_1833_0024.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -23876,7 +23876,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0031.xml">droysen_alexander_1833_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0031.xml">droysen_alexander_1833_0031.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23895,7 +23895,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0023.xml">droysen_alexander_1833_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0023.xml">droysen_alexander_1833_0023.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -23914,7 +23914,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0020.xml">droysen_alexander_1833_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0020.xml">droysen_alexander_1833_0020.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -23933,7 +23933,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0019.xml">droysen_alexander_1833_0019.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0019.xml">droysen_alexander_1833_0019.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -23952,7 +23952,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0029.xml">droysen_alexander_1833_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0029.xml">droysen_alexander_1833_0029.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -23971,7 +23971,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0414.xml">droysen_alexander_1833_0414.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0414.xml">droysen_alexander_1833_0414.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23990,7 +23990,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0028.xml">droysen_alexander_1833_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0028.xml">droysen_alexander_1833_0028.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24009,7 +24009,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0026.xml">droysen_alexander_1833_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0026.xml">droysen_alexander_1833_0026.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24028,7 +24028,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0032.xml">droysen_alexander_1833_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0032.xml">droysen_alexander_1833_0032.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24047,7 +24047,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0017.xml">droysen_alexander_1833_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0017.xml">droysen_alexander_1833_0017.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24066,7 +24066,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0030.xml">droysen_alexander_1833_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0030.xml">droysen_alexander_1833_0030.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -24085,7 +24085,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0022.xml">droysen_alexander_1833_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/droysen_alexander_1833/GT-PAGE/droysen_alexander_1833_0022.xml">droysen_alexander_1833_0022.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24151,7 +24151,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0047.xml">eichendorff_taugenichts_1826_0047.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0047.xml">eichendorff_taugenichts_1826_0047.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24170,7 +24170,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0023.xml">eichendorff_taugenichts_1826_0023.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0023.xml">eichendorff_taugenichts_1826_0023.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24189,7 +24189,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0066.xml">eichendorff_taugenichts_1826_0066.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0066.xml">eichendorff_taugenichts_1826_0066.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24208,7 +24208,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0104.xml">eichendorff_taugenichts_1826_0104.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0104.xml">eichendorff_taugenichts_1826_0104.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24227,7 +24227,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0046.xml">eichendorff_taugenichts_1826_0046.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0046.xml">eichendorff_taugenichts_1826_0046.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24246,7 +24246,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0037.xml">eichendorff_taugenichts_1826_0037.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0037.xml">eichendorff_taugenichts_1826_0037.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24265,7 +24265,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0028.xml">eichendorff_taugenichts_1826_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0028.xml">eichendorff_taugenichts_1826_0028.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24284,7 +24284,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0071.xml">eichendorff_taugenichts_1826_0071.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0071.xml">eichendorff_taugenichts_1826_0071.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24303,7 +24303,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0161.xml">eichendorff_taugenichts_1826_0161.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0161.xml">eichendorff_taugenichts_1826_0161.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24322,7 +24322,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0207.xml">eichendorff_taugenichts_1826_0207.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0207.xml">eichendorff_taugenichts_1826_0207.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24341,7 +24341,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0195.xml">eichendorff_taugenichts_1826_0195.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0195.xml">eichendorff_taugenichts_1826_0195.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24360,7 +24360,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0145.xml">eichendorff_taugenichts_1826_0145.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0145.xml">eichendorff_taugenichts_1826_0145.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24379,7 +24379,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0031.xml">eichendorff_taugenichts_1826_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0031.xml">eichendorff_taugenichts_1826_0031.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24398,7 +24398,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0165.xml">eichendorff_taugenichts_1826_0165.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0165.xml">eichendorff_taugenichts_1826_0165.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24417,7 +24417,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0144.xml">eichendorff_taugenichts_1826_0144.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0144.xml">eichendorff_taugenichts_1826_0144.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24436,7 +24436,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0053.xml">eichendorff_taugenichts_1826_0053.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0053.xml">eichendorff_taugenichts_1826_0053.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24455,7 +24455,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0018.xml">eichendorff_taugenichts_1826_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0018.xml">eichendorff_taugenichts_1826_0018.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24474,7 +24474,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0105.xml">eichendorff_taugenichts_1826_0105.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0105.xml">eichendorff_taugenichts_1826_0105.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24493,7 +24493,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0064.xml">eichendorff_taugenichts_1826_0064.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0064.xml">eichendorff_taugenichts_1826_0064.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24512,7 +24512,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0063.xml">eichendorff_taugenichts_1826_0063.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/eichendorff_taugenichts_1826/GT-PAGE/eichendorff_taugenichts_1826_0063.xml">eichendorff_taugenichts_1826_0063.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -24578,7 +24578,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister01_1711/GT-PAGE/decker_baumeister01_1711_0005.xml">decker_baumeister01_1711_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister01_1711/GT-PAGE/decker_baumeister01_1711_0005.xml">decker_baumeister01_1711_0005.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -24597,7 +24597,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister01_1711/GT-PAGE/decker_baumeister01_1711_0004.xml">decker_baumeister01_1711_0004.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister01_1711/GT-PAGE/decker_baumeister01_1711_0004.xml">decker_baumeister01_1711_0004.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -24616,7 +24616,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister01_1711/GT-PAGE/decker_baumeister01_1711_0007.xml">decker_baumeister01_1711_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister01_1711/GT-PAGE/decker_baumeister01_1711_0007.xml">decker_baumeister01_1711_0007.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -24635,7 +24635,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister01_1711/GT-PAGE/decker_baumeister01_1711_0008.xml">decker_baumeister01_1711_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister01_1711/GT-PAGE/decker_baumeister01_1711_0008.xml">decker_baumeister01_1711_0008.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -24654,7 +24654,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister01_1711/GT-PAGE/decker_baumeister01_1711_0009.xml">decker_baumeister01_1711_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister01_1711/GT-PAGE/decker_baumeister01_1711_0009.xml">decker_baumeister01_1711_0009.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -24673,7 +24673,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister01_1711/GT-PAGE/decker_baumeister01_1711_0006.xml">decker_baumeister01_1711_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister01_1711/GT-PAGE/decker_baumeister01_1711_0006.xml">decker_baumeister01_1711_0006.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -24692,7 +24692,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/decker_baumeister01_1711/GT-PAGE/decker_baumeister01_1711_0010.xml">decker_baumeister01_1711_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/decker_baumeister01_1711/GT-PAGE/decker_baumeister01_1711_0010.xml">decker_baumeister01_1711_0010.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24758,7 +24758,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0031.xml">feuerbach_recht_1801_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0031.xml">feuerbach_recht_1801_0031.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -24777,7 +24777,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0552.xml">feuerbach_recht_1801_0552.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0552.xml">feuerbach_recht_1801_0552.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24796,7 +24796,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0013.xml">feuerbach_recht_1801_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0013.xml">feuerbach_recht_1801_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24815,7 +24815,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0015.xml">feuerbach_recht_1801_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0015.xml">feuerbach_recht_1801_0015.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24834,7 +24834,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0041.xml">feuerbach_recht_1801_0041.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0041.xml">feuerbach_recht_1801_0041.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -24853,7 +24853,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0042.xml">feuerbach_recht_1801_0042.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0042.xml">feuerbach_recht_1801_0042.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -24872,7 +24872,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0040.xml">feuerbach_recht_1801_0040.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0040.xml">feuerbach_recht_1801_0040.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -24891,7 +24891,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0550.xml">feuerbach_recht_1801_0550.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0550.xml">feuerbach_recht_1801_0550.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -24910,7 +24910,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0551.xml">feuerbach_recht_1801_0551.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0551.xml">feuerbach_recht_1801_0551.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24929,7 +24929,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0043.xml">feuerbach_recht_1801_0043.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0043.xml">feuerbach_recht_1801_0043.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -24948,7 +24948,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0025.xml">feuerbach_recht_1801_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0025.xml">feuerbach_recht_1801_0025.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -24967,7 +24967,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0017.xml">feuerbach_recht_1801_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0017.xml">feuerbach_recht_1801_0017.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24986,7 +24986,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0553.xml">feuerbach_recht_1801_0553.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0553.xml">feuerbach_recht_1801_0553.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -25005,7 +25005,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0036.xml">feuerbach_recht_1801_0036.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0036.xml">feuerbach_recht_1801_0036.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -25024,7 +25024,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0549.xml">feuerbach_recht_1801_0549.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0549.xml">feuerbach_recht_1801_0549.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -25043,7 +25043,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0030.xml">feuerbach_recht_1801_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0030.xml">feuerbach_recht_1801_0030.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -25062,7 +25062,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0016.xml">feuerbach_recht_1801_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0016.xml">feuerbach_recht_1801_0016.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -25081,7 +25081,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0554.xml">feuerbach_recht_1801_0554.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0554.xml">feuerbach_recht_1801_0554.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -25100,7 +25100,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0033.xml">feuerbach_recht_1801_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0033.xml">feuerbach_recht_1801_0033.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -25119,7 +25119,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0014.xml">feuerbach_recht_1801_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/feuerbach_recht_1801/GT-PAGE/feuerbach_recht_1801_0014.xml">feuerbach_recht_1801_0014.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -25185,7 +25185,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0022.xml">ercker_aula01_1672_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0022.xml">ercker_aula01_1672_0022.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -25204,7 +25204,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0037.xml">ercker_aula01_1672_0037.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0037.xml">ercker_aula01_1672_0037.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -25223,7 +25223,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0354.xml">ercker_aula01_1672_0354.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0354.xml">ercker_aula01_1672_0354.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25242,7 +25242,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0026.xml">ercker_aula01_1672_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0026.xml">ercker_aula01_1672_0026.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -25261,7 +25261,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0011.xml">ercker_aula01_1672_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0011.xml">ercker_aula01_1672_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25280,7 +25280,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0014.xml">ercker_aula01_1672_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0014.xml">ercker_aula01_1672_0014.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -25299,7 +25299,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0028.xml">ercker_aula01_1672_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0028.xml">ercker_aula01_1672_0028.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25318,7 +25318,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0012.xml">ercker_aula01_1672_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0012.xml">ercker_aula01_1672_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25337,7 +25337,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0039.xml">ercker_aula01_1672_0039.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0039.xml">ercker_aula01_1672_0039.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -25356,7 +25356,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0025.xml">ercker_aula01_1672_0025.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0025.xml">ercker_aula01_1672_0025.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -25375,7 +25375,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0353.xml">ercker_aula01_1672_0353.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0353.xml">ercker_aula01_1672_0353.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25394,7 +25394,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0033.xml">ercker_aula01_1672_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0033.xml">ercker_aula01_1672_0033.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -25413,7 +25413,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0010.xml">ercker_aula01_1672_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0010.xml">ercker_aula01_1672_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -25432,7 +25432,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0013.xml">ercker_aula01_1672_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0013.xml">ercker_aula01_1672_0013.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25451,7 +25451,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0016.xml">ercker_aula01_1672_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0016.xml">ercker_aula01_1672_0016.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25470,7 +25470,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0015.xml">ercker_aula01_1672_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0015.xml">ercker_aula01_1672_0015.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -25489,7 +25489,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0009.xml">ercker_aula01_1672_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0009.xml">ercker_aula01_1672_0009.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -25508,7 +25508,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0355.xml">ercker_aula01_1672_0355.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0355.xml">ercker_aula01_1672_0355.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -25527,7 +25527,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0027.xml">ercker_aula01_1672_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0027.xml">ercker_aula01_1672_0027.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -25546,7 +25546,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0017.xml">ercker_aula01_1672_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0017.xml">ercker_aula01_1672_0017.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -25565,7 +25565,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0034.xml">ercker_aula01_1672_0034.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0034.xml">ercker_aula01_1672_0034.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -25584,7 +25584,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0356.xml">ercker_aula01_1672_0356.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0356.xml">ercker_aula01_1672_0356.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -25603,7 +25603,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0038.xml">ercker_aula01_1672_0038.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/ercker_aula01_1672/GT-PAGE/ercker_aula01_1672_0038.xml">ercker_aula01_1672_0038.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25669,7 +25669,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0035.xml">daumer_krone_1859_0035.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0035.xml">daumer_krone_1859_0035.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -25688,7 +25688,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0033.xml">daumer_krone_1859_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0033.xml">daumer_krone_1859_0033.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25707,7 +25707,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0011.xml">daumer_krone_1859_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0011.xml">daumer_krone_1859_0011.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -25726,7 +25726,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0037.xml">daumer_krone_1859_0037.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0037.xml">daumer_krone_1859_0037.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -25745,7 +25745,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0029.xml">daumer_krone_1859_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0029.xml">daumer_krone_1859_0029.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -25764,7 +25764,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0026.xml">daumer_krone_1859_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0026.xml">daumer_krone_1859_0026.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -25783,7 +25783,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0039.xml">daumer_krone_1859_0039.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0039.xml">daumer_krone_1859_0039.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25802,7 +25802,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0010.xml">daumer_krone_1859_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0010.xml">daumer_krone_1859_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -25821,7 +25821,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0028.xml">daumer_krone_1859_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0028.xml">daumer_krone_1859_0028.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -25840,7 +25840,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0038.xml">daumer_krone_1859_0038.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0038.xml">daumer_krone_1859_0038.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25859,7 +25859,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0018.xml">daumer_krone_1859_0018.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0018.xml">daumer_krone_1859_0018.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25878,7 +25878,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0041.xml">daumer_krone_1859_0041.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0041.xml">daumer_krone_1859_0041.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25897,7 +25897,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0040.xml">daumer_krone_1859_0040.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0040.xml">daumer_krone_1859_0040.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -25916,7 +25916,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0036.xml">daumer_krone_1859_0036.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0036.xml">daumer_krone_1859_0036.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -25935,7 +25935,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0012.xml">daumer_krone_1859_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0012.xml">daumer_krone_1859_0012.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -25954,7 +25954,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0027.xml">daumer_krone_1859_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0027.xml">daumer_krone_1859_0027.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -25973,7 +25973,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0042.xml">daumer_krone_1859_0042.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0042.xml">daumer_krone_1859_0042.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25992,7 +25992,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0030.xml">daumer_krone_1859_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0030.xml">daumer_krone_1859_0030.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -26011,7 +26011,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0015.xml">daumer_krone_1859_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0015.xml">daumer_krone_1859_0015.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -26030,7 +26030,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0013.xml">daumer_krone_1859_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/daumer_krone_1859/GT-PAGE/daumer_krone_1859_0013.xml">daumer_krone_1859_0013.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -26096,7 +26096,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0022.xml">estor_rechtsgelehrsamkeit02_1758_0022.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0022.xml">estor_rechtsgelehrsamkeit02_1758_0022.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -26115,7 +26115,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0029.xml">estor_rechtsgelehrsamkeit02_1758_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0029.xml">estor_rechtsgelehrsamkeit02_1758_0029.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -26134,7 +26134,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0014.xml">estor_rechtsgelehrsamkeit02_1758_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0014.xml">estor_rechtsgelehrsamkeit02_1758_0014.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -26153,7 +26153,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0036.xml">estor_rechtsgelehrsamkeit02_1758_0036.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0036.xml">estor_rechtsgelehrsamkeit02_1758_0036.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -26172,7 +26172,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0041.xml">estor_rechtsgelehrsamkeit02_1758_0041.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0041.xml">estor_rechtsgelehrsamkeit02_1758_0041.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -26191,7 +26191,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0012.xml">estor_rechtsgelehrsamkeit02_1758_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0012.xml">estor_rechtsgelehrsamkeit02_1758_0012.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -26210,7 +26210,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0659.xml">estor_rechtsgelehrsamkeit02_1758_0659.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0659.xml">estor_rechtsgelehrsamkeit02_1758_0659.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -26229,7 +26229,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0008.xml">estor_rechtsgelehrsamkeit02_1758_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0008.xml">estor_rechtsgelehrsamkeit02_1758_0008.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -26248,7 +26248,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0007.xml">estor_rechtsgelehrsamkeit02_1758_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0007.xml">estor_rechtsgelehrsamkeit02_1758_0007.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -26267,7 +26267,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0031.xml">estor_rechtsgelehrsamkeit02_1758_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0031.xml">estor_rechtsgelehrsamkeit02_1758_0031.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -26286,7 +26286,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0005.xml">estor_rechtsgelehrsamkeit02_1758_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0005.xml">estor_rechtsgelehrsamkeit02_1758_0005.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -26305,7 +26305,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0044.xml">estor_rechtsgelehrsamkeit02_1758_0044.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0044.xml">estor_rechtsgelehrsamkeit02_1758_0044.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -26324,7 +26324,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0033.xml">estor_rechtsgelehrsamkeit02_1758_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0033.xml">estor_rechtsgelehrsamkeit02_1758_0033.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -26343,7 +26343,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0013.xml">estor_rechtsgelehrsamkeit02_1758_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0013.xml">estor_rechtsgelehrsamkeit02_1758_0013.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -26362,7 +26362,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0010.xml">estor_rechtsgelehrsamkeit02_1758_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0010.xml">estor_rechtsgelehrsamkeit02_1758_0010.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -26381,7 +26381,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0175.xml">estor_rechtsgelehrsamkeit02_1758_0175.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0175.xml">estor_rechtsgelehrsamkeit02_1758_0175.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -26400,7 +26400,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0028.xml">estor_rechtsgelehrsamkeit02_1758_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0028.xml">estor_rechtsgelehrsamkeit02_1758_0028.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -26419,7 +26419,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0045.xml">estor_rechtsgelehrsamkeit02_1758_0045.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0045.xml">estor_rechtsgelehrsamkeit02_1758_0045.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -26438,7 +26438,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0009.xml">estor_rechtsgelehrsamkeit02_1758_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0009.xml">estor_rechtsgelehrsamkeit02_1758_0009.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -26457,7 +26457,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0011.xml">estor_rechtsgelehrsamkeit02_1758_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0011.xml">estor_rechtsgelehrsamkeit02_1758_0011.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -26476,7 +26476,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0021.xml">estor_rechtsgelehrsamkeit02_1758_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0021.xml">estor_rechtsgelehrsamkeit02_1758_0021.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -26495,7 +26495,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0259.xml">estor_rechtsgelehrsamkeit02_1758_0259.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0259.xml">estor_rechtsgelehrsamkeit02_1758_0259.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -26514,7 +26514,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0032.xml">estor_rechtsgelehrsamkeit02_1758_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0032.xml">estor_rechtsgelehrsamkeit02_1758_0032.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -26533,7 +26533,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0016.xml">estor_rechtsgelehrsamkeit02_1758_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0016.xml">estor_rechtsgelehrsamkeit02_1758_0016.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -26552,7 +26552,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0015.xml">estor_rechtsgelehrsamkeit02_1758_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0015.xml">estor_rechtsgelehrsamkeit02_1758_0015.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -26618,7 +26618,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1433.xml">estor_rechtsgelehrsamkeit03_1767_1433.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1433.xml">estor_rechtsgelehrsamkeit03_1767_1433.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -26637,7 +26637,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1440.xml">estor_rechtsgelehrsamkeit03_1767_1440.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1440.xml">estor_rechtsgelehrsamkeit03_1767_1440.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -26656,7 +26656,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1430.xml">estor_rechtsgelehrsamkeit03_1767_1430.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1430.xml">estor_rechtsgelehrsamkeit03_1767_1430.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -26675,7 +26675,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1429.xml">estor_rechtsgelehrsamkeit03_1767_1429.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1429.xml">estor_rechtsgelehrsamkeit03_1767_1429.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -26694,7 +26694,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0005.xml">estor_rechtsgelehrsamkeit03_1767_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0005.xml">estor_rechtsgelehrsamkeit03_1767_0005.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -26713,7 +26713,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0010.xml">estor_rechtsgelehrsamkeit03_1767_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0010.xml">estor_rechtsgelehrsamkeit03_1767_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -26732,7 +26732,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1431.xml">estor_rechtsgelehrsamkeit03_1767_1431.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1431.xml">estor_rechtsgelehrsamkeit03_1767_1431.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -26751,7 +26751,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1438.xml">estor_rechtsgelehrsamkeit03_1767_1438.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1438.xml">estor_rechtsgelehrsamkeit03_1767_1438.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -26770,7 +26770,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0007.xml">estor_rechtsgelehrsamkeit03_1767_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0007.xml">estor_rechtsgelehrsamkeit03_1767_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -26789,7 +26789,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0015.xml">estor_rechtsgelehrsamkeit03_1767_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0015.xml">estor_rechtsgelehrsamkeit03_1767_0015.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -26808,7 +26808,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0013.xml">estor_rechtsgelehrsamkeit03_1767_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0013.xml">estor_rechtsgelehrsamkeit03_1767_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -26827,7 +26827,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1439.xml">estor_rechtsgelehrsamkeit03_1767_1439.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1439.xml">estor_rechtsgelehrsamkeit03_1767_1439.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -26846,7 +26846,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1441.xml">estor_rechtsgelehrsamkeit03_1767_1441.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1441.xml">estor_rechtsgelehrsamkeit03_1767_1441.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -26865,7 +26865,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1435.xml">estor_rechtsgelehrsamkeit03_1767_1435.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1435.xml">estor_rechtsgelehrsamkeit03_1767_1435.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -26884,7 +26884,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0012.xml">estor_rechtsgelehrsamkeit03_1767_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0012.xml">estor_rechtsgelehrsamkeit03_1767_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -26903,7 +26903,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0008.xml">estor_rechtsgelehrsamkeit03_1767_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0008.xml">estor_rechtsgelehrsamkeit03_1767_0008.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -26922,7 +26922,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1442.xml">estor_rechtsgelehrsamkeit03_1767_1442.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1442.xml">estor_rechtsgelehrsamkeit03_1767_1442.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -26941,7 +26941,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1445.xml">estor_rechtsgelehrsamkeit03_1767_1445.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1445.xml">estor_rechtsgelehrsamkeit03_1767_1445.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -26960,7 +26960,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1432.xml">estor_rechtsgelehrsamkeit03_1767_1432.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1432.xml">estor_rechtsgelehrsamkeit03_1767_1432.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -26979,7 +26979,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1446.xml">estor_rechtsgelehrsamkeit03_1767_1446.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1446.xml">estor_rechtsgelehrsamkeit03_1767_1446.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -26998,7 +26998,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1436.xml">estor_rechtsgelehrsamkeit03_1767_1436.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1436.xml">estor_rechtsgelehrsamkeit03_1767_1436.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -27017,7 +27017,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1428.xml">estor_rechtsgelehrsamkeit03_1767_1428.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1428.xml">estor_rechtsgelehrsamkeit03_1767_1428.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -27036,7 +27036,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1444.xml">estor_rechtsgelehrsamkeit03_1767_1444.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1444.xml">estor_rechtsgelehrsamkeit03_1767_1444.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -27055,7 +27055,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0009.xml">estor_rechtsgelehrsamkeit03_1767_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0009.xml">estor_rechtsgelehrsamkeit03_1767_0009.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -27074,7 +27074,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0014.xml">estor_rechtsgelehrsamkeit03_1767_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0014.xml">estor_rechtsgelehrsamkeit03_1767_0014.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -27093,7 +27093,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0011.xml">estor_rechtsgelehrsamkeit03_1767_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_0011.xml">estor_rechtsgelehrsamkeit03_1767_0011.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -27112,7 +27112,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1443.xml">estor_rechtsgelehrsamkeit03_1767_1443.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1443.xml">estor_rechtsgelehrsamkeit03_1767_1443.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -27131,7 +27131,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1437.xml">estor_rechtsgelehrsamkeit03_1767_1437.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1437.xml">estor_rechtsgelehrsamkeit03_1767_1437.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -27150,7 +27150,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.0/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1434.xml">estor_rechtsgelehrsamkeit03_1767_1434.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_1_4/blob/v1.0.1/data/estor_rechtsgelehrsamkeit03_1767/GT-PAGE/estor_rechtsgelehrsamkeit03_1767_1434.xml">estor_rechtsgelehrsamkeit03_1767_1434.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
