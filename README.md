@@ -1,6 +1,6 @@
 <div>
    <h1 id="title">gt_structure_1_4</h1>
-    <p id="paragraph">The repo <b>gt_structure_1_4</b> is part of the OCR-D Ground Truth Structure corpus. Only the structure of the printed page is annotated. The corpus was created as a result of the DFG project OCR-D. Corrections and extensions can be reported, please use the Issues.</p>
+   <p id="paragraph">OCR-D Struktur-Ground Truth</p>
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
