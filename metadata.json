@@ -16,7 +16,7 @@
       ]
     }
   ],
-  "description": "OCR-D Struktur-Ground Truth",
+  "description": "The repo gt_structure_1_4 is part of the OCR-D Ground Truth Structure corpus. Only the structure of the printed page is annotated. The corpus was created as a result of the DFG project OCR-D. Corrections and extensions can be reported, please use the Issues.",
   "project-name": "OCR-D",
   "project-website": "https://ocr-d.de/",
   "language": [
