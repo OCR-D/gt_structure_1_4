@@ -170,7 +170,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_1_4/releases/download/v1.0.1/bagitDump-v13.zip">Current version download: bagitDump-v13.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_1_4/releases/download/v1.0.2/bagitDump-v14.zip">Current version download: bagitDump-v14.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_1_4/releases">Version archive</a>
