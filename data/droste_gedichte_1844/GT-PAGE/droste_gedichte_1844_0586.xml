@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-droste_gedichte_1844_0586"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-03-22T11:10:45.406</Created><LastChange>2008-02-25T10:51:10</LastChange></Metadata><Page imageFilename="../jpg/droste_gedichte_1844_0586.jpg" imageWidth="1509" imageHeight="2316" type="content"><ReadingOrder><OrderedGroup id="d34" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TextRegion type="page-number" id="region_1"><Coords points="852,252 1073,252 1073,344 852,344"/></TextRegion><TextRegion type="paragraph" id="region_2"><Coords points="435,372 1479,372 1479,1988 435,1988"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-droste_gedichte_1844_0586">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:10:45</Created>
+	<LastChange>2023-09-15T16:38:36</LastChange></Metadata>
+	<Page imageFilename="../jpg/droste_gedichte_1844_0586.jpg" imageWidth="1509" imageHeight="2316" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="948,285 948,286 997,286 997,287 999,287 999,288 1000,288 1000,289 1001,289 1001,291 1002,291 1002,311 1003,311 1003,316 1002,316 1002,317 983,317 983,319 958,319 958,320 946,320 946,317 941,317 941,316 939,316 939,315 938,315 938,313 937,313 937,306 938,306 938,305 940,305 940,288 941,288 941,285"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="560,378 560,399 600,399 600,400 721,400 721,399 736,399 736,400 835,400 835,399 837,399 837,398 845,398 845,399 995,399 995,398 1062,398 1062,397 1153,397 1153,398 1154,398 1154,400 1284,400 1284,399 1285,399 1285,398 1364,398 1364,399 1365,399 1365,400 1366,400 1366,402 1367,402 1367,403 1416,403 1416,404 1422,404 1422,405 1424,405 1424,406 1425,406 1425,407 1434,407 1434,440 1435,440 1435,444 1434,444 1434,625 1435,625 1435,663 1434,663 1434,830 1435,830 1435,1006 1436,1006 1436,1011 1435,1011 1435,1106 1434,1106 1434,1241 1435,1241 1435,1309 1436,1309 1436,1352 1437,1352 1437,1379 1438,1379 1438,1383 1437,1383 1437,1593 1438,1593 1438,1597 1437,1597 1437,1735 1438,1735 1438,1767 1437,1767 1437,1768 1436,1768 1436,1917 1425,1917 1425,1918 1418,1918 1418,1919 1399,1919 1399,1922 1355,1922 1355,1924 1351,1924 1351,1923 1348,1923 1348,1920 1222,1920 1222,1922 1218,1922 1218,1920 1157,1920 1157,1919 1057,1919 1057,1922 1053,1922 1053,1920 946,1920 946,1923 870,1923 870,1953 850,1953 850,1954 660,1954 660,1958 657,1958 657,1959 653,1959 653,1954 507,1954 507,1953 498,1953 498,1943 496,1943 496,1880 495,1880 495,1743 496,1743 496,1623 497,1623 497,1497 496,1497 496,1487 497,1487 497,1250 496,1250 496,1207 497,1207 497,1073 496,1073 496,1069 498,1069 498,971 497,971 497,929 496,929 496,900 497,900 497,827 498,827 498,826 501,826 501,824 502,824 502,823 509,823 509,820 510,820 510,819 548,819 548,704 529,704 529,702 525,702 525,701 499,701 499,699 498,699 498,691 497,691 497,611 498,611 498,444 499,444 499,443 501,443 501,438 502,438 502,437 549,437 549,408 550,408 550,405 551,405 551,404 556,404 556,378"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="866,337 866,346 1076,346 1076,337"/></SeparatorRegion></Page></PcGts>
