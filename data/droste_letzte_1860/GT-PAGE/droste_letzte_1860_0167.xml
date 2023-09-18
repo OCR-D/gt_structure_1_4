@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-droste_letzte_1860_0167"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-03-22T11:10:48.562</Created><LastChange>2010-01-25T16:24:58</LastChange></Metadata><Page imageFilename="../jpg/droste_letzte_1860_0167.jpg" imageWidth="1694" imageHeight="2398" type="content"><ReadingOrder><OrderedGroup id="d26" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TextRegion type="page-number" id="region_1"><Coords points="567,387 672,387 672,453 567,453"/></TextRegion><TextRegion type="paragraph" id="region_2"><Coords points="144,468 1104,468 1104,1929 144,1929"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-droste_letzte_1860_0167">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:10:48</Created>
+	<LastChange>2023-09-18T10:26:13</LastChange></Metadata>
+	<Page imageFilename="../jpg/droste_letzte_1860_0167.jpg" imageWidth="1694" imageHeight="2398" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="635,405 635,406 636,406 636,431 635,431 635,432 618,432 618,433 610,433 610,432 594,432 594,431 593,431 593,409 594,409 594,407 595,407 595,406 631,406 631,405"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="393,491 393,492 394,492 394,494 516,494 516,493 517,493 517,492 595,492 595,493 729,493 729,492 731,492 731,491 781,491 781,492 784,492 784,495 912,495 912,493 930,493 930,500 974,500 974,501 1007,501 1007,502 1030,502 1030,503 1031,503 1031,517 1033,517 1033,555 1034,555 1034,557 1035,557 1035,561 1034,561 1034,660 1035,660 1035,973 1036,973 1036,979 1035,979 1035,1141 1036,1141 1036,1182 1037,1182 1037,1186 1036,1186 1036,1187 1035,1187 1035,1300 1036,1300 1036,1400 1037,1400 1037,1499 1038,1499 1038,1620 1037,1620 1037,1621 1036,1621 1036,1720 1038,1720 1038,1724 1037,1724 1037,1725 1036,1725 1036,1825 1037,1825 1037,1862 1038,1862 1038,1867 1036,1867 1036,1882 1034,1882 1034,1883 1033,1883 1033,1884 1017,1884 1017,1890 1016,1890 1016,1891 1015,1891 1015,1892 1011,1892 1011,1890 984,1890 984,1883 943,1883 943,1882 913,1882 913,1881 595,1881 595,1880 444,1880 444,1885 443,1885 443,1887 352,1887 352,1889 246,1889 246,1880 211,1880 211,1879 207,1879 207,1878 205,1878 205,1876 203,1876 203,1875 199,1875 199,1859 198,1859 198,1717 197,1717 197,1667 196,1667 196,1656 197,1656 197,1500 196,1500 196,1290 195,1290 195,1285 196,1285 196,1095 195,1095 195,1092 194,1092 194,924 193,924 193,867 194,867 194,811 195,811 195,755 196,755 196,720 197,720 197,612 195,612 195,503 196,503 196,502 217,502 217,495 218,495 218,494 241,494 241,493 243,493 243,492 247,492 247,493 248,493 248,495 262,495 262,498 386,498 386,492 387,492 387,491"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
