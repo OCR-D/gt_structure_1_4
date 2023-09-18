@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-drude_pflanzengeographie_1890_0026"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-03-22T11:10:53.417</Created><LastChange>2008-12-08T11:55:01</LastChange></Metadata><Page imageFilename="../jpg/drude_pflanzengeographie_1890_0026.jpg" imageWidth="2054" imageHeight="2740" type="content"><ReadingOrder><OrderedGroup id="d38" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/><RegionRefIndexed index="3" regionRef="region_3"/></OrderedGroup></ReadingOrder><TextRegion type="header" id="region_1"><Coords points="969,408 1677,408 1677,492 969,492"/></TextRegion><TextRegion type="page-number" id="region_2"><Coords points="729,414 846,414 846,492 729,492"/></TextRegion><TextRegion type="paragraph" id="region_3"><Coords points="711,495 1947,495 1947,2319 711,2319"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-drude_pflanzengeographie_1890_0026">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:10:53</Created>
+	<LastChange>2023-09-18T14:58:09</LastChange></Metadata>
+	<Page imageFilename="../jpg/drude_pflanzengeographie_1890_0026.jpg" imageWidth="2054" imageHeight="2740" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="1626,441 1626,452 1634,452 1634,454 1643,454 1643,455 1644,455 1644,462 1652,462 1652,463 1653,463 1653,468 1585,468 1585,476 1480,476 1480,473 1468,473 1468,469 1170,469 1170,470 1002,470 1002,469 1001,469 1001,465 1002,465 1002,464 1004,464 1004,458 1008,458 1008,445 1009,445 1009,444 1041,444 1041,443 1078,443 1078,442 1179,442 1179,443 1277,443 1277,442 1373,442 1373,451 1598,451 1598,441"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="794,445 794,463 795,463 795,465 799,465 799,469 796,469 796,477 787,477 787,469 777,469 777,465 778,465 778,463 779,463 779,461 780,461 780,460 781,460 781,458 782,458 782,457 783,457 783,455 784,455 784,454 785,454 785,452 786,452 786,451 787,451 787,449 788,449 788,447 789,447 789,445"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="1514,530 1514,531 1515,531 1515,532 1581,532 1581,543 1729,543 1729,531 1811,531 1811,530 1853,530 1853,547 1872,547 1872,548 1873,548 1873,549 1874,549 1874,684 1875,684 1875,862 1876,862 1876,906 1877,906 1877,911 1876,911 1876,1051 1877,1051 1877,1089 1878,1089 1878,1123 1879,1123 1879,1124 1880,1124 1880,1129 1879,1129 1879,1392 1881,1392 1881,1393 1882,1393 1882,1399 1881,1399 1881,1543 1882,1543 1882,1617 1884,1617 1884,1619 1885,1619 1885,1624 1884,1624 1884,1841 1886,1841 1886,1842 1887,1842 1887,1891 1886,1891 1886,2068 1887,2068 1887,2200 1888,2200 1888,2206 1887,2206 1887,2258 1797,2258 1797,2259 1796,2259 1796,2260 1742,2260 1742,2263 1726,2263 1726,2266 1722,2266 1722,2265 1721,2265 1721,2258 1655,2258 1655,2257 1340,2257 1340,2258 1295,2258 1295,2259 1161,2259 1161,2260 1107,2260 1107,2268 1106,2268 1106,2269 1087,2269 1087,2267 989,2267 989,2268 988,2268 988,2269 984,2269 984,2268 968,2268 968,2261 958,2261 958,2260 817,2260 817,2264 816,2264 816,2267 815,2267 815,2268 795,2268 795,2267 794,2267 794,2021 793,2021 793,1905 791,1905 791,1800 790,1800 790,1685 789,1685 789,1549 788,1549 788,1460 787,1460 787,1387 786,1387 786,1351 785,1351 785,1238 784,1238 784,1193 783,1193 783,877 782,877 782,874 781,874 781,746 780,746 780,726 781,726 781,628 779,628 779,560 778,560 778,554 779,554 779,550 780,550 780,549 781,549 781,548 782,548 782,547 783,547 783,546 797,546 797,535 805,535 805,536 806,536 806,546 944,546 944,545 963,545 963,535 964,535 964,534 1027,534 1027,533 1107,533 1107,534 1108,534 1108,539 1109,539 1109,544 1229,544 1229,543 1230,543 1230,539 1231,539 1231,536 1294,536 1294,533 1427,533 1427,532 1510,532 1510,530"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
