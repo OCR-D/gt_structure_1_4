@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-ebbinghaus_gedaechtnis_1885_0117">
 	<Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
-	<Created>2018-03-22T10:10:56</Created>
-	<LastChange>2019-02-26T13:26:04</LastChange></Metadata>
+	<Created>2018-03-22T08:10:56</Created>
+	<LastChange>2023-09-18T16:30:35</LastChange></Metadata>
 	<Page imageFilename="ebbinghaus_gedaechtnis_1885_0117.jpg" imageWidth="1966" imageHeight="2761" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>
 	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
-	<TableRegion id="region_1">
-	<Coords points="146,450 1431,450 1431,1590 146,1590"/></TableRegion>
-	<TableRegion id="region_2">
-	<Coords points="176,1590 1392,1590 1392,2425 176,2425"/></TableRegion>
+	<TableRegion id="region_1" lineColour="red" lineSeparators="true" bgColour="yellow" embText="true">
+	<Coords points="146,450 1431,450 1433,1597 146,1582"/></TableRegion>
+	<TableRegion id="region_2" lineColour="red" lineSeparators="true" bgColour="yellow" embText="true">
+	<Coords points="176,1590 1395,1599 1392,2425 176,2425"/></TableRegion>
 	<TextRegion id="r0" type="page-number">
-	<Coords points="810,434 810,358 717,358 717,434"/>
+	<Coords points="789,389 789,407 862,407 862,408 884,408 884,413 794,413 794,421 782,421 782,422 778,422 778,421 734,421 734,412 682,412 682,411 646,411 646,407 679,407 679,406 733,406 733,391 737,391 737,390 740,390 740,389"/>
 	<TextEquiv>
-	<Unicode/></TextEquiv></TextRegion></Page></PcGts>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
