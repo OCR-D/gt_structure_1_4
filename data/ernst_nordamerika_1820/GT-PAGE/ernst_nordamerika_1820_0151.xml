@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-ernst_nordamerika_1820_0151"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-03-22T11:11:09.063</Created><LastChange>2009-09-02T10:56:26</LastChange></Metadata><Page imageFilename="../jpg/ernst_nordamerika_1820_0151.jpg" imageWidth="1498" imageHeight="2274" type="content"><ReadingOrder><OrderedGroup id="d26" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TextRegion type="page-number" id="region_1"><Coords points="495,273 660,273 660,342 495,342"/></TextRegion><TableRegion id="region_2"><Coords points="138,378 1083,378 1083,1803 138,1803"/></TableRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-ernst_nordamerika_1820_0151">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:11:09</Created>
+	<LastChange>2023-09-19T11:52:50</LastChange></Metadata>
+	<Page imageFilename="../jpg/ernst_nordamerika_1820_0151.jpg" imageWidth="1498" imageHeight="2274" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="589,296 589,307 611,307 611,308 612,308 612,312 611,312 611,315 610,315 610,316 609,316 609,318 608,318 608,320 607,320 607,322 606,322 606,325 605,325 605,328 604,328 604,331 595,331 595,330 575,330 575,329 574,329 574,328 554,328 554,311 551,311 551,310 550,310 550,306 551,306 551,305 571,305 571,299 572,299 572,297 573,297 573,296"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TableRegion id="region_2" lineColour="red" lineSeparators="true" bgColour="yellow" embText="true">
+	<Coords points="138,378 1083,378 1083,1803 138,1803"/></TableRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="554,341 554,342 663,342 663,349 662,349 662,350 656,350 656,349 611,349 611,348 506,348 506,349 503,349 503,350 502,350 502,352 497,352 497,351 493,351 493,350 492,350 492,346 493,346 493,342 494,342 494,341"/></SeparatorRegion></Page></PcGts>

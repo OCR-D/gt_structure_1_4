@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-ernst_nordamerika_1820_0152"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-03-22T11:11:09.063</Created><LastChange>2009-09-02T10:56:27</LastChange></Metadata><Page imageFilename="../jpg/ernst_nordamerika_1820_0152.jpg" imageWidth="1499" imageHeight="2274" type="content"><ReadingOrder><OrderedGroup id="d18" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/><RegionRefIndexed index="3" regionRef="region_3"/><RegionRefIndexed index="4" regionRef="region_4"/></OrderedGroup></ReadingOrder><TextRegion type="page-number" id="region_1"><Coords points="831,285 996,285 996,354 831,354"/></TextRegion><TableRegion id="region_2"><Coords points="426,375 1377,375 1377,561 426,561"/></TableRegion><TextRegion type="heading" custom="#heading_level2" id="region_3"><Coords points="471,576 1203,576 1203,693 471,693"/></TextRegion><TableRegion id="region_4"><Coords points="417,696 1359,696 1359,1848 417,1848"/></TableRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-ernst_nordamerika_1820_0152">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:11:09</Created>
+	<LastChange>2023-09-19T11:53:54</LastChange></Metadata>
+	<Page imageFilename="../jpg/ernst_nordamerika_1820_0152.jpg" imageWidth="1499" imageHeight="2274" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="926,310 926,312 946,312 946,313 947,313 947,314 948,314 948,328 949,328 949,330 950,330 950,337 949,337 949,340 948,340 948,341 947,341 947,342 944,342 944,343 941,343 941,344 920,344 920,345 911,345 911,344 910,344 910,343 889,343 889,321 891,321 891,320 909,320 909,312 910,312 910,311 921,311 921,310"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TableRegion id="region_2" lineColour="red" lineSeparators="true" bgColour="yellow" embText="true">
+	<Coords points="426,375 1377,375 1377,561 426,561"/></TableRegion>
+	<TextRegion id="region_3" custom="#heading_level2" type="heading">
+	<Coords points="599,597 599,598 602,598 602,600 706,600 706,604 830,604 830,602 831,602 831,600 833,600 833,599 835,599 835,598 848,598 848,599 921,599 921,600 1006,600 1006,601 1007,601 1007,602 1008,602 1008,603 1103,603 1103,604 1133,604 1133,609 1134,609 1134,610 1135,610 1135,611 1163,611 1163,612 1172,612 1172,613 1173,613 1173,614 1175,614 1175,615 1176,615 1176,616 1177,616 1177,636 1176,636 1176,641 1175,641 1175,642 1174,642 1174,687 1172,687 1172,688 1104,688 1104,687 1075,687 1075,686 1056,686 1056,685 992,685 992,684 868,684 868,687 866,687 866,689 865,689 865,690 860,690 860,684 856,684 856,683 723,683 723,684 722,684 722,686 721,686 721,687 661,687 661,686 592,686 592,684 591,684 591,679 547,679 547,678 536,678 536,668 535,668 535,667 534,667 534,627 495,627 495,626 493,626 493,597"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TableRegion id="region_4" lineColour="red" lineSeparators="true" bgColour="yellow" embText="true">
+	<Coords points="417,696 1359,696 1359,1848 417,1848"/></TableRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="843,351 843,352 850,352 850,353 869,353 869,354 882,354 882,355 1002,355 1002,362 884,362 884,361 848,361 848,360 833,360 833,359 832,359 832,355 833,355 833,353 835,353 835,352 838,352 838,351"/></SeparatorRegion></Page></PcGts>
