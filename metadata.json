@@ -45,10 +45,10 @@
   "format": "Page-XML",
   "transcription-guidelines": "OCR-D-GT-Guideline, Part: Structur Ground Truth https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html",
   "volume": {
-    "TxtRegion": "4829",
-    "GraphRegion": "90",
+    "TxtRegion": "5251",
+    "GraphRegion": "92",
     "TabRegion": "40",
-    "SepRegion": "177",
+    "SepRegion": "250",
     "MathRegion": "16",
     "Page": "1256"
   },
@@ -66,7 +66,6 @@
     "granularity/physical/document-related/page",
     "granularity/logical/document-related/paragraph",
     "data-attributes/document-related/structural/footnotes",
-    "data-attributes/document-related/structural/footnote-continued",
     "data-attributes/document-related/structural/endnote",
     "data-attributes/document-related/structural/running-titles",
     "data-attributes/document-related/visual/text/font/typeface/blackletter",
