@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-fabricius_oratorie_1724_0576"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:38:38.634</Created><LastChange>2013-03-15T19:08:20</LastChange></Metadata><Page imageFilename="../jpg/fabricius_oratorie_1724_0576.jpg" imageWidth="2000" imageHeight="3391" type="content"><ReadingOrder><OrderedGroup id="d18" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/><RegionRefIndexed index="3" regionRef="region_3"/><RegionRefIndexed index="4" regionRef="region_4"/><RegionRefIndexed index="5" regionRef="region_5"/><RegionRefIndexed index="6" regionRef="region_6"/></OrderedGroup></ReadingOrder><TextRegion type="other" custom="#back_paragraph" id="region_1"><Coords points="233,99 1753,99 1753,2881 233,2881"/></TextRegion><TextRegion type="header" id="region_2"><Coords points="716,143 1374,143 1374,248 716,248"/></TextRegion><TextRegion type="paragraph" custom="#list_item" id="region_3"><Coords points="383,276 1738,276 1738,1568 383,1568"/></TextRegion><TextRegion type="heading" custom="#heading_level2" id="region_4"><Coords points="973,1573 1095,1573 1095,1671 973,1671"/></TextRegion><TextRegion type="paragraph" custom="#list_item" id="region_5"><Coords points="376,1676 1701,1676 1701,2788 376,2788"/></TextRegion><TextRegion type="catch-word" id="region_6"><Coords points="1456,2779 1678,2779 1678,2861 1456,2861"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-fabricius_oratorie_1724_0576">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:38:38</Created>
+	<LastChange>2023-10-09T14:36:42</LastChange></Metadata>
+	<Page imageFilename="../jpg/fabricius_oratorie_1724_0576.jpg" imageWidth="2000" imageHeight="3391" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/>
+	<RegionRefIndexed regionRef="region_5" index="3"/>
+	<RegionRefIndexed regionRef="region_6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" type="header">
+	<Coords points="716,143 1374,143 1374,248 716,248"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#list_item" type="paragraph">
+	<Coords points="383,276 1738,276 1738,1568 383,1568"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#heading_level2" type="heading">
+	<Coords points="973,1573 1095,1573 1095,1671 973,1671"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#list_item" type="paragraph">
+	<Coords points="376,1676 1701,1676 1701,2788 376,2788"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_6" type="catch-word">
+	<Coords points="1456,2779 1678,2779 1678,2861 1456,2861"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
