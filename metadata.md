@@ -10,6 +10,8 @@
       <dd>deu</dd>
       <dt>Format:</dt>
       <dd>Page-XML</dd>
+      <dt>Production software:</dt>
+      <dd>Aletheia</dd>
       <dt>Time:</dt>
       <dd>1600-1900</dd>
       <dt>GT Type:</dt>
@@ -19,7 +21,8 @@
       <summary>More Information</summary>
       <dl class="more-grid">
          <dt>Transcription Guidelines:</dt>
-         <dd>OCR-D-GT-Guideline, Part: Structur Ground Truth https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
+         <dd>OCR-D-GT-Guideline, Part: Structur Ground Truth
+https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
          <dt>License:</dt>
          <dd>CC0 1.0</dd>
          <dt>Project:</dt>
@@ -121,6 +124,11 @@ An image database</p>
          <strong>Description: </strong>Titles repeated each page</p>
    </details>
    <details>
+      <summary>data-attributes/document-related/visual/text/drop-caps</summary>
+      <p>
+         <strong>Description: </strong>Drap capitals (large capitals at beginning of paragraph)</p>
+   </details>
+   <details>
       <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
       <p>
          <strong>Description: </strong>Antiqua font (more modern)</p>
@@ -164,7 +172,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_1_4/releases/download/v1.1.3/bagitDump-v19.zip">Current version download: bagitDump-v19.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_1_4/releases/download/v1.1.4/bagitDump-v20.zip">Current version download: bagitDump-v20.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_1_4/releases">Version archive</a>
@@ -324,13 +332,13 @@ An image database</p>
       </thead>
       <tbody>
          <tr>
-            <td>5251</td>
+            <td>5246</td>
             <td>0</td>
             <td>0</td>
-            <td>92</td>
+            <td>95</td>
             <td>40</td>
             <td>0</td>
-            <td>250</td>
+            <td>278</td>
             <td>16</td>
             <td>0</td>
             <td>0</td>
