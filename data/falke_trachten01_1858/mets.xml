@@ -295,328 +295,328 @@
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0013.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0013.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0020.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0020.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0021.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0021.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0022.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0022.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0023.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0023.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0006"
                     GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0024.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0024.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0007"
                     GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0025.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0025.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0008"
                     GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0026.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0026.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0009"
                     GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0027.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0027.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0010"
                     GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0028.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0028.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0011"
                     GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0029.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0029.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0012"
                     GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0030.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0030.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0013"
                     GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0031.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0031.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0014"
                     GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0032.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0032.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0015"
                     GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0033.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0033.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0016"
                     GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0034.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0034.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0017"
                     GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0035.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0035.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0018"
                     GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0036.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0036.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0019"
                     GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0037.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0037.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0020"
                     GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0040.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0040.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0013.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0013.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0020.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0020.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0021.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0021.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0022.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0022.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0023.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0023.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0006"
                     GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0024.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0024.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0007"
                     GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0025.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0025.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0008"
                     GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0026.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0026.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0009"
                     GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0027.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0027.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0010"
                     GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0028.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0028.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0011"
                     GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0029.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0029.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0012"
                     GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0030.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0030.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0013"
                     GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0031.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0031.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0014"
                     GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0032.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0032.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0015"
                     GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0033.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0033.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0016"
                     GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0034.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0034.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0017"
                     GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0035.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0035.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0018"
                     GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0036.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0036.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0019"
                     GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0037.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0037.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0020"
                     GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/falke_trachten01_1858_0040.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/falke_trachten01_1858_0040.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="DEFAULT">
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0013.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0013.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0020.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0020.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0021.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0021.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0022.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0022.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0005" GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0023.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0023.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0006" GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0024.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0024.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0007" GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0025.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0025.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0008" GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0026.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0026.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0009" GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0027.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0027.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0010" GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0028.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0028.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0011" GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0029.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0029.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0012" GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0030.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0030.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0013" GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0031.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0031.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0014" GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0032.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0032.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0015" GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0033.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0033.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0016" GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0034.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0034.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0017" GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0035.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0035.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0018" GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0036.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0036.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0019" GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0037.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0037.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0020" GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0040.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0040.jpg"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0013.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0013.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0020.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0020.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0021.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0021.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0022.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0022.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0005" GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0023.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0023.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0006" GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0024.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0024.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0007" GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0025.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0025.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0008" GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0026.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0026.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0009" GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0027.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0027.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0010" GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0028.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0028.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0011" GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0029.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0029.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0012" GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0030.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0030.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0013" GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0031.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0031.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0014" GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0032.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0032.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0015" GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0033.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0033.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0016" GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0034.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0034.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0017" GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0035.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0035.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0018" GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0036.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0036.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0019" GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0037.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0037.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0020" GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/falke_trachten01_1858_0040.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/falke_trachten01_1858_0040.jpg"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>
@@ -633,7 +633,7 @@
       </mets:div>
    </mets:structMap>
    <mets:structMap TYPE="PHYSICAL">
-      <mets:div TYPE="physSequence" ID="phys_0000" DMDID="DMDGT_0000">
+      <mets:div TYPE="physSequence" ID="phys_0000">
          <mets:div TYPE="page" ORDER="1" ID="phys_0001" DMDID="DMDGT_0001">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>

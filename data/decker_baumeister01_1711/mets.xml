@@ -180,120 +180,120 @@
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/decker_baumeister01_1711_0004.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/decker_baumeister01_1711_0004.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/decker_baumeister01_1711_0005.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/decker_baumeister01_1711_0005.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/decker_baumeister01_1711_0006.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/decker_baumeister01_1711_0006.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/decker_baumeister01_1711_0007.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/decker_baumeister01_1711_0007.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/decker_baumeister01_1711_0008.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/decker_baumeister01_1711_0008.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0006"
                     GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/decker_baumeister01_1711_0009.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/decker_baumeister01_1711_0009.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0007"
                     GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/decker_baumeister01_1711_0010.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/decker_baumeister01_1711_0010.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/decker_baumeister01_1711_0004.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/decker_baumeister01_1711_0004.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/decker_baumeister01_1711_0005.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/decker_baumeister01_1711_0005.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/decker_baumeister01_1711_0006.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/decker_baumeister01_1711_0006.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/decker_baumeister01_1711_0007.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/decker_baumeister01_1711_0007.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/decker_baumeister01_1711_0008.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/decker_baumeister01_1711_0008.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0006"
                     GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/decker_baumeister01_1711_0009.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/decker_baumeister01_1711_0009.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0007"
                     GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/decker_baumeister01_1711_0010.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/decker_baumeister01_1711_0010.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="DEFAULT">
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/decker_baumeister01_1711_0004.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/decker_baumeister01_1711_0004.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/decker_baumeister01_1711_0005.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/decker_baumeister01_1711_0005.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/decker_baumeister01_1711_0006.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/decker_baumeister01_1711_0006.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/decker_baumeister01_1711_0007.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/decker_baumeister01_1711_0007.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0005" GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/decker_baumeister01_1711_0008.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/decker_baumeister01_1711_0008.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0006" GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/decker_baumeister01_1711_0009.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/decker_baumeister01_1711_0009.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0007" GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/decker_baumeister01_1711_0010.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/decker_baumeister01_1711_0010.jpg"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/decker_baumeister01_1711_0004.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/decker_baumeister01_1711_0004.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/decker_baumeister01_1711_0005.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/decker_baumeister01_1711_0005.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/decker_baumeister01_1711_0006.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/decker_baumeister01_1711_0006.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/decker_baumeister01_1711_0007.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/decker_baumeister01_1711_0007.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0005" GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/decker_baumeister01_1711_0008.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/decker_baumeister01_1711_0008.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0006" GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/decker_baumeister01_1711_0009.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/decker_baumeister01_1711_0009.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0007" GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/decker_baumeister01_1711_0010.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/decker_baumeister01_1711_0010.jpg"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>
@@ -310,7 +310,7 @@
       </mets:div>
    </mets:structMap>
    <mets:structMap TYPE="PHYSICAL">
-      <mets:div TYPE="physSequence" ID="phys_0000" DMDID="DMDGT_0000">
+      <mets:div TYPE="physSequence" ID="phys_0000">
          <mets:div TYPE="page" ORDER="1" ID="phys_0001" DMDID="DMDGT_0001">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>

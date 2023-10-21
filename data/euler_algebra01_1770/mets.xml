@@ -294,344 +294,344 @@
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0001.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0001.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0003.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0003.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0004.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0004.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0005.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0005.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0007.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0007.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0006"
                     GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0008.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0008.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0007"
                     GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0009.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0009.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0008"
                     GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0010.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0010.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0009"
                     GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0011.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0011.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0010"
                     GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0013.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0013.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0011"
                     GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0015.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0015.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0012"
                     GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0020.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0020.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0013"
                     GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0021.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0021.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0014"
                     GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0025.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0025.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0015"
                     GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0027.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0027.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0016"
                     GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0028.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0028.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0017"
                     GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0029.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0029.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0018"
                     GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0032.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0032.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0019"
                     GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0033.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0033.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0020"
                     GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0035.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0035.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0021"
                     GROUPID="OCR-D-IMG_0021">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0194.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0194.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0001.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0001.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0003.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0003.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0004.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0004.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0005.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0005.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0007.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0007.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0006"
                     GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0008.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0008.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0007"
                     GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0009.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0009.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0008"
                     GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0010.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0010.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0009"
                     GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0011.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0011.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0010"
                     GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0013.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0013.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0011"
                     GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0015.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0015.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0012"
                     GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0020.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0020.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0013"
                     GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0021.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0021.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0014"
                     GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0025.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0025.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0015"
                     GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0027.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0027.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0016"
                     GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0028.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0028.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0017"
                     GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0029.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0029.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0018"
                     GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0032.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0032.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0019"
                     GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0033.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0033.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0020"
                     GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0035.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0035.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0021"
                     GROUPID="OCR-D-IMG_0021">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/euler_algebra01_1770_0194.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/euler_algebra01_1770_0194.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="DEFAULT">
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0001.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0001.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0003.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0003.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0004.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0004.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0005.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0005.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0005" GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0007.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0007.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0006" GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0008.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0008.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0007" GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0009.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0009.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0008" GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0010.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0010.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0009" GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0011.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0011.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0010" GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0013.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0013.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0011" GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0015.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0015.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0012" GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0020.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0020.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0013" GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0021.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0021.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0014" GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0025.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0025.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0015" GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0027.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0027.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0016" GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0028.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0028.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0017" GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0029.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0029.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0018" GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0032.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0032.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0019" GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0033.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0033.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0020" GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0035.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0035.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0021" GROUPID="OCR-D-IMG_0021">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0194.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0194.jpg"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0001.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0001.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0003.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0003.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0004.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0004.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0005.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0005.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0005" GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0007.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0007.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0006" GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0008.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0008.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0007" GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0009.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0009.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0008" GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0010.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0010.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0009" GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0011.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0011.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0010" GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0013.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0013.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0011" GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0015.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0015.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0012" GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0020.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0020.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0013" GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0021.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0021.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0014" GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0025.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0025.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0015" GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0027.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0027.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0016" GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0028.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0028.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0017" GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0029.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0029.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0018" GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0032.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0032.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0019" GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0033.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0033.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0020" GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0035.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0035.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0021" GROUPID="OCR-D-IMG_0021">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/euler_algebra01_1770_0194.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/euler_algebra01_1770_0194.jpg"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>
@@ -644,7 +644,7 @@
       </mets:div>
    </mets:structMap>
    <mets:structMap TYPE="PHYSICAL">
-      <mets:div TYPE="physSequence" ID="phys_0000" DMDID="DMDGT_0000">
+      <mets:div TYPE="physSequence" ID="phys_0000">
          <mets:div TYPE="page" ORDER="1" ID="phys_0001" DMDID="DMDGT_0001">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
