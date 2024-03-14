@@ -1,7 +1,7 @@
 {
   "schema": "https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json",
   "title": "gt_structure_1_4",
-  "url": "https://github.com/tboenig/gt_structure_1_4",
+  "url": "https://github.com/OCR-D/gt_structure_1_4",
   "authors": [
     {
       "name": "Matthias",
@@ -46,7 +46,7 @@
   "gtTyp": "data_structure",
   "format": "Page-XML",
   "transcription-guidelines": "OCR-D-GT-Guideline, Part: Structur Ground Truth\nhttps://ocr-d.de/en/gt-guidelines/trans/structur_gt.html",
-  "volume": {
+  "gtvolume": {
     "TxtRegion": "5246",
     "GraphRegion": "95",
     "TabRegion": "40",
