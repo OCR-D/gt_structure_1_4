@@ -1,6 +1,4 @@
-
-schema: >-
-  https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
+schema: https://tboenig.github.io/gt-metadata/schema/2023-10-25/schema.json
 title: gt_structure_1_4
 url: https://github.com/OCR-D/gt_structure_1_4
 authors:
@@ -21,8 +19,8 @@ language:
   - deu
 production-software: Aletheia
 script:
-  - Latn
-  - Goth
+  - iso: Latn
+  - iso: Goth
 script-type: print
 time:
   notBefore: '1600'
@@ -33,8 +31,9 @@ hands:
 license:
   - name: CC0 1.0
     url: https://creativecommons.org/licenses/zero/1.0/
-gtTyp: data_structure
+gtType: data_structure
 format: Page-XML
+citation-file-link: https://github.com/OCR-D/gt_structure_1_4/blob/main/CITATION.cff
 transcription-guidelines: |-
   OCR-D-GT-Guideline, Part: Structur Ground Truth
   https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html
