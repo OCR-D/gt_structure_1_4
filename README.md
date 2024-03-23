@@ -12,7 +12,7 @@
       <dt id="GTT">GT Type:</dt>
       <dd>data_structure</dd>
       <dt id="License">License:</dt>
-      <dd>CC0 1.0</dd>
+      <dd>CC0-1.0</dd>
       <dt id="Guidelines">Transcription Guidelines:</dt>
       <dd>OCR-D-GT-Guideline, Part: Structur Ground Truth
 https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
