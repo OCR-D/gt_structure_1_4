@@ -38,7 +38,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
             <th>MusicRegion</th>
             <th>AdRegion</th>
             <th>NoiseRegion</th>
-            <th>UnkownRegion</th>
+            <th>UnknownRegion</th>
             <th>CustomRegion</th>
             <th>TextLine</th>
             <th>Page</th>
@@ -84,7 +84,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <th>MusicRegion</th>
                   <th>AdRegion</th>
                   <th>NoiseRegion</th>
-                  <th>UnkownRegion</th>
+                  <th>UnknownRegion</th>
                   <th>CustomRegion</th>
                   <th>TextLine</th>
                   <th>Page</th>
