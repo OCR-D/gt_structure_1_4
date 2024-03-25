@@ -100,10 +100,10 @@
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lyRauschen.html"
                         target="_blank">NoiseRegion</a>
                   </dd>
-                  <dt>UnkownRegion</dt>
+                  <dt>UnknownRegion</dt>
                   <dd>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lySonstiges.html"
-                        target="_blank">UnkownRegion</a>
+                        target="_blank">UnknownRegion</a>
                   </dd>
                   <dt>CustomRegion</dt>
                   <dd>CustomRegion</dd>
@@ -129,7 +129,7 @@
          <th>MusicRegion</th>
          <th>AdRegion</th>
          <th>NoiseRegion</th>
-         <th>UnkownRegion</th>
+         <th>UnknownRegion</th>
          <th>CustomRegion</th>
          <th>TextLine</th>
          <th>Page</th>
