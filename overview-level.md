@@ -34,7 +34,7 @@
          <td class="time" colspan="2">1600 - 1900</td>
       </tr>
       <tr>
-         <td class="guidelines" colspan="2">OCR-D-GT-Guideline, Part: Structur Ground Truth
+         <td class="guidelines" colspan="2">OCR-D-GT-Guideline, Part: Structure Ground Truth
 https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</td>
       </tr>
       <tr>

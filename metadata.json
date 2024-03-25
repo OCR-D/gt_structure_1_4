@@ -50,7 +50,7 @@
   "gtType": "data_structure",
   "format": "Page-XML",
   "citation-file-link": "https://github.com/OCR-D/gt_structure_1_4/blob/main/CITATION.cff",
-  "transcription-guidelines": "OCR-D-GT-Guideline, Part: Structur Ground Truth\nhttps://ocr-d.de/en/gt-guidelines/trans/structur_gt.html",
+  "transcription-guidelines": "OCR-D-GT-Guideline, Part: Structure Ground Truth\nhttps://ocr-d.de/en/gt-guidelines/trans/structur_gt.html",
   "gtvolume": {
     "TxtRegion": "5246",
     "GraphRegion": "95",
