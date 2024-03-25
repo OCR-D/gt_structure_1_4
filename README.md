@@ -14,7 +14,7 @@
       <dt id="License">License:</dt>
       <dd>CC0-1.0</dd>
       <dt id="Guidelines">Transcription Guidelines:</dt>
-      <dd>OCR-D-GT-Guideline, Part: Structur Ground Truth
+      <dd>OCR-D-GT-Guideline, Part: Structure Ground Truth
 https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       <dt id="Project">Project:</dt>
       <dd>OCR-D</dd>

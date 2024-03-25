@@ -36,7 +36,7 @@ You can find the old readme file in the readme folder.
 ├── METADATA.yml
 ├── LICENSE.md
 └── data
-      └── document_title or identifer
+      └── document_title or identifier
           ├── GT-PAGE
           └── GT-LINE
             
