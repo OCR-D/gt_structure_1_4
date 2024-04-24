@@ -21,19 +21,15 @@
             <mods:mods>
                <mods:location>
                   <mods:physicalLocation>UB Heidelberg</mods:physicalLocation>
-                  <mods:shelfLocator>UB Heidelberg L 2705 FOL RES : [1],1</mods:shelfLocator>
-                  <mods:url/>
+                  <mods:shelfLocator>UB Heidelberg, L 2705 FOL RES : [1],1</mods:shelfLocator>
+                  <mods:url>https://katalog.ub.uni-heidelberg.de/titel/66262361</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
                      <mods:placeTerm type="text">Augsburg</mods:placeTerm>
                   </mods:place>
                   <mods:dateIssued encoding="w3cdtf" keyDate="yes">1711</mods:dateIssued>
-                  <mods:publisher>
-                     Wolff
-                   
-                     Detleffsen
-                  </mods:publisher>
+                  <mods:publisher>Detleffsen</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf">2018-05-16T09:09:13Z</mods:dateCaptured>
@@ -67,7 +63,7 @@
                   </mods:role>
                   <mods:namePart type="family">Decker</mods:namePart>
                   <mods:namePart type="given">Paul</mods:namePart>
-                  <mods:displayForm>Paul Decker</mods:displayForm>
+                  <mods:displayForm>Decker, Paul</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
                   <mods:extent>[6], [59] gef. Bl. : Frontisp., 59 Ill. (Kupferst.). ; quer-2º</mods:extent>

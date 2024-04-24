@@ -20,29 +20,34 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>UB Heidelberg</mods:physicalLocation>
+                  <mods:shelfLocator>UB Heidelberg, L 2705 Gross Folio RES::1</mods:shelfLocator>
+                  <mods:url>https://katalog.ub.uni-heidelberg.de/titel/66262362</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Augsburg</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1713</mods:dateIssued>
+                  <mods:publisher>Detleffsen</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Fachtext</mods:classification>
+               <mods:classification authority="DTA">Kunst</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Deß Fürstlichen Baumeisters Anhang zum Ersten Theil</mods:title>
+                  <mods:subTitle>Welcher nicht allein den zum Fürstlichen Pallast gehörigen Triumph-Bogen, Ehren-Saul, Garten [et]c. sondern auch einige andere Fürstliche Lust-Häuser vorstellet</mods:subTitle>
                </mods:titleInfo>
+               <mods:part order="1">
+                  <mods:detail type="volume">
+                     <mods:number>Anhang zum Erster Theil</mods:number>
+                  </mods:detail>
+               </mods:part>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
@@ -53,12 +58,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Decker</mods:namePart>
+                  <mods:namePart type="given">Paul</mods:namePart>
+                  <mods:displayForm>Decker, Paul</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[1] Bl., [40] Taf.</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +73,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Deß Fürstlichen Baumeisters Anhang zum Ersten Theil</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>

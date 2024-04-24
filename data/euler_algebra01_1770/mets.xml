@@ -20,29 +20,36 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                     <mods:physicalLocation>SUB Göttingen</mods:physicalLocation>
+                  <mods:shelfLocator>SUB Göttingen, 8 MATH II, 2084:1</mods:shelfLocator>
+                     <mods:url/>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">St. Petersburg</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1770</mods:dateIssued>
+                  <mods:publisher>
+                     Kays. Acad. der Wissenschaften
+                  </mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Fachtext</mods:classification>
+               <mods:classification authority="DTA">Mathematik</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Vollständige Anleitung zur Algebra</mods:title>
+                  <mods:subTitle>Erster Theil: Von den verschiedenen Rechnungs-Arten, Verhältnißen und Proportionen</mods:subTitle>
                </mods:titleInfo>
+               <mods:part order="1">
+                  <mods:detail type="volume">
+                     <mods:number>Erster</mods:number>
+                  </mods:detail>
+               </mods:part>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
@@ -53,12 +60,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Euler</mods:namePart>
+                  <mods:namePart type="given">Leonhard</mods:namePart>
+                  <mods:displayForm>Euler, Leonhard</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[8] Bl., 356 S.</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +75,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Vollständige Anleitung zur Algebra, Erster Theil: Von den verschiedenen Rechnungs-Arten, Verhältnißen und Proportionen</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
