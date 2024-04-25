@@ -22,16 +22,14 @@
                <mods:location>
                      <mods:physicalLocation>SUB Göttingen</mods:physicalLocation>
                   <mods:shelfLocator>SUB Göttingen, 8 MATH II, 2084:1</mods:shelfLocator>
-                     <mods:url/>
+                  <mods:url>https://opac.sub.uni-goettingen.de/DB=1/XMLPRS=N/PPN?PPN=233607641</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
                      <mods:placeTerm type="text">St. Petersburg</mods:placeTerm>
                   </mods:place>
                   <mods:dateIssued encoding="w3cdtf" keyDate="yes">1770</mods:dateIssued>
-                  <mods:publisher>
-                     Kays. Acad. der Wissenschaften
-                  </mods:publisher>
+                  <mods:publisher>Kays. Acad. der Wissenschaften</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>

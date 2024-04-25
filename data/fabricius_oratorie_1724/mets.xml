@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>SLUB Dresden</mods:physicalLocation>
                   <mods:shelfLocator>SLUB Dresden, Ling.Germ.rec.481.x,misc.1</mods:shelfLocator>
-                  <mods:url>URL: http://slubdd.de/katalog?libero_mab2272256</mods:url>
+                  <mods:url>http://slubdd.de/katalog?libero_mab2272256</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
