@@ -58,7 +58,7 @@
                   <mods:displayForm>Dapper, Olfert</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent>[4] Bl., 658 S., [11] Bl., [6] Bl., [48] gef. Bl : Kupfert., Tbl. r&s, Ill. (Kupferst.), 6 Portr., 33 Ill. und 15 Kt. (Kupferst.)</mods:extent>
+                  <mods:extent>[4] Bl., 658 S., [11] Bl., [6] Bl., [48] gef. Bl : Kupfert., Tbl. r&amp;s, Ill. (Kupferst.), 6 Portr., 33 Ill. und 15 Kt. (Kupferst.)</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
