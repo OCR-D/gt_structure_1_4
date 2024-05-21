@@ -20,7 +20,7 @@ language:
 production-software: Aletheia
 script:
   - iso: Latn
-  - iso: Goth
+  - iso: Latf
 script-type: print
 time:
   notBefore: '1600'
